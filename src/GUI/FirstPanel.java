@@ -11,6 +11,7 @@ import javax.swing.BoxLayout;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
+import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 
 
@@ -20,7 +21,9 @@ public class FirstPanel extends JFrame{
 	
 	private  JButton person; 
 	
-	private  JButton restaurant; 
+	private  JButton restaurant;
+	
+	private JButton help;
 	
 	public FirstPanel(String title){
 		super (title);
@@ -43,6 +46,16 @@ public class FirstPanel extends JFrame{
 			}
 		});
 		
+		
+		help.addActionListener(new ActionListener(){
+			public void actionPerformed(ActionEvent e){
+				String x = "-Select the prompts as you move along.\n-This program is a free trial.\n-If you paid for it then you got ripped off."
+						+ "\n-Professor Imielinski ROCKS!!!\n-Kosti & Adrian 2014.  "  ;
+				JOptionPane.showMessageDialog(null, x, "Help Window", JOptionPane.INFORMATION_MESSAGE);
+				
+			}
+		});
+		
 	}
 	
 	
@@ -52,7 +65,7 @@ public class FirstPanel extends JFrame{
 		personframe.setResizable(true);
 		personframe.setLocationRelativeTo(null);
 		personframe.setVisible(true);
-		personframe.setMinimumSize(new Dimension(450, 280));
+		personframe.setMinimumSize(new Dimension(470, 250));
 	}
 	
 	private void nextrestaurant(){
@@ -61,16 +74,24 @@ public class FirstPanel extends JFrame{
 		restframe.setResizable(true);
 		restframe.setLocationRelativeTo(null);
 		restframe.setVisible(true);
-		restframe.setMinimumSize(new Dimension(350, 350));
+		restframe.setMinimumSize(new Dimension(400, 200));
 	}
 	
 	private void builder(){
 		person = new JButton("Customer");
 		restaurant = new JButton ("Restaurant");
+		help = new JButton ("Help");
+		
 		JLabel instruction = new JLabel("Will you be using this program as a restaurant or a customer?");
 		
 		JPanel inputs = new JPanel();
 		inputs.setLayout(new BoxLayout(inputs, BoxLayout.X_AXIS));
+		inputs.add(person);
+		inputs.add(Box.createRigidArea(new Dimension(10, 0)));
+		inputs.add(restaurant);
+		inputs.add(Box.createRigidArea(new Dimension(10, 0)));
+		inputs.add(help);
+		
 		
 		
 		
@@ -81,12 +102,9 @@ public class FirstPanel extends JFrame{
 		finalpanel.add(instruction);
 		instruction.setAlignmentX(CENTER_ALIGNMENT);
 		finalpanel.add(Box.createRigidArea(new Dimension(0, 20)));
-		finalpanel.add(person);
-		person.setAlignmentX(CENTER_ALIGNMENT);
-		finalpanel.add(Box.createRigidArea(new Dimension(0, 20)));
-		finalpanel.add(restaurant);
-		restaurant.setAlignmentX(CENTER_ALIGNMENT);
-		finalpanel.add(Box.createRigidArea(new Dimension(0, 20)));
+		finalpanel.add(inputs);
+		inputs.setAlignmentX(CENTER_ALIGNMENT);
+		
 		this.add(finalpanel);
 	}
 	
@@ -96,7 +114,7 @@ public class FirstPanel extends JFrame{
 		firstframe.pack();
 		firstframe.setVisible(true);
 		firstframe.setLocationRelativeTo(null);
-		firstframe.setMinimumSize(new Dimension(400, 190));
+		firstframe.setMinimumSize(new Dimension(400, 140));
 		firstframe.setResizable(true);
 		firstframe.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
        

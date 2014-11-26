@@ -1,12 +1,15 @@
 package GUI;
 
 import java.awt.Dimension;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 import javax.swing.Box;
 import javax.swing.BoxLayout;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
+import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
@@ -27,38 +30,73 @@ public class CustPanel extends JFrame {
 		
 		builder();
 		
+		back.addActionListener(new ActionListener(){
+			public void actionPerformed(ActionEvent e){
+				dispose();
+				FirstPanel.main(null);
+				 
+			}
+		});
+		
+		next.addActionListener(new ActionListener(){
+			public void actionPerformed(ActionEvent e1){
+				
+				if (name.getText().equals("") || restaurant.getText().equals("")){
+					error();
+					name.setText("");
+					restaurant.setText("");
+				}
+				else {
+
+					dispose();
+					nextmenu();
+				}
+			}
+		});
 	}
 
+	
+	private void error(){
+		String x = "Error: Please enter your name and the restaurant name ";
+		JOptionPane.showMessageDialog(null, x, "Error", JOptionPane.ERROR_MESSAGE);
+	}
+	
+	private void nextmenu(){
+		JFrame personframe = new CustMenuPanel("Allergy's R Us - Customer Menu");
+		personframe.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		personframe.setResizable(true);
+		personframe.setLocationRelativeTo(null);
+		personframe.setVisible(true);
+		personframe.setMinimumSize(new Dimension(450, 250));
+	}
+	
+	
 	private void builder(){
 		back = new JButton ("Back");
-		next = new JButton ("Display Menu ");
+		next = new JButton ("Display Menu");
 		name = new JTextField();
 		name.setText("");
 		restaurant = new JTextField(); 
 		restaurant.setText("");
 		
-		JLabel info = new JLabel ("Enter your name and current restaurant to view your personalized menu");
+		JLabel info = new JLabel ("Enter your name and current restaurant you are at to view personalized menu");
 		JLabel infoname = new JLabel ("Your Name: ");
 		JLabel inforest = new JLabel ("Restaurant: ");
 		
 		
 		JPanel input = new JPanel (); 
 		input.setLayout(new BoxLayout(input, BoxLayout.X_AXIS));
-		//input.add(Box.createRigidArea(new Dimension(10,0)));
 		input.add(infoname);
 		input.add(Box.createRigidArea(new Dimension(10,0)));
 		input.add(name);
-		//input.add(Box.createRigidArea(new Dimension(10,0)));
 		input.setMaximumSize(new Dimension (360, 30));
 		
 		
 		JPanel input2 = new JPanel(); 
 		input2.setLayout(new BoxLayout(input2, BoxLayout.X_AXIS));
-	//	input2.add(Box.createRigidArea(new Dimension(10,0)));
 		input2.add(inforest);
 		input2.add(Box.createRigidArea(new Dimension(10,0)));
 		input2.add(restaurant);
-		//input2.add(Box.createRigidArea(new Dimension(10,0)));
 		input2.setMaximumSize(new Dimension (360, 30));
 		
 		JPanel input3 = new JPanel(); 
