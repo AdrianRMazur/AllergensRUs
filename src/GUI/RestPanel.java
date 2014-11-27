@@ -16,11 +16,11 @@ import javax.swing.JTextField;
 public class RestPanel extends JFrame{
 
 	
-	private JButton next;
+	private JButton nextpersonalized;
 	
-	private JButton back; 
+	private JButton next; 
 	
-	private JTextField restaurant; 
+	private JTextField name;  
 	
 	public RestPanel(String title) {
 		
@@ -28,24 +28,26 @@ public class RestPanel extends JFrame{
 		
 		builder(); 
 	
-		back.addActionListener(new ActionListener(){
+		nextpersonalized.addActionListener(new ActionListener(){
 			public void actionPerformed(ActionEvent e){
-				dispose();
-				FirstPanel.main(null);
+				
+				if ( name.getText().equals("")){
+					error();
+					name.setText("");
+				}
+				else {
+					custmenu(); 
+					dispose();
+				}
 			}
 		});
 		
 		next.addActionListener(new ActionListener(){
 			public void actionPerformed(ActionEvent e1){
 				
-				if ( restaurant.getText().equals("")){
-					error();
-					restaurant.setText("");
-				}
-				else {
-					prompt(); 
-					
-				}
+				nextmenu(); 
+				dispose();
+				
 			}
 		});
 	}
@@ -56,22 +58,22 @@ public class RestPanel extends JFrame{
 		personframe.setResizable(true);
 		personframe.setLocationRelativeTo(null);
 		personframe.setVisible(true);
-		personframe.setMinimumSize(new Dimension(450, 250));
+		personframe.setMinimumSize(new Dimension(600, 600));
 	}
 	
-	private void prompt(){
-		
-		String x = "Under Penalty of Death: I certify that I am the restaurant manager";
-		int result = JOptionPane.showConfirmDialog(null, x, "Warning", JOptionPane.YES_NO_OPTION);
-		if (result == JOptionPane.YES_OPTION){
-			dispose();
-			nextmenu();
-		}
-		else {
-			restaurant.setText("");
-		}
+	private void custmenu(){
+	
+		JFrame firstframe = new CustPanel("Allergy's R Us - Personalized Menu");
+		firstframe.pack();
+		firstframe.setVisible(true);
+		firstframe.setLocationRelativeTo(null);
+		firstframe.setMinimumSize(new Dimension(400, 185));
+		firstframe.setResizable(true);
+		firstframe.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
 	}
+	
+	
 	
 	private void error(){
 		String x = "Error: Please enter the restaurant name ";
@@ -80,39 +82,54 @@ public class RestPanel extends JFrame{
 	
 	private void builder(){
 		 next = new JButton("Display Menu");
-		 back = new JButton ("Back");
-		 restaurant = new JTextField(); 
+		 nextpersonalized = new JButton ("Display Personalized Menu");
+		 
+		 name = new JTextField(); 
 		
-		JLabel info2 = new JLabel("Restaurant Name:");
-		JLabel info = new JLabel("Please type the restaurant name to display the menu");
+		JLabel info2 = new JLabel(" Name:");
+		JLabel info = new JLabel ("Click here to view the full menu");
+		JLabel info4 = new JLabel ("----- OR -----");
+		JLabel info3 = new JLabel("Enter your name to view your personalized menu");
 		
 		JPanel input = new JPanel();
 		input.setLayout(new BoxLayout(input, BoxLayout.X_AXIS));
 		input.add(info2);
 		input.add(Box.createRigidArea(new Dimension(10,0)));
-		input.add(restaurant);
-		input.setMaximumSize(new Dimension(300, 30));
+		input.add(name);
+		input.setMaximumSize(new Dimension(200, 30));
 		
-		JPanel input2 = new JPanel(); 
-		input2.setLayout(new BoxLayout(input2, BoxLayout.X_AXIS));
-		input2.add(back);
-		input2.add(Box.createRigidArea(new Dimension (20, 0)));
-		input2.add(next);
-		
-		
+
 		
 		JPanel finalpanel = new JPanel ();
 		finalpanel.setLayout(new BoxLayout(finalpanel, BoxLayout.Y_AXIS));
-		finalpanel.add(Box.createRigidArea(new Dimension(0, 20)));
+		finalpanel.add(Box.createRigidArea(new Dimension(0, 15)));
+		
 		finalpanel.add(info);
 		info.setAlignmentX(CENTER_ALIGNMENT);
-		finalpanel.add(Box.createRigidArea(new Dimension(0, 20)));
+		
+		finalpanel.add(Box.createRigidArea(new Dimension(0, 8)));
+		
+		finalpanel.add(next);
+		next.setAlignmentX(CENTER_ALIGNMENT);
+		
+		finalpanel.add(Box.createRigidArea(new Dimension(0, 15)));
+		
+		finalpanel.add(info4);
+		info4.setAlignmentX(CENTER_ALIGNMENT);
+		
+		finalpanel.add(Box.createRigidArea(new Dimension(0, 15)));
+		
+		finalpanel.add(info3);
+		info3.setAlignmentX(CENTER_ALIGNMENT);
+		
+		finalpanel.add(Box.createRigidArea(new Dimension(0, 15)));
+			
 		finalpanel.add(input);
 		input.setAlignmentX(CENTER_ALIGNMENT);
-		finalpanel.add(Box.createRigidArea(new Dimension(0, 20)));
-		finalpanel.add(input2);
-		input2.setAlignmentX(CENTER_ALIGNMENT);
+		finalpanel.add(Box.createRigidArea(new Dimension(0, 10)));
 		
+		finalpanel.add(nextpersonalized);
+		nextpersonalized.setAlignmentX(CENTER_ALIGNMENT);
 		
 		this.add(finalpanel);
 		
