@@ -25,6 +25,9 @@ public class FirstPanel extends JFrame{
 	
 	private JButton help;
 	
+	
+	private JButton admin; 
+	
 	public static JTextField restaurant;
 	
 	public FirstPanel(String title){
@@ -58,6 +61,22 @@ public class FirstPanel extends JFrame{
 			}
 		});
 		
+		
+		admin.addActionListener(new ActionListener(){
+			public void actionPerformed(ActionEvent e){
+				
+				if ( restaurant.getText().equals("")){
+					error();
+					restaurant.setText("");
+				}
+				else {
+					dispose();
+					nextadmin(); 
+				}
+				
+			}
+		});
+		
 	}
 	
 	
@@ -67,13 +86,23 @@ public class FirstPanel extends JFrame{
 	}
 	
 	
+	public static void nextadmin(){
+		JFrame adminframe = new AdminPanel("Allergy's R Us - Admin Page");
+		adminframe.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		adminframe.setResizable(true);
+		adminframe.setLocationRelativeTo(null);
+		adminframe.setVisible(true);
+		adminframe.setMinimumSize(new Dimension(370, 190));
+	}
+	
+	
 	public static void nextrestaurant(){
 		JFrame restframe = new RestPanel("Allergy's R Us - Restaurant Page");
 		restframe.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		restframe.setResizable(true);
 		restframe.setLocationRelativeTo(null);
 		restframe.setVisible(true);
-		restframe.setMinimumSize(new Dimension(370, 270));
+		restframe.setMinimumSize(new Dimension(380, 290));
 	}
 	
 	private void builder(){
@@ -81,6 +110,8 @@ public class FirstPanel extends JFrame{
 		
 		 next = new JButton("Load Restaurant");
 		 restaurant = new JTextField(); 
+		 admin = new JButton ("Admin");
+		 
 		 
 		 help = new JButton ("Help");
 		
@@ -99,7 +130,8 @@ public class FirstPanel extends JFrame{
 		input2.add(next);
 		input2.add(Box.createRigidArea(new Dimension (20, 0)));
 		input2.add(help);
-		
+		input2.add(Box.createRigidArea(new Dimension (20, 0)));
+		input2.add(admin);
 		
 		
 		

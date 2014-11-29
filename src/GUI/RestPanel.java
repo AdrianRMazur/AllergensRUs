@@ -1,5 +1,6 @@
 package GUI;
 
+import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -58,7 +59,7 @@ public class RestPanel extends JFrame{
 		personframe.setResizable(true);
 		personframe.setLocationRelativeTo(null);
 		personframe.setVisible(true);
-		personframe.setMinimumSize(new Dimension(600, 600));
+		personframe.setMinimumSize(new Dimension(400, 185));
 	}
 	
 	private void custmenu(){
@@ -85,7 +86,9 @@ public class RestPanel extends JFrame{
 		 nextpersonalized = new JButton ("Display Personalized Menu");
 		 
 		 name = new JTextField(); 
-		
+		 
+		JLabel info1 = new JLabel("Information for "+FirstPanel.restaurant.getText() +" has been loaded");
+		info1.setForeground(Color.RED);
 		JLabel info2 = new JLabel(" Name:");
 		JLabel info = new JLabel ("Click here to view the full menu");
 		JLabel info4 = new JLabel ("----- OR -----");
@@ -102,6 +105,9 @@ public class RestPanel extends JFrame{
 		
 		JPanel finalpanel = new JPanel ();
 		finalpanel.setLayout(new BoxLayout(finalpanel, BoxLayout.Y_AXIS));
+		finalpanel.add(info1);
+		info1.setAlignmentX(CENTER_ALIGNMENT);
+		
 		finalpanel.add(Box.createRigidArea(new Dimension(0, 15)));
 		
 		finalpanel.add(info);
