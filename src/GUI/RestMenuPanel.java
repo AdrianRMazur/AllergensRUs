@@ -79,7 +79,7 @@ public class RestMenuPanel extends JFrame{
 	
 	public String DBQuery() throws SQLException, ClassNotFoundException{
 		
-        DeleteDbFiles.execute("~", "test", true);
+       // DeleteDbFiles.execute("~", "test", true);
 
         Class.forName("org.h2.Driver");
         Connection conn = DriverManager.getConnection("jdbc:h2:~/test");
@@ -89,12 +89,23 @@ public class RestMenuPanel extends JFrame{
         // from the SQL script file 'init.sql'
         //stat.execute("runscript from 'init.sql'");
 
-       //stat.execute("create table test(id int primary key, name varchar(255))");
+        String current = System.getProperty("user.dir");
+        //System.out.println("Current working directory in Java : " + current);
+
+        
+       stat.execute("DROP TABLE IF EXISTS SERVES; create table Serves As Select * from csvread('"+current+"\\data\\Serves1.0.csv')");
        // stat.execute("insert into test values(1, 'Hello')");
+        
+        
+        
+        
         ResultSet rs;
         ResultSet count;
         count = stat.executeQuery("Select Count(*) From Serves Where Restaurant = '"+restaurantName+"'");
         count.next();
+        
+
+        
         int size= Integer.parseInt(count.getString("Count(*)"));
         data= new Object[size][2];
         //System.out.println("X: " + count.getString("Count(*)"));

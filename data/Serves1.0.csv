@@ -1,401 +1,2001 @@
 id,Restaurant,Food,Day
-1,Osaka Bay Fishery,Rolled Shrimp,Monday
-2,Gabcube,Stuffed peppers,Friday
-3,Fivechat,Spanish rice,Wednesday
-4,Brainverse,Burritos,Friday
-5,Twitterbridge,Rolled Shrimp,Thursday
-6,Jersey Burger,Golabki,Thursday
-7,Osaka Bay Fishery,Curry Chicken,Sunday
-8,Thoughtstorm,Swiss steak,Wednesday
-9,Snaptags,Steamed clams,Tuesday
-10,Topicblab,Lamb w/ vegetables,Tuesday
-11,Divape,Steamed clams,Monday
-12,Centimia,Doughnut,Sunday
-13,Brainbox,Kielbasa ,Wednesday
-14,Tokyo Fish,Penne Vodka,Wednesday
-15,Realpoint,Toaster Strudel,Tuesday
-16,Mydo,Kasza,Monday
-17,King's Takeout,Lamb w/ vegetables,Wednesday
-18,Linkbridge,Golabki,Monday
-19,Piast,Eggs Neptune,Tuesday
-20,Igor's Vodka Shack,Celery Victor,Wednesday
-21,Ailane,Vichyssoise,Friday
-22,Tagopia,Curry Chicken,Tuesday
-23,Horohito's Crab Shack,Cheese dog,Friday
-24,Flipopia,Kasza,Tuesday
-25,Thoughtstorm,Chorizo,Friday
-26,Reallinks,Veggie Burger,Thursday
-27,Reallinks,Doughnut,Saturday
-28,Skilith,Vichyssoise,Monday
-29,The Curry Shack,Tetrazzini,Friday
-30,Topicblab,Tuna casserole,Tuesday
-31,Skimia,Karkówka,Monday
-32,Dazzlesphere,Toaster Strudel,Wednesday
-33,Centimia,Gyro,Wednesday
-34,Dynabox,Pierogi,Wednesday
-35,Wikizz,Eggs Neptune,Saturday
-36,King's Takeout,Vichyssoise,Tuesday
-37,Divape,Domesticated turkey,Thursday
-38,Gevee,Burnt ends,Monday
-39,Edgepulse,Rice and gravy,Tuesday
-40,Pixope,Thousand Island dressing,Sunday
-41,Flipopia,Kielbasa ,Thursday
-42,Meevee,Jumbo Shrimp,Wednesday
-43,Zoonoodle,Chorizo,Wednesday
-44,Avavee,Shrimp Creole,Wednesday
-45,Twitterbridge,Rolled Shrimp,Friday
-46,Rhycero,Thousand Island dressing,Wednesday
-47,Mafioso Pizza,Greek Salad,Monday
-48,Jaxbean,Chicken with Brocoli,Thursday
-49,Burger Queen,Veggie Burger,Tuesday
-50,Outfront stakehouse,Pizza,Monday
-51,Quire,Shrimp Creole,Friday
-52,Igor's Vodka Shack,Carne pizzaiola,Friday
-53,Skimia,Celery Victor,Thursday
-54,Linklinks,Eggo,Friday
-55,Zoomlounge,Generals Tso's Chicken,Saturday
-56,Divape,Burnt ends,Sunday
-57,Ntag,Toaster Strudel,Wednesday
-58,Jabbersphere,Pierogi,Tuesday
-59,Fivespan,Generals Tso's Chicken,Tuesday
-60,Oyoba,Fresh Bread,Thursday
-61,Jayo,Carolina style,Monday
-62,Skibox,Goetta,Thursday
-63,Voomm,Dirty rice,Monday
-64,Rhybox,Doughnut,Friday
-65,Tavu,Penne Vodka,Sunday
-66,Gigaclub,Glorified rice,Sunday
-67,King's Takeout,Dirty rice,Monday
-68,Quimm,Deviled crab,Wednesday
-69,Osaka Bay Fishery,Rolled Shrimp,Monday
-70,Linkbridge,Steak with potatoes,Monday
-71,Tokyo Fish,Kielbasa ,Thursday
-72,Mydeo,Stuffed ham,Wednesday
-73,Mafioso Pizza,Goetta,Thursday
-74,Skinix,Kasza,Friday
-75,Avavee,Vichyssoise,Thursday
-76,Flipopia,Energy bar,Friday
-77,Livefish,Cheese dog,Tuesday
-78,Fivechat,Pizza,Friday
-79,Twinder,Rolled Shrimp,Wednesday
-80,Dynabox,Swiss steak,Thursday
-81,Bubblemix,Surf and turf,Tuesday
-82,Thoughtsphere,Buffalo wing,Satuday
-83,Dazzlesphere,Golabki,Thursday
-84,Dabvine,Salad,Tuesday
-85,Aimbu,Gumbo,Thursday
-86,Quinu,Kotlety,Monday
-87,Fanoodle,Dirty rice,Wednesday
-88,The Curry Shack,Carne pizzaiola,Tuesday
-89,Outfront stakehouse,Domesticated turkey,Tuesday
-90,Jersey Burger,Curry Chicken,Sunday
-91,Linktype,French Onion Soup,Friday
-92,Trupe,Generals Tso's Chicken,Saturday
-93,Youopia,Jumbo Shrimp,Friday
-94,Edgeify,Half-smoke,Tuesday
-95,Yambee,Stuffed ham,Monday
-96,Oyoba,Cajun cuisine,Tuesday
-97,Brainbox,Carne pizzaiola,Monday
-98,Wikivu,Kielbasa ,Tuesday
-99,Twitterbridge,Plain Lobster,Tuesday
-100,Jabbersphere,Burritos,Monday
-101,Kebab Palace,Glorified rice,Monday
-102,Avavee,Gyro,Wednesday
-103,Eadel,Burrito,Thursday
-104,Dynabox,Karkówka,Tuesday
-105,Dabfeed,Hot dog,Wednesday
-106,Yakitri,Eggo,Friday
-107,Jetwire,Jambalaya,Wednesday
-108,Thoughtsphere,Eggs Neptune,Saturday
-109,Bubblemix,Bull roast,Tuesday
-110,Avavee,Burrito,Saturday
-111,Jaloo,Calf's liver and bacon,Friday
-112,Myworks,Turducken,Wednesday
-113,Ailane,Deviled egg,Monday
-114,Youtags,Vichyssoise,Thursday
-115,Camido,Fresh Bread,Monday
-116,Ozu,Hawaiian haystack,Friday
-117,Vidoo,Gumbo,Saturday
-118,Vidoo,Fresh Bread,Monday
-119,Igor's Vodka Shack,Stuffed zucchini,Monday
-120,Igor's Vodka Shack,Eggs Neptune,Thursday
-121,Youspan,Stuffed zucchini,Monday
-122,Mycat,Eggs Benedict,Friday
-123,Bubblemix,Celery Victor,Tuesday
-124,Photospace,Steak with potatoes,Saturday
-125,Pixonyx,Toaster Strudel,Tuesday
-126,Realfire,Karkówka,Thursday
-127,Skilith,Rice and gravy,Saturday
-128,Talane,Shrimp Creole,Saturday
-129,Wordify,Energy bar,Saturday
-130,Eare,Greek Salad,Friday
-131,Vidoo,Pork Fried Rice,Wednesday
-132,Gevee,Turducken,Friday
-133,Fivechat,Carne pizzaiola,Thursday
-134,Devpoint,Deviled egg,Saturday
-135,Divanoodle,Carne pizzaiola,Thursday
-136,Gabcube,Vegie Burger,Sunday
-137,Kebab Palace,Kotlet mielony,Wednesday
-138,Realcube,Kasza,Monday
-139,Photojam,Vichyssoise,Thursday
-140,Aimbu,Cheese dog,Tuesday
-141,Shufflebeat,Dirty rice,Monday
-142,Meezzy,Celery Victor,Thursday
-143,Meevee,Rice and gravy,Monday
-144,Osaka Bay Fishery,Vegie Burger,Friday
-145,Babbleblab,Eggs Neptune,Tuesday
-146,Devshare,Jambalaya,Tuesday
-147,Dynava,Rice and gravy,Tuesday
-148,Kazu,French Onion Soup,Friday
-149,Trupe,Hokkien fried rice,Monday
-150,Skimia,Gyro,Thursday
-151,Skilith,Jambalaya,Sunday
-152,Piast,Carne pizzaiola,Monday
-153,Zooxo,Carolina style,Wednesday
-154,Flipbug,Waffle,Friday
-155,Flipopia,Swiss steak,Monday
-156,Livefish,Pierogi,Monday
-157,Yoveo,Pork Fried Rice,Wednesday
-158,Centizu,Eggo,Wednesday
-159,Lazzy,Toaster Strudel,Tuesday
-160,Zoomlounge,Italian hot dog,Friday
-161,Linkbridge,Tomato compote,Saturday
-162,Gigaclub,Energy bar,Wednesday
-163,Abatz,Toaster Strudel,Friday
-164,Youfeed,Jambalaya,Monday
-165,Eidel,Turkey Burger,Friday
-166,Abatz,Fresh Bread,Monday
-167,Jaxbean,Turducken,Sunday
-168,Tagfeed,Cowboy Burger,Sunday
-169,Talane,Hawaiian haystack,Monday
-170,Yata,Pierogi,Saturday
-171,Devbug,Taco,Sunday
-172,Realfire,Burnt ends,Saturday
-173,Latz,Chicken Bog,Sunday
-174,Devify,Karkawka,Friday
-175,Bubblemix,Calf's liver and bacon,Tuesday
-176,Demivee,Steamed clams,Tuesday
-177,Kwinu,Goetta,Thursday
-178,Trudeo,Steamed clams,Thursday
-179,Wikizz,Eggo,Wednesday
-180,Dabshots,Chorizo,Tuesday
-181,Edgeify,Stuffed peppers,Thursday
-182,King's Takeout,Hot Dog,Wednesday
-183,Piast,Vegie Burger,Friday
-184,Lazzy,Chorizo,Tuesday
-185,Npath,Kielbasa,Friday
-186,Yamia,Kotlet mielony,Friday
-187,Feedbug,Half-smoke,Monday
-188,Fivespan,Veggie Burger,Sunday
-189,Ozu,Buffalo wing,Friday
-190,Quinu,Tomato compote,Thursday
-191,Divavu,Calf's liver and bacon,Friday
-192,Youopia,Dirty rice,Friday
-193,Pixoboo,Kielbasa ,Monday
-194,Mafioso Pizza,Tuna casserole,Saturday
-195,King's Takeout,Burnt ends,Thursday
-196,Flipopia,Salad,Thursday
-197,Roombo,Energy bar,Thursday
-198,Realcube,Rice and gravy,Saturday
-199,Abatz,Deviled egg,Monday
-200,LiveZ,Stuffed ham,Tuesday
-201,Skilith,Vichyssoise,Monday
-202,Kazu,Stuffed ham,Monday
-203,Trupe,Hokkien fried rice,Monday
-204,Topicstorm,Rolled Shrimp,Wednesday
-205,Oyonder,Lamb w/ vegetables,Tuesday
-206,Mycat,Swiss steak,Wednesday
-207,Devbug,Bigos,Thursday
-208,Thoughtstorm,Tuna casserole,Saturday
-209,Leenti,Surf and turf,Thursday
-210,Trudoo,Italian hot dog,Monday
-211,Rhycero,Surf and turf,Monday
-212,King's Takeout,Chaudin,Monday
-213,Linkbridge,Half-smoke,Friday
-214,Mydeo,Gyro,Wednesday
-215,Kebab Palace,Karkówka,Sunday
-216,Tagcat,Taco,Saturday
-217,Dynabox,Rice and gravy,Tuesday
-218,Skimia,Domesticated turkey,Wednesday
-219,Shufflebeat,Gyro,Monday
-220,Demivee,Salad,Friday
-221,Devpoint,Dirty rice,Saturday
-222,Edgepulse,Hot dog,Wednesday
-223,Zoonoodle,Turkey Burger,Saturday
-224,Linkbridge,Hot dog,Thursday
-225,Feedbug,Gumbo,Sunday
-226,Kazu,Half-smoke,Friday
-227,Oodoo,Rolled Shrimp,Monday
-228,Dynabox,Hokkien fried rice,Wednesday
-229,Igor's Vodka Shack,Hokkien fried rice,Wednesday
-230,Wikizz,Tuna casserole,Sunday
-231,Trupe,Tuna casserole,Saturday
-232,Gabcube,Spanish rice,Monday
-233,Voolith,Tetrazzini,Wednesday
-234,Bubblemix,Swiss steak,Tuesday
-235,Devpoint,Bookbinder Soup,Tuesday
-236,Dynava,Buffalo wing,Saturday
-237,Tazzy,Cheese dog,Tuesday
-238,Tanoodle,Tuna casserole,Monday
-239,Centimia,Gumbo,Wednesday
-240,Trilith,Tuna casserole,Wednesday
-241,Bubblemix,Shrimp Scampi,Tuesday
-242,Mybuzz,Chorizo,Friday
-243,Kimia,Eggs Benedict,Saturday
-244,Roomm,Fish Fillet,Wednesday
-245,Trudeo,Salad,Wednesday
-246,Tagtune,Waffle,Friday
-247,Youtags,Hot Dog,Friday
-248,Jetpulse,Tuna casserole,Friday
-249,Dabshots,Kielbasa ,Thursday
-250,Igor's Vodka Shack,Surf and turf,Tuesday
-251,Mymm,Kielbasa ,Monday
-252,Topicblab,Italian hot dog,Thursday
-253,Riffwire,Brunswick stew,Thursday
-254,Yakidoo,Chicken bog,Saturday
-255,Osaka Bay Fishery,Cowboy Burger,Thursday
-256,Devpulse,Bull roast,Thursday
-257,Trunyx,Half-smoke,Wednesday
-258,InnoZ,Gumbo,Sunday
-259,Yodoo,Rolled Shrimp,Monday
-260,Skilith,Stuffed peppers,Saturday
-261,Bluezoom,Curry Chicken,Thursday
-262,Meevee,Goetta,Sunday
-263,Demizz,Deviled egg,Thursday
-264,Mydeo,Eggs Neptune,Monday
-265,Tanoodle,Burrito,Monday
-266,Yadel,Pork Fried Rice,Sunday
-267,Jabberbean,Rolled Shrimp,Tuesday
-268,Osaka Bay Fishery,Penne Vodka,Friday
-269,Innotype,Burrito,Thursday
-270,Burger Queen,Toaster Strudel,Monday
-271,Realfire,Eggo,Thursday
-272,Digitube,Kotlet mielony,Saturday
-273,Outfront stakehouse,Golabki,Friday
-274,Youtags,Gumbo,Sunday
-275,Snaptags,Kielbasa ,Saturday
-276,Linklinks,Salad,Saturday
-277,Linklinks,Thousand Island dressing,Monday
-278,Tavu,Brunswick stew,Sunday
-279,Devpoint,Pasta With Chicken,Thursday
-280,Twitterwire,Glorified rice,Monday
-281,Smith's Grill,Deviled crab,Wednesday
-282,Wordware,Veggie Burger,Wednesday
-283,Devpulse,Sushi Roll,Thursday
-284,Trudoo,Rolled Shrimp,Tuesday
-285,Divape,Salad,Friday
-286,Ozu,Calf's liver and bacon,Friday
-287,Mydeo,Buffalo wing,Saturday
-288,Wikizz,Brunswick stew,Wednesday
-289,Piast,Gyro,Friday
-290,Edgepulse,Rolled Shrimp,Friday
-291,Osaka Bay Fishery,Dirty rice,Thursday
-292,Pixonyx,Italian hot dog,Monday
-293,Camimbo,Chicken with Brocoli,Tuesday
-294,Eayo,Hokkien fried rice,Friday
-295,Realmix,Curry Chicken,Sunday
-296,Thoughtsphere,Rolled Shrimp,Monday
-297,Lazzy,Swiss steak,Wednesday
-298,Eabox,Buffalo wing,Saturday
-299,Eadel,Energy bar,Tuesday
-300,Meezzy,Vegie Burger,Friday
-301,Trunyx,Kotlet mielony,Friday
-302,Osaka Bay Fishery,Doughnut,Saturday
-303,Burger Queen,Curry Chicken,Thursday
-304,Jamia,Kasza,Monday
-305,Livefish,Buffalo wing,Tuesday
-306,Twitterbridge,Fresh Bread,Friday
-307,Dynava,Shrimp Scampi,Sunday
-308,Brightdog,Jambalaya,Tuesday
-309,Meeveo,Golabki,Tuesday
-310,Riffpedia,Turducken,Friday
-311,Yoveo,Celery Victor,Friday
-312,Yakidoo,Bigos,Wednesday
-313,Horohito's Crab Shack,Drunken chicken,Thursday
-314,Flipopia,Glorified rice,Thursday
-315,Tazzy,Drunken chicken,Monday
-316,Voonder,Fish Fillet,Tuesday
-317,Mycat,Chorizo,Friday
-318,Twitterbridge,Taco,Saturday
-319,Rhycero,Steak with potatoes,Thursday
-320,Yabox,Goetta,Wednesday
-321,Yodoo,Jumbo Shrimp,Friday
-322,Geba,Thousand Island dressing,Wednesday
-323,Ailane,Bigos,Monday
-324,Kwilith,Fish Fillet,Wednesday
-325,Dabvine,Surf and turf,Monday
-326,Roombo,Veggie Burger,Tuesday
-327,Divavu,Kielbasa ,Monday
-328,Devpoint,Eggs Benedict,Monday
-329,Realcube,Calf's liver and bacon,Monday
-330,Roomm,Vichyssoise,Saturday
-331,Yata,Bookbinder Soup,Friday
-332,Edgewire,Steamed clams,Thursday
-333,Realpoint,Karkówka,Sunday
-334,LiveZ,Carne pizzaiola,Thursday
-335,Edgeify,Hokkien fried rice,Wednesday
-336,Realfire,Stuffed peppers,Wednesday
-337,Realfire,Toaster Strudel,Wednesday
-338,Zoovu,Rice and gravy,Friday
-339,Divape,Rice and gravy,Sunday
-340,Jersey Burger,Drunken chicken,Saturday
-341,Eayo,Spanish rice,Tuesday
-342,Yadel,Pork Fried Rice,Wednesday
-343,Bubblemix,Kielbasa ,Tuesday
-344,Dazzlesphere,Glorified rice,Sunday
-345,Piast,Jumbo Shrimp,Wednesday
-346,Eabox,Toaster Strudel,Friday
-347,Dabshots,Bookbinder Soup,Tuesday
-348,Halal Palace,Glorified rice,Wednesday
-349,Bubblemix,Hawaiian haystack,Thursday
-350,Centimia,Cajun cuisine,Saturday
-351,Halal Palace,Brunswick stew,Friday
-352,Roomm,Tetrazzini,Wednesday
-353,Thoughtmix,Lamb w/ vegetables,Wednesday
-354,Outfront stakehouse,Turducken,Tuesday
-355,Smith's Grill,Burritos,Monday
-356,Dynabox,Burritos,Sunday
-357,Agimba,Hawaiian haystack,Friday
-358,Realmix,Shrimp Scampi,Friday
-359,Youspan,Burritos,Wednesday
-360,Kwilith,Burnt ends,Thursday
-361,Skiptube,Rolled Shrimp,Friday
-362,Wordware,Golabki,Wednesday
-363,Jetwire,Chicken with Brocoli,Saturday
-364,Tagopia,Jambalaya,Tuesday
-365,Realpoint,Domesticated turkey,Monday
-366,Rhybox,Carolina style,Monday
-367,Mycat,Tomato compote,Wednesday
-368,Skilith,Pizza,Monday
-369,InnoZ,Rolled Shrimp,Monday
-370,Quinu,Eggo,Sunday
-371,Aimbu,Shrimp Scampi,Saturday
-372,Feedspan,Vichyssoise,Sunday
-373,Brainlounge,Jumbo Shrimp,Wednesday
-374,Topicblab,Stuffed peppers,Tuesday
-375,Dabshots,Tuna casserole,Tuesday
-376,Fliptune,Chicken with Brocoli,Sunday
-377,Yabox,Buffalo burger,Monday
-378,Cogidoo,Salad,Sunday
-379,Eadel,Spanish rice,Thursday
-380,Browsedrive,Half-smoke,Tuesday
-381,Voonyx,Eggo,Wednesday
-382,Oyonder,Hawaiian haystack,Thursday
-383,Osaka Bay Fishery,Golabki,Wednesday
-384,Kaymbo,Penne Vodka,Wednesday
-385,Burger Queen,Stuffed ham,Monday
-386,Outfront stakehouse,Burrito,Wednesday
-387,Wikizz,Eggs Benedict,Thursday
-388,Ainyx,Veggie Burger,Saturday
-389,Zooxo,Shrimp Creole,Wednesday
-390,Piast,Stuffed ham,Thursday
-391,Dynabox,Kielbasa ,Wednesday
-392,Horohito's Crab Shack,Eggo,Thursday
-393,Meevee,Veggie Burger,Saturday
-394,Photojam,Pork Fried Rice,Monday
-395,Rhycero,Sushi Roll,Monday
-396,Skiba,Curry Chicken,Tuesday
-397,Quire,Gumbo,Saturday
-398,Divavu,Eggo,Monday
-399,Skilith,Hawaiian haystack,Thursday
-400,Kimia,Glorified rice,Sunday
+1,Skilith,Kielbasa ,Saturday
+2,Wikivu,Gyro,Thursday
+3,Fivechat,Rice and gravy,Thursday
+4,Halal Palace,Vichyssoise,Thursday
+5,Meetz,Hokkien fried rice,Tuesday
+6,Tagcat,Sushi Roll,Wednesday
+7,Fanoodle,Half-smoke,Monday
+8,Piast,Surf and turf,Monday
+9,Voonyx,Veggie Burger,Wednesday
+10,Ntags,Eggo,Tuesday
+11,Gigaclub,Generals Tso's Chicken,Sunday
+12,Twinder,Turkey Burger,Wednesday
+13,Twinder,Burnt ends,Wednesday
+14,Igor's Vodka Shack,Buffalo burger,Tuesday
+15,Tokyo Fish,Chicken bog,Sunday
+16,Thoughtstorm,Buffalo wing,Saturday
+17,Thoughtstorm,Turkey Burger,Sunday
+18,Meeveo,Hoppin' John,Wednesday
+19,Demizz,Gyro,Monday
+20,Jaxbean,Spanish rice,Friday
+21,Meeveo,Surf and turf,Friday
+22,Babbleblab,Eggs Benedict,Tuesday
+23,Som Gud Fud Chinese Food,Bookbinder Soup,Friday
+24,Edgeify,Swiss steak,Friday
+25,Trunyx,Sushi Roll,Friday
+26,Igor's Vodka Shack,Gumbo,Tuesday
+27,Piast,Tuna casserole,Tuesday
+28,Npath,Gyro,Thursday
+29,Jersey Burger,Italian hot dog,Monday
+30,Photospace,Goetta,Friday
+31,Trunyx,Energy bar,Tuesday
+32,Oyoba,Pork Fried Rice,Wednesday
+33,Thoughtstorm,Hot Dog,Friday
+34,Pixope,Kotlety,Friday
+35,Mafioso Pizza,Kotlety,Thursday
+36,Jetwire,Hot dog,Tuesday
+37,Einti,Gumbo,Friday
+38,Youspan,Jumbo Shrimp,Tuesday
+39,Kayveo,Buffalo wing,Monday
+40,Twinder,Doughnut,Wednesday
+41,Jaxnation,Drunken chicken,Tuesday
+42,Thoughtstorm,Vichyssoise,Tuesday
+43,Outfront stakehouse,Veggie Burger,Thursday
+44,Thoughtstorm,Rolled Shrimp,Thursday
+45,Skiba,Surf and turf,Friday
+46,Jaxbean,Burnt ends,Wednesday
+47,Divanoodle,Rolled Shrimp,Friday
+48,Dynabox,Kielbasa ,Thursday
+49,Tokyo Fish,Cajun cuisine,Thursday
+50,Divanoodle,Brunswick stew,Friday
+51,Npath,Eggo,Saturday
+52,Piast,Rice and gravy,Monday
+53,Edgeify,Pork Fried Rice,Saturday
+54,Brightdog,Buffalo wing,Sunday
+55,Eabox,Brunswick stew,Friday
+56,Edgeify,Carne pizzaiola,Wednesday
+57,Realcube,Eggo,Wednesday
+58,Dynava,Celery Victor,Friday
+59,Digitube,Bull roast,Wednesday
+60,Thoughtstorm,Karkówka,Friday
+61,Browseblab,Bigos,Wednesday
+62,Skilith,Eggs Neptune,Wednesday
+63,Mafioso Pizza,Curry Chicken,Monday
+64,Jabbersphere,Dirty rice,Tuesday
+65,Katz,Buffalo burger,Saturday
+66,Eabox,Stuffed ham,Friday
+67,Gigaclub,Cold Sub,Monday
+68,Edgepulse,Burritos,Monday
+69,Tagfeed,Salad,Monday
+70,Jaxbean,Chorizo,Wednesday
+71,Vinder,Toaster Strudel,Thursday
+72,Centimia,Chaudin,Thursday
+73,Piast,Stuffed ham,Sunday
+74,Katz,Hot dog,Wednesday
+75,Meevee,Cheese dog,Wednesday
+76,Demimbu,Bull roast,Friday
+77,Youfeed,Stuffed zucchini,Tuesday
+78,Piast,Cajun cuisine,Tuesday
+79,Innotype,Spanish rice,Thursday
+80,Tagfeed,Stuffed zucchini,Thursday
+81,Photospace,Pork Fried Rice,Friday
+82,Quinu,Fresh Bread,Thursday
+83,Jaloo,Cowboy Burger,Wednesday
+84,Ntag,Pasta With Chicken,Wednesday
+85,Kanoodle,Gyro,Monday
+86,Fivechat,Burritos,Tuesday
+87,Linklinks,Carolina style,Saturday
+88,Skalith,Pasta With Chicken,Tuesday
+89,Brightbean,Pizza,Tuesday
+90,Bubblemix,Veggie Burger,Thursday
+91,Skinte,Jumbo Shrimp,Thursday
+92,Topicware,Eggo,Saturday
+93,Digitube,French Onion Soup,Thursday
+94,Innotype,Calf's liver and bacon,Wednesday
+95,Linkbridge,Dirty rice,Thursday
+96,Piast,Carolina style,Thursday
+97,Realcube,Carolina style,Thursday
+98,Thoughtbridge,Chicken bog,Thursday
+99,Linkbridge,Salad,Monday
+100,Babbleblab,Eggo,Wednesday
+101,Skalith,Jambalaya,Wednesday
+102,Piast,Tuna casserole,Wednesday
+103,Skinix,Curry Chicken,Monday
+104,Skipfire,Super Salad,Wednesday
+105,Thoughtstorm,Burrito,Thursday
+106,Topicblab,Hokkien fried rice,Friday
+107,Rhybox,Sushi Roll,Monday
+108,Mafioso Pizza,Gyro,Thursday
+109,Twinder,Carolina style,Saturday
+110,Wikivu,Rolled Shrimp,Tuesday
+111,Agimba,Chicken with Brocoli,Monday
+112,Riffwire,Tuna casserole,Thursday
+113,Rhyloo,Deviled egg,Monday
+114,Youfeed,Veggie Burger,Thursday
+115,Fanoodle,Burrito,Saturday
+116,Yotz,Chaudin,Wednesday
+117,Blogpad,Domesticated turkey,Wednesday
+118,Quimm,Hawaiian haystack,Monday
+119,Photospace,Chaudin,Monday
+120,Youfeed,Turkey Burger,Friday
+121,Realbridge,Bookbinder Soup,Wednesday
+122,Trudoo,Goetta,Friday
+123,Tokyo Fish,Hokkien fried rice,Wednesday
+124,Divavu,Burnt ends,Sunday
+125,Innotype,Gyro,Wednesday
+126,Eabox,Kotlet mielony,Sunday
+127,Ailane,Half-smoke,Tuesday
+128,Wordify,Gumbo,Tuesday
+129,Edgepulse,Golabki,Saturday
+130,Trudoo,Dirty rice,Monday
+131,Yadel,Chicken with Brocoli,Wednesday
+132,Tagfeed,Hot Dog,Friday
+133,Jersey Burger,Cajun cuisine,Friday
+134,Fanoodle,Fish Fillet,Friday
+135,Twinder,Shrimp Creole,Thursday
+136,Dabshots,Surf and turf,Tuesday
+137,Skinte,Brunswick stew,Monday
+138,Meeveo,Stuffed ham,Thursday
+139,Brainbox,Karkówka,Friday
+140,Yadel,Deviled crab,Friday
+141,Jaloo,Domesticated turkey,Wednesday
+142,Vinder,Stuffed ham,Friday
+143,Piast,Pizza,Tuesday
+144,Brainverse,Carne pizzaiola,Saturday
+145,Skimia,Tetrazzini,Sunday
+146,Zoovu,Stuffed peppers,Friday
+147,Tokyo Fish,Italian hot dog,Monday
+148,Zoovu,Domesticated turkey,Friday
+149,Oyoloo,Taco,Tuesday
+150,Burger Queen,Curry Chicken,Thursday
+151,Skalith,Kielbasa ,Friday
+152,Fatz,Taco,Thursday
+153,Jabbersphere,Vichyssoise,Wednesday
+154,Aimbu,Eggs Neptune,Tuesday
+155,Realblab,Pierogi,Friday
+156,Edgeify,Buffalo burger,Wednesday
+157,Photobug,Cowboy Burger,Friday
+158,Yata,French Onion Soup,Monday
+159,Meevee,Jambalaya,Sunday
+160,Agimba,Burritos,Thursday
+161,Meeveo,Super Salad,Wednesday
+162,Burger Queen,Chicken bog,Tuesday
+163,Tokyo Fish,Italian hot dog,Wednesday
+164,Osaka Bay Fishery,Penne Vodka,Friday
+165,Divavu,Pizza,Tuesday
+166,Lazzy,Spanish rice,Thursday
+167,Mafioso Pizza,Hot Dog,Thursday
+168,Wikizz,Salad,Sunday
+169,Thoughtsphere,Toaster Strudel,Monday
+170,Pixope,Curry Chicken,Thursday
+171,Geba,Eggs Neptune,Wednesday
+172,Yata,Spanish rice,Wednesday
+173,Halal Palace,Fat Sandwich,Tuesday
+174,Skalith,Jambalaya,Thursday
+175,Burger Queen,Chaudin,Thursday
+176,Burger Queen,Celery Victor,Monday
+177,Dynava,Deviled egg,Wednesday
+178,Zooxo,Tuna casserole,Friday
+179,Jaxbean,Italian hot dog,Friday
+180,Roomm,Spanish rice,Friday
+181,Zoonoodle,Glorified rice,Monday
+182,Ainyx,Meat ball sandwich,Monday
+183,Dynabox,Turkey Burger,Friday
+184,Burger Queen,Surf and turf,Monday
+185,Eabox,Buffalo burger,Thursday
+186,Katz,Hawaiian haystack,Wednesday
+187,Trudoo,Meat ball sandwich,Tuesday
+188,Linkbridge,Hawaiian haystack,Monday
+189,Gigaclub,Stuffed peppers,Sunday
+190,Mafioso Pizza,Half-smoke,Thursday
+191,Mafioso Pizza,Burnt ends,Sunday
+192,Photofeed,Goetta,Thursday
+193,Quimm,Fat Sandwich,Monday
+194,Youspan,Shrimp Creole,Thursday
+195,Mafioso Pizza,Calf's liver and bacon,Tuesday
+196,Thoughtsphere,Spanish rice,Wednesday
+197,Realcube,Cold Sub,Monday
+198,Gevee,Shrimp Creole,Tuesday
+199,Topicblab,Surf and turf,Thursday
+200,Smith's Grill,Cowboy Burger,Wednesday
+201,Jersey Burger,Energy bar,Friday
+202,Igor's Vodka Shack,Hoppin' John,Tuesday
+203,Riffwire,Carne pizzaiola,Friday
+204,Meevee,Generals Tso's Chicken,Friday
+205,Quinu,Chicken bog,Sunday
+206,Rhybox,Goetta,Monday
+207,Youfeed,Steamed clams,Friday
+208,Fatz,Asian Salad,Thursday
+209,Brainbox,Cowboy Burger,Friday
+210,Digitube,Tomato compote,Friday
+211,Riffwire,Vegie Burger,Monday
+212,Thoughtsphere,Kasza,Wednesday
+213,Voonyx,Pasta With Chicken,Tuesday
+214,Jaxbean,Chaudin,Monday
+215,Som Gud Fud Chinese Food,Buffalo wing,Tuesday
+216,Jersey Burger,Pierogi,Thursday
+217,Tekfly,Shrimp Creole,Friday
+218,Snaptags,Hoppin' John,Tuesday
+219,Linklinks,Taco,Tuesday
+220,Thoughtstorm,Buffalo wing,Thursday
+221,Igor's Vodka Shack,Greek Salad,Sunday
+222,Realblab,Rice and gravy,Sunday
+223,Babbleblab,Cheese dog,Wednesday
+224,Zooxo,Plain Lobster,Tuesday
+225,Realfire,Calf's liver and bacon,Friday
+226,Riffwire,Sushi Roll,Wednesday
+227,Thoughtstorm,Chicken with Brocoli,Monday
+228,Realblab,Pizza,Thursday
+229,Vidoo,Super Salad,Tuesday
+230,Rhyloo,Stuffed zucchini,Monday
+231,Jaxnation,Brunswick stew,Tuesday
+232,Trilith,Hoppin' John,Friday
+233,Bubblemix,Eggs Neptune,Thursday
+234,Realbridge,Hot dog,Thursday
+235,Pixope,Curry Chicken,Wednesday
+236,Dynabox,Hot Dog,Sunday
+237,Realcube,Steak with potatoes,Wednesday
+238,Talane,Half-smoke,Saturday
+239,Talane,Jumbo Shrimp,Wednesday
+240,Snaptags,Gumbo,Friday
+241,Divanoodle,French Onion Soup,Friday
+242,Jetwire,Turkey Burger,Thursday
+243,Photofeed,Kielbasa ,Tuesday
+244,Gigaclub,Fish Fillet,Friday
+245,Divape,Kielbasa ,Friday
+246,Nlounge,Burnt ends,Tuesday
+247,Feedfish,Fat Sandwich,Tuesday
+248,Meevee,Cowboy Burger,Monday
+249,Topicblab,Bookbinder Soup,Tuesday
+250,Gevee,Stuffed ham,Friday
+251,Buzzshare,Steak with potatoes,Saturday
+252,Kanoodle,Vichyssoise,Sunday
+253,Ntag,Cheese dog,Wednesday
+254,Yoveo,Eggo,Friday
+255,Twitterbridge,Cajun cuisine,Saturday
+256,Quimm,Pork Fried Rice,Wednesday
+257,Brainbox,Eggo,Monday
+258,Photofeed,Bigos,Monday
+259,Trunyx,Surf and turf,Tuesday
+260,Mafioso Pizza,Cold Sub,Sunday
+261,Trilith,Chicken with Brocoli,Friday
+262,Buzzshare,Pierogi,Sunday
+263,Fanoodle,Gumbo,Thursday
+264,Yata,Celery Victor,Friday
+265,Piast,Fish Fillet,Wednesday
+266,Pixope,Eggs Benedict,Thursday
+267,Igor's Vodka Shack,Toaster Strudel,Friday
+268,Twinder,Rice and gravy,Saturday
+269,Jaxnation,Bull roast,Saturday
+270,Fanoodle,Buffalo wing,Sunday
+271,Twinder,Greek Salad,Wednesday
+272,Skinte,Gumbo,Saturday
+273,Skilith,Carolina style,Wednesday
+274,Piast,Stuffed peppers,Tuesday
+275,Twinder,Hot dog,Saturday
+276,Skalith,Italian hot dog,Friday
+277,Dynabox,Kotlety,Thursday
+278,Igor's Vodka Shack,Jambalaya,Wednesday
+279,Linkbuzz,Golabki,Thursday
+280,Dynabox,Hawaiian haystack,Monday
+281,Tokyo Fish,Calf's liver and bacon,Wednesday
+282,Tokyo Fish,Waffle,Thursday
+283,Trupe,Spanish rice,Friday
+284,Twinder,Karkówka,Thursday
+285,Realbridge,Doughnut,Monday
+286,Osaka Bay Fishery,Golabki,Thursday
+287,Oyoloo,Turkey Burger,Sunday
+288,Realblab,Vegie Burger,Friday
+289,Buzzshare,Chicken with Brocoli,Thursday
+290,Innotype,Stuffed ham,Sunday
+291,Zoonoodle,Golabki,Tuesday
+292,Photospace,Curry Chicken,Tuesday
+293,Linkbuzz,Kasza,Monday
+294,Photospace,Rolled Shrimp,Friday
+295,Katz,Brunswick stew,Wednesday
+296,Katz,Shrimp Creole,Friday
+297,Tagfeed,Cowboy Burger,Tuesday
+298,Topicware,Shrimp Creole,Wednesday
+299,Burger Queen,Meat ball sandwich,Friday
+300,Tekfly,Domesticated turkey,Thursday
+301,Linklinks,Chaudin,Tuesday
+302,Jabbersphere,Curry Chicken,Tuesday
+303,Oyoloo,Waffle,Tuesday
+304,Youfeed,Stuffed peppers,Sunday
+305,Topicblab,Shrimp Scampi,Monday
+306,Feedfish,Rolled Shrimp,Friday
+307,Voomm,Gyro,Friday
+308,Fanoodle,Energy bar,Wednesday
+309,Brainbox,Fresh Bread,Thursday
+310,Tokyo Fish,Tomato compote,Wednesday
+311,Thoughtsphere,Stuffed ham,Saturday
+312,Yotz,Deviled crab,Friday
+313,Realfire,Generals Tso's Chicken,Sunday
+314,Fivechat,Golabki,Monday
+315,Ailane,Tuna casserole,Friday
+316,Riffwire,Gyro,Thursday
+317,Edgewire,Doughnut,Saturday
+318,Viva,Asian Salad,Friday
+319,Aimbu,Buffalo burger,Thursday
+320,Jabbersphere,Bigos,Friday
+321,Trudoo,Brunswick stew,Sunday
+322,Photofeed,Thousand Island dressing,Friday
+323,Zooxo,Glorified rice,Saturday
+324,Demizz,Surf and turf,Wednesday
+325,Fanoodle,Carne pizzaiola,Monday
+326,Trunyx,Kasza,Monday
+327,Fivechat,Eggs Benedict,Friday
+328,Meetz,Veggie Burger,Thursday
+329,Yoveo,Eggo,Monday
+330,Quinu,Hot Dog,Monday
+331,Pixope,Bookbinder Soup,Friday
+332,Linkbridge,Fresh Bread,Tuesday
+333,Thoughtstorm,Eggs Benedict,Thursday
+334,Jersey Burger,Bull roast,Monday
+335,Dabshots,Cold Sub,Wednesday
+336,Thoughtstorm,Deviled egg,Sunday
+337,Photobug,Sushi Roll,Monday
+338,Tanoodle,Brunswick stew,Saturday
+339,Blogpad,Gumbo,Wednesday
+340,Dynava,Karkówka,Thursday
+341,Thoughtstorm,Vegie Burger,Friday
+342,Yotz,Jumbo Shrimp,Wednesday
+343,Brainlounge,Hot dog,Tuesday
+344,Kwinu,Thousand Island dressing,Sunday
+345,Realbridge,Kasza,Monday
+346,Twinder,Kotlety,Friday
+347,Youspan,Salad,Tuesday
+348,Mafioso Pizza,Dirty rice,Friday
+349,Mafioso Pizza,Hot dog,Wednesday
+350,Viva,Karkówka,Thursday
+351,Yadel,Stuffed peppers,Thursday
+352,Ntags,Pasta With Chicken,Tuesday
+353,Katz,Cowboy Burger,Tuesday
+354,Youfeed,Energy bar,Tuesday
+355,Gigaclub,Asian Salad,Sunday
+356,Ntag,Bigos,Saturday
+357,Rhyloo,Burritos,Wednesday
+358,Skinix,Vegie Burger,Friday
+359,Babbleblab,Bookbinder Soup,Monday
+360,Zoonoodle,Eggs Neptune,Tuesday
+361,Photospace,Deviled egg,Tuesday
+362,Tekfly,Curry Chicken,Tuesday
+363,Kwinu,Rolled Shrimp,Thursday
+364,Yotz,Kotlet mielony,Friday
+365,Photofeed,Bookbinder Soup,Friday
+366,Eabox,Swiss steak,Monday
+367,Yoveo,Rolled Shrimp,Monday
+368,Roomm,Chorizo,Thursday
+369,Einti,Carolina style,Wednesday
+370,Skimia,Buffalo wing,Friday
+371,Wikivu,Jambalaya,Wednesday
+372,Digitube,Pizza,Wednesday
+373,Thoughtsphere,Eggo,Thursday
+374,Mafioso Pizza,Eggs Benedict,Friday
+375,Tokyo Fish,Drunken chicken,Tuesday
+376,King's Takeout,Sushi Roll,Monday
+377,Quinu,Chorizo,Monday
+378,Realblab,Rice and gravy,Thursday
+379,Photofeed,Kotlety,Tuesday
+380,Ntag,Doughnut,Monday
+381,Tekfly,Dirty rice,Monday
+382,Roomm,Sushi Roll,Thursday
+383,Outfront stakehouse,Burnt ends,Friday
+384,Rhyloo,Italian hot dog,Friday
+385,Jaxbean,Surf and turf,Friday
+386,Voonyx,Chorizo,Friday
+387,Piast,Plain Lobster,Monday
+388,Riffwire,Tuna casserole,Monday
+389,Divape,Pasta With Chicken,Wednesday
+390,Brightdog,Fish Fillet,Monday
+391,Jaxbean,Buffalo burger,Friday
+392,Jaxnation,Eggs Neptune,Wednesday
+393,Edgeify,Penne Vodka,Friday
+394,Yata,Lamb w/ vegetables,Friday
+395,Tokyo Fish,Eggo,Monday
+396,Babbleblab,Kasza,Tuesday
+397,Pixope,Kielbasa ,Tuesday
+398,Browseblab,Steak with potatoes,Monday
+399,Browseblab,Cheese dog,Tuesday
+400,Tokyo Fish,Shrimp Scampi,Wednesday
+401,Photobug,Doughnut,Monday
+402,Trunyx,Domesticated turkey,Wednesday
+403,Dabfeed,Curry Chicken,Monday
+404,Dabshots,Turkey Burger,Sunday
+405,Devbug,Calf's liver and bacon,Friday
+406,Jaxnation,Bigos,Friday
+407,Divanoodle,Stuffed peppers,Monday
+408,Fivechat,Celery Victor,Friday
+409,Gigaclub,Pasta With Chicken,Tuesday
+410,Realmix,Kielbasa ,Friday
+411,Voolith,Chaudin,Monday
+412,Brightdog,Rolled Shrimp,Tuesday
+413,Quimm,Rice and gravy,Sunday
+414,Babbleblab,Plain Lobster,Tuesday
+415,Twinder,Greek Salad,Saturday
+416,Fivechat,Carolina style,Thursday
+417,Oyoloo,Half-smoke,Tuesday
+418,Skipfire,Rolled Shrimp,Friday
+419,Thoughtsphere,Gyro,Monday
+420,Divavu,Kielbasa ,Wednesday
+421,Dabvine,Eggs Neptune,Wednesday
+422,Lajo,Spanish rice,Saturday
+423,Wikivu,Rolled Shrimp,Saturday
+424,Thoughtsphere,Jumbo Shrimp,Monday
+425,Thoughtbridge,Steamed clams,Wednesday
+426,Fivechat,Gumbo,Thursday
+427,Voomm,Cajun cuisine,Friday
+428,Trunyx,Chicken bog,Friday
+429,Divanoodle,Chicken with Brocoli,Monday
+430,Brainbox,Italian hot dog,Thursday
+431,Trudoo,Bookbinder Soup,Wednesday
+432,Vinder,Brunswick stew,Saturday
+433,Thoughtsphere,Italian hot dog,Friday
+434,Browseblab,Drunken chicken,Wednesday
+435,Jabbersphere,Drunken chicken,Monday
+436,Wikivu,Sushi Roll,Wednesday
+437,Vidoo,Rolled Shrimp,Saturday
+438,Youfeed,Goetta,Friday
+439,Topicware,Kotlet mielony,Tuesday
+440,Thoughtsphere,Generals Tso's Chicken,Monday
+441,Pixope,Veggie Burger,Friday
+442,Tagfeed,Tuna casserole,Thursday
+443,Youtags,Kotlet mielony,Friday
+444,Demizz,Plain Lobster,Monday
+445,King's Takeout,Generals Tso's Chicken,Friday
+446,Pixope,Hokkien fried rice,Tuesday
+447,Linklinks,Domesticated turkey,Wednesday
+448,Realbridge,Cold Sub,Monday
+449,Tagopia,Hot dog,Thursday
+450,Jersey Burger,Fresh Bread,Friday
+451,Oyoba,Asian Salad,Tuesday
+452,Photofeed,Surf and turf,Thursday
+453,Katz,Glorified rice,Thursday
+454,Topicware,Pizza,Thursday
+455,Youspan,Cheese dog,Thursday
+456,Viva,Tomato compote,Wednesday
+457,Yata,Tomato compote,Wednesday
+458,Som Gud Fud Chinese Food,Fish Fillet,Wednesday
+459,Youfeed,Chicken with Brocoli,Sunday
+460,Thoughtstorm,Turducken,Monday
+461,Piast,Rolled Shrimp,Wednesday
+462,Eabox,Rolled Shrimp,Monday
+463,Trunyx,Gyro,Tuesday
+464,Ailane,Pork Fried Rice,Monday
+465,Fivechat,Deviled crab,Monday
+466,Jaxnation,Pizza,Monday
+467,Demizz,Steak with potatoes,Sunday
+468,Gigaclub,Salad,Friday
+469,Talane,Turducken,Sunday
+470,Skinte,Asian Salad,Friday
+471,Oyoloo,Calf's liver and bacon,Monday
+472,Oyoba,Kielbasa ,Wednesday
+473,Lazzy,Pierogi,Wednesday
+474,Pixope,Pierogi,Sunday
+475,Skinte,Hawaiian haystack,Saturday
+476,Realblab,Half-smoke,Thursday
+477,Trunyx,Gumbo,Friday
+478,Ntag,Deviled egg,Friday
+479,Fatz,Kotlety,Saturday
+480,Kayveo,Pizza,Thursday
+481,Photospace,Tuna casserole,Tuesday
+482,Skimia,Stuffed ham,Tuesday
+483,Skiba,Jambalaya,Monday
+484,Yotz,Lamb w/ vegetables,Friday
+485,Kazio,Cheese dog,Friday
+486,Gigaclub,Stuffed zucchini,Tuesday
+487,Vinder,Taco,Friday
+488,Einti,Tuna casserole,Sunday
+489,Realbridge,Eggs Benedict,Friday
+490,Edgeify,Golabki,Thursday
+491,Meevee,Brunswick stew,Tuesday
+492,Tagfeed,Pasta With Chicken,Tuesday
+493,Yotz,Pierogi,Tuesday
+494,Burger Queen,Rolled Shrimp,Monday
+495,Tokyo Fish,Turkey Burger,Friday
+496,Fivechat,Generals Tso's Chicken,Thursday
+497,Einti,Meat ball sandwich,Saturday
+498,Kayveo,Greek Salad,Friday
+499,Thoughtstorm,Pizza,Wednesday
+500,Fivechat,Penne Vodka,Thursday
+501,Igor's Vodka Shack,Chorizo,Thursday
+502,Skinte,Swiss steak,Sunday
+503,Divanoodle,Steak with potatoes,Sunday
+504,Trunyx,Bigos,Wednesday
+505,Mafioso Pizza,Cheese dog,Tuesday
+506,Wikivu,Burrito,Friday
+507,Kwinu,Steak with potatoes,Monday
+508,Npath,Vichyssoise,Monday
+509,Thoughtsphere,Swiss steak,Wednesday
+510,Lajo,Pizza,Thursday
+511,Brightdog,Carolina style,Wednesday
+512,Dynabox,Bigos,Tuesday
+513,Trilith,Fish Fillet,Monday
+514,Trunyx,Salad,Friday
+515,Babbleblab,Eggs Neptune,Sunday
+516,Trunyx,Half-smoke,Friday
+517,Youfeed,Buffalo wing,Wednesday
+518,Livetube,Rolled Shrimp,Thursday
+519,Voonyx,Thousand Island dressing,Tuesday
+520,Meezzy,Kielbasa ,Tuesday
+521,Youfeed,Pasta With Chicken,Wednesday
+522,Trupe,Turducken,Tuesday
+523,Oyoba,Kotlety,Friday
+524,Gigaclub,French Onion Soup,Monday
+525,Skipfire,Gyro,Friday
+526,Blogpad,Turducken,Monday
+527,Eayo,Carolina style,Thursday
+528,Gigaclub,Spanish rice,Tuesday
+529,Quinu,Shrimp Scampi,Wednesday
+530,Skipfire,Buffalo wing,Thursday
+531,Mycat,Pizza,Wednesday
+532,Piast,Vichyssoise,Monday
+533,Divavu,Jumbo Shrimp,Monday
+534,Realblab,Carne pizzaiola,Wednesday
+535,Fatz,Buffalo wing,Monday
+536,Talane,Waffle,Tuesday
+537,Yata,Deviled crab,Tuesday
+538,Youspan,Buffalo burger,Tuesday
+539,Realcube,Glorified rice,Monday
+540,Thoughtstorm,Kotlet mielony,Friday
+541,Quinu,Stuffed ham,Saturday
+542,Edgeify,Shrimp Scampi,Monday
+543,Igor's Vodka Shack,Tetrazzini,Sunday
+544,Mycat,Rolled Shrimp,Sunday
+545,Thoughtstorm,Rolled Shrimp,Saturday
+546,Edgeify,Domesticated turkey,Sunday
+547,Dabvine,Thousand Island dressing,Sunday
+548,Thoughtsphere,Gyro,Wednesday
+549,Ntags,Kotlety,Monday
+550,Zooxo,Stuffed ham,Monday
+551,Yata,Buffalo wing,Tuesday
+552,Meezzy,Cajun cuisine,Monday
+553,Gabcube,Swiss steak,Monday
+554,Wikivu,Deviled egg,Monday
+555,Divanoodle,Golabki,Sunday
+556,Realbridge,Shrimp Creole,Wednesday
+557,Meeveo,Kasza,Tuesday
+558,Dabvine,Thousand Island dressing,Wednesday
+559,Mafioso Pizza,Greek Salad,Tuesday
+560,Fanoodle,Bigos,Tuesday
+561,Vinder,Gyro,Thursday
+562,Voonyx,Swiss steak,Sunday
+563,Thoughtsphere,Swiss steak,Friday
+564,Linklinks,Buffalo burger,Thursday
+565,Halal Palace,Chorizo,Monday
+566,Youspan,Celery Victor,Thursday
+567,Topicblab,French Onion Soup,Wednesday
+568,Jaxbean,Eggs Benedict,Tuesday
+569,Eabox,Thousand Island dressing,Saturday
+570,Realcube,Dirty rice,Thursday
+571,Ntag,Burnt ends,Wednesday
+572,Linklinks,Turducken,Monday
+573,Youfeed,Greek Salad,Friday
+574,Skinix,Calf's liver and bacon,Monday
+575,Quinu,Fat Sandwich,Tuesday
+576,Ailane,Pork Fried Rice,Monday
+577,Quimm,Surf and turf,Tuesday
+578,Kazu,Asian Salad,Monday
+579,Igor's Vodka Shack,Bookbinder Soup,Tuesday
+580,Mafioso Pizza,Calf's liver and bacon,Tuesday
+581,Skinte,Taco,Friday
+582,Piast,Toaster Strudel,Monday
+583,Tagfeed,Surf and turf,Tuesday
+584,Quimm,Calf's liver and bacon,Thursday
+585,Twinder,Cheese dog,Friday
+586,Vinder,Deviled egg,Tuesday
+587,Yata,Carolina style,Friday
+588,Trunyx,Stuffed zucchini,Monday
+589,Youfeed,Pork Fried Rice,Wednesday
+590,Wikivu,Super Salad,Thursday
+591,Dynabox,Burnt ends,Monday
+592,Topicblab,Chorizo,Monday
+593,Skiba,Eggs Neptune,Thursday
+594,Jaxnation,Turkey Burger,Wednesday
+595,Brainbox,Energy bar,Tuesday
+596,Thoughtstorm,Cowboy Burger,Tuesday
+597,Riffwire,Rolled Shrimp,Tuesday
+598,Kazio,Rolled Shrimp,Thursday
+599,Demivee,Waffle,Monday
+600,Viva,Pork Fried Rice,Thursday
+601,Blogpad,Pasta With Chicken,Wednesday
+602,Meeveo,Jambalaya,Friday
+603,Einti,Tuna casserole,Monday
+604,Dynabox,Gyro,Monday
+605,Brightdog,Celery Victor,Friday
+606,Osaka Bay Fishery,Tetrazzini,Tuesday
+607,Quinu,Deviled egg,Wednesday
+608,Gigaclub,Plain Lobster,Tuesday
+609,Dabshots,Tuna casserole,Friday
+610,Thoughtsphere,Burrito,Wednesday
+611,Linkbuzz,Half-smoke,Tuesday
+612,Twitterlist,Chorizo,Friday
+613,Devbug,Calf's liver and bacon,Wednesday
+614,Lazzy,Brunswick stew,Wednesday
+615,Thoughtstorm,Vichyssoise,Friday
+616,Buzzshare,Turducken,Monday
+617,Quinu,Goetta,Thursday
+618,Trunyx,Drunken chicken,Monday
+619,Divavu,Chicken bog,Friday
+620,Som Gud Fud Chinese Food,Super Salad,Monday
+621,Voolith,Pasta With Chicken,Friday
+622,Feedfish,Energy bar,Wednesday
+623,Topicblab,Chaudin,Friday
+624,Centimia,Golabki,Tuesday
+625,Mafioso Pizza,Chicken bog,Friday
+626,Yata,Burritos,Sunday
+627,Som Gud Fud Chinese Food,Stuffed ham,Wednesday
+628,Meeveo,Gyro,Thursday
+629,Skinte,Shrimp Creole,Tuesday
+630,Topicblab,Carolina style,Friday
+631,Realblab,Stuffed peppers,Tuesday
+632,Trilith,Chaudin,Tuesday
+633,Tekfly,Veggie Burger,Tuesday
+634,Skinte,Chaudin,Thursday
+635,Thoughtsphere,Waffle,Sunday
+636,Npath,Dirty rice,Tuesday
+637,Geba,Swiss steak,Monday
+638,Mafioso Pizza,Generals Tso's Chicken,Friday
+639,Skalith,Chicken with Brocoli,Thursday
+640,Rhybox,Steak with potatoes,Saturday
+641,Photofeed,Meat ball sandwich,Wednesday
+642,Blogpad,Deviled egg,Friday
+643,Som Gud Fud Chinese Food,Buffalo wing,Friday
+644,Linklinks,Bigos,Wednesday
+645,Lazzy,Fat Sandwich,Friday
+646,Bubblemix,Kasza,Monday
+647,Yadel,Celery Victor,Tuesday
+648,Burger Queen,Stuffed zucchini,Monday
+649,Thoughtsphere,Bigos,Tuesday
+650,Divanoodle,Chicken bog,Friday
+651,Pixope,Pasta With Chicken,Thursday
+652,Fanoodle,Chicken bog,Monday
+653,Viva,Swiss steak,Friday
+654,Burger Queen,Tomato compote,Wednesday
+655,Yoveo,Penne Vodka,Tuesday
+656,Realbridge,Toaster Strudel,Thursday
+657,Twinder,Salad,Thursday
+658,Piast,Eggs Benedict,Saturday
+659,Dabshots,Rice and gravy,Thursday
+660,Thoughtstorm,Surf and turf,Thursday
+661,Youtags,Kotlet mielony,Sunday
+662,Trilith,Steamed clams,Wednesday
+663,Vidoo,Pierogi,Friday
+664,Photofeed,Waffle,Friday
+665,Mafioso Pizza,Generals Tso's Chicken,Wednesday
+666,Dynava,Buffalo wing,Thursday
+667,Eabox,Golabki,Wednesday
+668,Eabox,Hot Dog,Thursday
+669,Linkbridge,Dirty rice,Tuesday
+670,Burger Queen,Dirty rice,Wednesday
+671,Voonyx,Celery Victor,Sunday
+672,Lajo,Gyro,Saturday
+673,Thoughtsphere,Rolled Shrimp,Wednesday
+674,Brainbox,Pork Fried Rice,Friday
+675,Quatz,Veggie Burger,Saturday
+676,Smith's Grill,Tetrazzini,Monday
+677,Piast,Jambalaya,Wednesday
+678,Trupe,Curry Chicken,Friday
+679,Trilith,Pasta With Chicken,Thursday
+680,Centimia,Stuffed zucchini,Monday
+681,Piast,Golabki,Wednesday
+682,Brainbox,Burrito,Thursday
+683,Dabvine,Jambalaya,Tuesday
+684,Thoughtstorm,Cold Sub,Wednesday
+685,Meetz,Generals Tso's Chicken,Sunday
+686,Tokyo Fish,Taco,Friday
+687,Ailane,Kielbasa ,Thursday
+688,Realbridge,Steak with potatoes,Tuesday
+689,Realfire,Spanish rice,Friday
+690,Som Gud Fud Chinese Food,Stuffed ham,Friday
+691,Yata,Fish Fillet,Friday
+692,Trilith,Buffalo burger,Saturday
+693,Youtags,Gumbo,Monday
+694,Linklinks,Chorizo,Friday
+695,Meetz,Pork Fried Rice,Monday
+696,Edgepulse,Meat ball sandwich,Tuesday
+697,Skilith,Burritos,Tuesday
+698,Tokyo Fish,Taco,Wednesday
+699,Skinte,Karkówka,Tuesday
+700,Divape,Turducken,Thursday
+701,Twinder,Meat ball sandwich,Monday
+702,Fatz,Taco,Friday
+703,Fanoodle,Cheese dog,Sunday
+704,Livetube,Hawaiian haystack,Wednesday
+705,Edgeify,Burrito,Wednesday
+706,Thoughtstorm,Eggs Benedict,Thursday
+707,Igor's Vodka Shack,Asian Salad,Tuesday
+708,Quamba,Stuffed zucchini,Monday
+709,Skilith,Vichyssoise,Friday
+710,Mafioso Pizza,Buffalo wing,Sunday
+711,Meevee,Energy bar,Wednesday
+712,Divanoodle,Steamed clams,Thursday
+713,Photofeed,Lamb w/ vegetables,Friday
+714,Babbleblab,Pork Fried Rice,Thursday
+715,Fivechat,Salad,Monday
+716,Divanoodle,Goetta,Wednesday
+717,Gigaclub,Carne pizzaiola,Friday
+718,Skilith,Pork Fried Rice,Friday
+719,Realcube,Veggie Burger,Thursday
+720,Wordify,Bookbinder Soup,Thursday
+721,Piast,Steak with potatoes,Thursday
+722,Thoughtstorm,Stuffed peppers,Thursday
+723,Som Gud Fud Chinese Food,Carolina style,Tuesday
+724,Dynava,Pork Fried Rice,Monday
+725,Oyoba,Pork Fried Rice,Saturday
+726,Realcube,Fish Fillet,Tuesday
+727,Rhybox,Shrimp Creole,Tuesday
+728,Meezzy,Golabki,Wednesday
+729,Riffwire,Golabki,Wednesday
+730,Som Gud Fud Chinese Food,Energy bar,Tuesday
+731,Wikizz,Surf and turf,Thursday
+732,Meevee,Fat Sandwich,Thursday
+733,Ailane,Gumbo,Friday
+734,Nlounge,Pizza,Tuesday
+735,Oyoloo,Swiss steak,Tuesday
+736,Trilith,Taco,Wednesday
+737,Thoughtbridge,Fresh Bread,Tuesday
+738,Thoughtstorm,Tetrazzini,Monday
+739,Yotz,Turducken,Wednesday
+740,Burger Queen,Kotlet mielony,Friday
+741,Fatz,Bull roast,Wednesday
+742,Yata,Hoppin' John,Saturday
+743,Brightdog,Burnt ends,Friday
+744,Ntag,Hokkien fried rice,Monday
+745,Piast,Hoppin' John,Saturday
+746,Thoughtsphere,Asian Salad,Thursday
+747,Mafioso Pizza,Rolled Shrimp,Friday
+748,Trupe,Buffalo wing,Tuesday
+749,Yoveo,Golabki,Friday
+750,Nlounge,Dirty rice,Monday
+751,Riffwire,Celery Victor,Monday
+752,Yotz,Hot dog,Thursday
+753,Zooxo,Salad,Wednesday
+754,Kanoodle,Buffalo wing,Tuesday
+755,Jersey Burger,Burrito,Tuesday
+756,Piast,Curry Chicken,Tuesday
+757,Flipbug,Karkówka,Tuesday
+758,Trudoo,Rolled Shrimp,Thursday
+759,Fivechat,Fresh Bread,Thursday
+760,Piast,Karkówka,Tuesday
+761,Mafioso Pizza,Calf's liver and bacon,Saturday
+762,Piast,Hot dog,Thursday
+763,Devbug,Carolina style,Tuesday
+764,Skilith,Waffle,Monday
+765,Youfeed,Rice and gravy,Monday
+766,Jersey Burger,Vegie Burger,Friday
+767,Dabfeed,Hot dog,Tuesday
+768,Youfeed,Steak with potatoes,Monday
+769,Meeveo,Gyro,Monday
+770,Tagfeed,Karkówka,Thursday
+771,Eayo,Jambalaya,Thursday
+772,Photospace,Rolled Shrimp,Tuesday
+773,Som Gud Fud Chinese Food,Fresh Bread,Monday
+774,Trilith,Burrito,Tuesday
+775,Realcube,Golabki,Monday
+776,Divavu,Deviled egg,Thursday
+777,Skipfire,Steak with potatoes,Tuesday
+778,Tekfly,Hokkien fried rice,Wednesday
+779,Brightdog,Rolled Shrimp,Wednesday
+780,Trunyx,Carolina style,Wednesday
+781,Horohito's Crab Shack,Rice and gravy,Tuesday
+782,Topicware,Spanish rice,Thursday
+783,Twinder,Jambalaya,Monday
+784,Tagcat,Golabki,Saturday
+785,Browseblab,Hot Dog,Sunday
+786,Mafioso Pizza,Calf's liver and bacon,Friday
+787,Jersey Burger,Domesticated turkey,Sunday
+788,Demivee,Pork Fried Rice,Thursday
+789,Jabbersphere,Waffle,Saturday
+790,Realmix,Italian hot dog,Monday
+791,Devbug,Cold Sub,Saturday
+792,Ailane,Tomato compote,Friday
+793,Yata,Cajun cuisine,Friday
+794,Skiba,Brunswick stew,Monday
+795,Burger Queen,Fresh Bread,Monday
+796,Jersey Burger,Kielbasa ,Monday
+797,Ailane,Domesticated turkey,Thursday
+798,Igor's Vodka Shack,Taco,Wednesday
+799,Bubblemix,Veggie Burger,Tuesday
+800,Edgewire,Gyro,Thursday
+801,Photospace,Carne pizzaiola,Thursday
+802,Tokyo Fish,Toaster Strudel,Tuesday
+803,Brainverse,Chicken bog,Sunday
+804,Quinu,Veggie Burger,Friday
+805,Innotype,Eggs Neptune,Friday
+806,Twinder,Half-smoke,Wednesday
+807,Jaxbean,Bigos,Monday
+808,Realfire,Cowboy Burger,Saturday
+809,Trunyx,Stuffed ham,Thursday
+810,Ntag,Fresh Bread,Monday
+811,Realbridge,Generals Tso's Chicken,Thursday
+812,Fivechat,Hawaiian haystack,Wednesday
+813,Photospace,Sushi Roll,Wednesday
+814,Eadel,Curry Chicken,Thursday
+815,Centimia,Carne pizzaiola,Thursday
+816,Lazzy,Jambalaya,Friday
+817,Yotz,Chorizo,Tuesday
+818,Fivechat,Thousand Island dressing,Monday
+819,Tagfeed,Karkówka,Wednesday
+820,Nlounge,Fresh Bread,Thursday
+821,Skinte,Cajun cuisine,Monday
+822,Tokyo Fish,Eggo,Saturday
+823,Jaxbean,Lamb w/ vegetables,Thursday
+824,Wordify,Salad,Monday
+825,Devbug,Brunswick stew,Monday
+826,Brainbox,Eggs Benedict,Friday
+827,Oyoloo,Tuna casserole,Sunday
+828,Meevee,Italian hot dog,Sunday
+829,Skiba,Half-smoke,Monday
+830,Ailane,Bull roast,Monday
+831,Ailane,Deviled crab,Saturday
+832,Linkbuzz,Asian Salad,Wednesday
+833,Katz,Turkey Burger,Saturday
+834,Mafioso Pizza,Plain Lobster,Sunday
+835,Ailane,Steak with potatoes,Tuesday
+836,Yadel,Burritos,Sunday
+837,Yadel,Rolled Shrimp,Thursday
+838,Nlounge,Salad,Friday
+839,Thoughtsphere,Vichyssoise,Tuesday
+840,Einti,Tetrazzini,Wednesday
+841,Twinder,Cajun cuisine,Friday
+842,Livetube,Waffle,Wednesday
+843,Realblab,Surf and turf,Tuesday
+844,Burger Queen,Swiss steak,Thursday
+845,Fivechat,Tomato compote,Thursday
+846,Realbridge,Cheese dog,Friday
+847,Einti,Tomato compote,Thursday
+848,Einti,Golabki,Monday
+849,Eayo,Fish Fillet,Tuesday
+850,Brightbean,Goetta,Thursday
+851,Gevee,Doughnut,Tuesday
+852,Thoughtsphere,Shrimp Creole,Monday
+853,Realcube,Curry Chicken,Wednesday
+854,Youfeed,Eggs Benedict,Monday
+855,Yadel,Super Salad,Monday
+856,Tanoodle,Steak with potatoes,Tuesday
+857,Fivechat,Taco,Monday
+858,Meevee,Hot dog,Thursday
+859,Gigaclub,Italian hot dog,Tuesday
+860,Realblab,Celery Victor,Wednesday
+861,Quimm,Lamb w/ vegetables,Thursday
+862,Jabbersphere,Gyro,Monday
+863,Youtags,Burritos,Monday
+864,Thoughtsphere,Cheese dog,Thursday
+865,Zooxo,Steamed clams,Tuesday
+866,Kayveo,Rolled Shrimp,Monday
+867,Jabbersphere,Steak with potatoes,Tuesday
+868,Zooxo,Domesticated turkey,Friday
+869,Mafioso Pizza,Penne Vodka,Friday
+870,Talane,French Onion Soup,Wednesday
+871,Innotype,Taco,Saturday
+872,Yoveo,Goetta,Wednesday
+873,Ailane,Bigos,Monday
+874,Topicblab,Fat Sandwich,Friday
+875,Linklinks,Cheese dog,Thursday
+876,Gigaclub,Goetta,Friday
+877,Kazio,Spanish rice,Monday
+878,Trilith,Pizza,Thursday
+879,Flipbug,Waffle,Wednesday
+880,Skilith,Tuna casserole,Wednesday
+881,Jaloo,Doughnut,Thursday
+882,Twinder,Jambalaya,Wednesday
+883,Rhybox,Burrito,Wednesday
+884,Livetube,Jambalaya,Friday
+885,Tagfeed,Deviled crab,Monday
+886,Trunyx,Shrimp Creole,Sunday
+887,Meezzy,Steak with potatoes,Monday
+888,Realcube,Greek Salad,Tuesday
+889,Eabox,Salad,Wednesday
+890,Tokyo Fish,Eggs Benedict,Wednesday
+891,Pixope,Hawaiian haystack,Monday
+892,Fanoodle,Buffalo burger,Sunday
+893,Vinder,Steamed clams,Thursday
+894,Tokyo Fish,Tetrazzini,Thursday
+895,Linkbuzz,Hokkien fried rice,Tuesday
+896,Wordify,Penne Vodka,Wednesday
+897,Linkbuzz,Tetrazzini,Monday
+898,Jaxbean,Super Salad,Tuesday
+899,Twitterlist,Brunswick stew,Monday
+900,Realcube,Deviled crab,Friday
+901,Thoughtstorm,Cold Sub,Friday
+902,Skinte,Eggo,Monday
+903,Brightbean,Pasta With Chicken,Sunday
+904,Eadel,Rice and gravy,Monday
+905,Devbug,Vegie Burger,Friday
+906,Zooxo,Salad,Thursday
+907,Kayveo,Gyro,Sunday
+908,Yotz,Pierogi,Wednesday
+909,Meevee,Bull roast,Tuesday
+910,Brainbox,Fish Fillet,Friday
+911,Meevee,Deviled egg,Tuesday
+912,Snaptags,Stuffed peppers,Tuesday
+913,Kazu,Bigos,Sunday
+914,Piast,Pork Fried Rice,Wednesday
+915,Demizz,Taco,Wednesday
+916,Piast,Gumbo,Tuesday
+917,Flashspan,Shrimp Creole,Sunday
+918,Edgepulse,Chicken with Brocoli,Wednesday
+919,Viva,Kotlety,Thursday
+920,Thoughtsphere,Domesticated turkey,Monday
+921,Agimba,Vegie Burger,Wednesday
+922,Yotz,French Onion Soup,Tuesday
+923,Rhybox,Kotlety,Tuesday
+924,Fivechat,Swiss steak,Monday
+925,Topicware,Buffalo wing,Tuesday
+926,Quinu,Plain Lobster,Wednesday
+927,Meeveo,Surf and turf,Wednesday
+928,Lajo,Lamb w/ vegetables,Monday
+929,Geba,Fish Fillet,Tuesday
+930,Skipfire,Cold Sub,Monday
+931,Thoughtbridge,Vegie Burger,Wednesday
+932,Roomm,Fish Fillet,Monday
+933,Oyoba,Stuffed peppers,Monday
+934,Thoughtstorm,Pasta With Chicken,Friday
+935,Oyoba,Hot Dog,Friday
+936,Brightdog,Stuffed zucchini,Thursday
+937,Mycat,Stuffed ham,Saturday
+938,Skinte,Cowboy Burger,Friday
+939,Babbleblab,Pizza,Thursday
+940,Blogpad,Rice and gravy,Thursday
+941,Thoughtstorm,Toaster Strudel,Thursday
+942,Meevee,Toaster Strudel,Wednesday
+943,Realblab,Steak with potatoes,Tuesday
+944,Babbleblab,Fish Fillet,Wednesday
+945,Riffwire,Rolled Shrimp,Tuesday
+946,Tokyo Fish,Pizza,Thursday
+947,Fatz,Pierogi,Monday
+948,Trupe,Kotlet mielony,Monday
+949,Geba,Rolled Shrimp,Monday
+950,Jaxnation,Vichyssoise,Sunday
+951,Osaka Bay Fishery,Italian hot dog,Monday
+952,Jetwire,Bigos,Friday
+953,Twitterbridge,Gumbo,Wednesday
+954,Trudoo,Fat Sandwich,Monday
+955,Fivechat,Gyro,Tuesday
+956,Meeveo,Hawaiian haystack,Thursday
+957,Npath,Rice and gravy,Tuesday
+958,Meevee,Energy bar,Friday
+959,Thoughtstorm,Burrito,Tuesday
+960,Eabox,Pizza,Friday
+961,Brainlounge,Goetta,Wednesday
+962,Tekfly,Kasza,Tuesday
+963,Jaxnation,Plain Lobster,Wednesday
+964,Tagopia,Vichyssoise,Thursday
+965,Flashspan,Lamb w/ vegetables,Thursday
+966,Fatz,Chorizo,Friday
+967,Katz,Surf and turf,Monday
+968,Edgeify,Buffalo burger,Friday
+969,Piast,Bookbinder Soup,Tuesday
+970,Ntags,Tuna casserole,Tuesday
+971,Aimbu,Kotlet mielony,Thursday
+972,Rhyloo,Swiss steak,Friday
+973,Wordify,Kotlety,Tuesday
+974,Brainbox,Domesticated turkey,Monday
+975,Trilith,Pierogi,Thursday
+976,South Border Tacos,French Onion Soup,Monday
+977,King's Takeout,Buffalo burger,Friday
+978,Jaxbean,Pizza,Friday
+979,Divavu,Italian hot dog,Thursday
+980,Tagopia,Fat Sandwich,Monday
+981,Piast,Golabki,Wednesday
+982,Rhyloo,Carne pizzaiola,Sunday
+983,Skipfire,Golabki,Monday
+984,Fanoodle,Domesticated turkey,Sunday
+985,Trunyx,Fresh Bread,Friday
+986,Meezzy,Penne Vodka,Monday
+987,Digitube,Drunken chicken,Sunday
+988,Gabcube,Veggie Burger,Wednesday
+989,Horohito's Crab Shack,Bigos,Wednesday
+990,Voolith,Rolled Shrimp,Thursday
+991,Kwinu,Spanish rice,Sunday
+992,Skiba,Chicken bog,Tuesday
+993,Katz,Generals Tso's Chicken,Wednesday
+994,Yotz,Rice and gravy,Tuesday
+995,Brainbox,Turducken,Thursday
+996,Devbug,Carolina style,Wednesday
+997,Zooxo,Deviled crab,Wednesday
+998,Mafioso Pizza,Stuffed ham,Friday
+999,Talane,Hot Dog,Wednesday
+1000,Piast,Karkówka,Thursday
+1001,Burger Queen,Glorified rice,Monday
+1002,Trunyx,Golabki,Thursday
+1003,Kayveo,Eggo,Monday
+1004,Feedfish,Rolled Shrimp,Thursday
+1005,Divanoodle,Cajun cuisine,Tuesday
+1006,Demimbu,Steamed clams,Tuesday
+1007,Katz,Italian hot dog,Friday
+1008,Jabbersphere,Generals Tso's Chicken,Wednesday
+1009,Quimm,Jumbo Shrimp,Wednesday
+1010,Eabox,Greek Salad,Tuesday
+1011,Vinder,Bigos,Monday
+1012,Som Gud Fud Chinese Food,Chaudin,Friday
+1013,Tagfeed,Burritos,Wednesday
+1014,Dabshots,Rice and gravy,Thursday
+1015,Skilith,Taco,Tuesday
+1016,Quamba,Chaudin,Sunday
+1017,Linkbridge,Pierogi,Thursday
+1018,Yadel,Chicken with Brocoli,Monday
+1019,Linklinks,Burrito,Friday
+1020,Linkbuzz,Eggo,Thursday
+1021,Zoonoodle,Waffle,Sunday
+1022,Pixope,Golabki,Monday
+1023,Realmix,Fresh Bread,Monday
+1024,Divanoodle,Steamed clams,Tuesday
+1025,Quimm,Bigos,Wednesday
+1026,Jaloo,Surf and turf,Thursday
+1027,Youspan,Rolled Shrimp,Saturday
+1028,Zooxo,Rolled Shrimp,Wednesday
+1029,Osaka Bay Fishery,Karkówka,Thursday
+1030,Mafioso Pizza,Asian Salad,Friday
+1031,Tagcat,Chorizo,Tuesday
+1032,Browseblab,Hawaiian haystack,Friday
+1033,Thoughtsphere,Eggs Neptune,Sunday
+1034,Halal Palace,Pork Fried Rice,Friday
+1035,Dynabox,Buffalo burger,Tuesday
+1036,Dabvine,Deviled egg,Friday
+1037,Jaxnation,Kotlety,Thursday
+1038,Quamba,Jambalaya,Monday
+1039,Browseblab,Salad,Tuesday
+1040,Realbridge,Thousand Island dressing,Monday
+1041,Zooxo,Bull roast,Friday
+1042,Dabshots,Cheese dog,Wednesday
+1043,Thoughtstorm,Jambalaya,Wednesday
+1044,Brainverse,Tomato compote,Thursday
+1045,Skinte,Fish Fillet,Friday
+1046,Trilith,Shrimp Creole,Saturday
+1047,Youfeed,Pierogi,Wednesday
+1048,Skinte,Half-smoke,Friday
+1049,Voonyx,Jambalaya,Wednesday
+1050,Piast,Rolled Shrimp,Wednesday
+1051,Skinix,Pizza,Wednesday
+1052,Jersey Burger,Greek Salad,Friday
+1053,Dynabox,Bookbinder Soup,Thursday
+1054,Ntags,Jumbo Shrimp,Tuesday
+1055,Skilith,Tetrazzini,Tuesday
+1056,Zooxo,Hokkien fried rice,Friday
+1057,Oyoloo,Italian hot dog,Thursday
+1058,Meetz,Fresh Bread,Monday
+1059,Fatz,Burnt ends,Sunday
+1060,Dynabox,Hawaiian haystack,Wednesday
+1061,Jersey Burger,Asian Salad,Friday
+1062,Gevee,Buffalo burger,Saturday
+1063,Pixope,Carolina style,Wednesday
+1064,Vidoo,Gyro,Wednesday
+1065,Divavu,Plain Lobster,Wednesday
+1066,Thoughtstorm,Bookbinder Soup,Thursday
+1067,Babbleblab,Stuffed peppers,Saturday
+1068,Thoughtsphere,Half-smoke,Monday
+1069,Photofeed,Veggie Burger,Tuesday
+1070,Twinder,Veggie Burger,Friday
+1071,Zoovu,Karkówka,Thursday
+1072,Aimbu,Vichyssoise,Thursday
+1073,Skinix,Plain Lobster,Friday
+1074,King's Takeout,Jambalaya,Tuesday
+1075,Mycat,Toaster Strudel,Friday
+1076,Tagcat,Bull roast,Monday
+1077,Skipfire,Kotlet mielony,Tuesday
+1078,Feedfish,Burritos,Wednesday
+1079,Jabbersphere,Kielbasa ,Monday
+1080,Skiba,Burnt ends,Sunday
+1081,Tagcat,Drunken chicken,Tuesday
+1082,Kayveo,Shrimp Creole,Tuesday
+1083,Realblab,Veggie Burger,Wednesday
+1084,Jersey Burger,Pasta With Chicken,Wednesday
+1085,Divavu,Cold Sub,Friday
+1086,Kwinu,Buffalo burger,Monday
+1087,Dabshots,Penne Vodka,Thursday
+1088,Wikivu,Brunswick stew,Friday
+1089,Livetube,Eggo,Thursday
+1090,Twitterlist,Hokkien fried rice,Monday
+1091,Burger Queen,Super Salad,Monday
+1092,Linkbuzz,Hoppin' John,Tuesday
+1093,Tokyo Fish,Turkey Burger,Tuesday
+1094,Igor's Vodka Shack,Deviled crab,Wednesday
+1095,Rhyloo,Goetta,Monday
+1096,Feedfish,Toaster Strudel,Thursday
+1097,Tokyo Fish,Fresh Bread,Thursday
+1098,Yadel,Kasza,Monday
+1099,Horohito's Crab Shack,Half-smoke,Monday
+1100,Topicware,Gyro,Friday
+1101,Thoughtbridge,Asian Salad,Tuesday
+1102,Mafioso Pizza,Cold Sub,Sunday
+1103,Pixope,Buffalo wing,Thursday
+1104,Thoughtstorm,Karkówka,Sunday
+1105,Smith's Grill,Turkey Burger,Thursday
+1106,Brightbean,Pork Fried Rice,Friday
+1107,Meevee,Vichyssoise,Monday
+1108,Flashspan,Salad,Tuesday
+1109,Realblab,Cajun cuisine,Sunday
+1110,Tagopia,Doughnut,Monday
+1111,Horohito's Crab Shack,Pierogi,Sunday
+1112,Skilith,Thousand Island dressing,Thursday
+1113,Rhybox,Chaudin,Thursday
+1114,Burger Queen,Half-smoke,Wednesday
+1115,Zooxo,Spanish rice,Thursday
+1116,Mycat,Tomato compote,Thursday
+1117,Gabcube,Buffalo burger,Wednesday
+1118,Demivee,Jumbo Shrimp,Friday
+1119,Tagfeed,Rolled Shrimp,Tuesday
+1120,Geba,Calf's liver and bacon,Thursday
+1121,Jaxbean,Rolled Shrimp,Wednesday
+1122,Edgewire,Meat ball sandwich,Monday
+1123,Brightbean,Toaster Strudel,Tuesday
+1124,Dabshots,Pierogi,Tuesday
+1125,Flipbug,Golabki,Friday
+1126,South Border Tacos,Buffalo burger,Thursday
+1127,Twitterbridge,Kotlety,Wednesday
+1128,Yata,Gyro,Wednesday
+1129,Twinder,Bull roast,Thursday
+1130,Digitube,Burnt ends,Monday
+1131,Wikizz,Shrimp Creole,Monday
+1132,Jaxnation,Rice and gravy,Thursday
+1133,Eabox,Burrito,Friday
+1134,Piast,Calf's liver and bacon,Monday
+1135,Ntag,Stuffed ham,Tuesday
+1136,Jetwire,Chaudin,Thursday
+1137,Skinix,Hot Dog,Thursday
+1138,Halal Palace,Fat Sandwich,Monday
+1139,Quimm,Greek Salad,Monday
+1140,Som Gud Fud Chinese Food,Glorified rice,Thursday
+1141,Yadel,Thousand Island dressing,Saturday
+1142,Dabshots,Hot dog,Friday
+1143,Skinte,Kasza,Thursday
+1144,Flipbug,Celery Victor,Sunday
+1145,Kazu,Calf's liver and bacon,Friday
+1146,Thoughtsphere,Pork Fried Rice,Thursday
+1147,Jaxnation,Asian Salad,Wednesday
+1148,Youtags,Pasta With Chicken,Saturday
+1149,Thoughtsphere,Stuffed zucchini,Monday
+1150,Kayveo,Fish Fillet,Sunday
+1151,Kazu,Pasta With Chicken,Friday
+1152,Demimbu,Swiss steak,Wednesday
+1153,Zooxo,Energy bar,Tuesday
+1154,Skilith,Pasta With Chicken,Tuesday
+1155,Meevee,Fresh Bread,Monday
+1156,Jabbersphere,Kotlety,Friday
+1157,Trunyx,Bull roast,Wednesday
+1158,Meeveo,Rolled Shrimp,Monday
+1159,Photofeed,Italian hot dog,Tuesday
+1160,Wikizz,Italian hot dog,Monday
+1161,Jaloo,Swiss steak,Friday
+1162,Trunyx,Fat Sandwich,Tuesday
+1163,Realcube,Carne pizzaiola,Wednesday
+1164,Trilith,Kotlety,Wednesday
+1165,Outfront stakehouse,Super Salad,Tuesday
+1166,Tanoodle,Hawaiian haystack,Monday
+1167,Brightdog,Spanish rice,Thursday
+1168,Yata,Rolled Shrimp,Saturday
+1169,Skinix,Jumbo Shrimp,Wednesday
+1170,Quinu,Carolina style,Tuesday
+1171,Divavu,Chaudin,Tuesday
+1172,Centimia,Bigos,Tuesday
+1173,Fatz,Karkówka,Thursday
+1174,Talane,Curry Chicken,Tuesday
+1175,King's Takeout,Rice and gravy,Saturday
+1176,Eabox,Hot Dog,Thursday
+1177,Kwinu,Fat Sandwich,Tuesday
+1178,Vinder,Domesticated turkey,Tuesday
+1179,Oyoloo,Kasza,Thursday
+1180,Kanoodle,Stuffed zucchini,Wednesday
+1181,Piast,Gyro,Wednesday
+1182,Ainyx,Tetrazzini,Monday
+1183,Photobug,Burrito,Wednesday
+1184,Bubblemix,Pierogi,Wednesday
+1185,Som Gud Fud Chinese Food,Spanish rice,Tuesday
+1186,Rhyloo,Rolled Shrimp,Wednesday
+1187,Wordify,Rice and gravy,Friday
+1188,Thoughtstorm,Cheese dog,Friday
+1189,Yotz,Chorizo,Friday
+1190,Realfire,Kotlety,Thursday
+1191,Tokyo Fish,Curry Chicken,Monday
+1192,Horohito's Crab Shack,Energy bar,Monday
+1193,Piast,Eggo,Friday
+1194,Dynava,Tomato compote,Monday
+1195,Youfeed,Tetrazzini,Wednesday
+1196,Talane,Tetrazzini,Wednesday
+1197,Halal Palace,Hoppin' John,Wednesday
+1198,Gigaclub,Bull roast,Wednesday
+1199,Jaloo,Hoppin' John,Friday
+1200,Kayveo,French Onion Soup,Wednesday
+1201,Photospace,Fat Sandwich,Wednesday
+1202,Piast,Steak with potatoes,Friday
+1203,Mafioso Pizza,Greek Salad,Wednesday
+1204,Topicware,Deviled egg,Friday
+1205,Osaka Bay Fishery,Cheese dog,Thursday
+1206,Fatz,Jumbo Shrimp,Friday
+1207,Rhyloo,Rolled Shrimp,Monday
+1208,Skilith,Kotlet mielony,Monday
+1209,Trilith,Celery Victor,Saturday
+1210,Twinder,Deviled egg,Sunday
+1211,Realcube,Celery Victor,Wednesday
+1212,Meevee,Vegie Burger,Wednesday
+1213,Trilith,Celery Victor,Monday
+1214,Dynabox,Plain Lobster,Friday
+1215,Demizz,Burrito,Thursday
+1216,Meeveo,Gumbo,Monday
+1217,Browseblab,Cowboy Burger,Tuesday
+1218,Outfront stakehouse,Eggs Benedict,Wednesday
+1219,Wikizz,Steamed clams,Friday
+1220,Snaptags,Tomato compote,Thursday
+1221,Rhyloo,Surf and turf,Sunday
+1222,Quimm,Kotlety,Friday
+1223,Eayo,Gyro,Monday
+1224,Livetube,Chicken bog,Monday
+1225,Quamba,Calf's liver and bacon,Tuesday
+1226,Tokyo Fish,Waffle,Monday
+1227,Jersey Burger,Pasta With Chicken,Thursday
+1228,Tagfeed,Tuna casserole,Monday
+1229,Photofeed,Brunswick stew,Friday
+1230,Outfront stakehouse,Tuna casserole,Thursday
+1231,Babbleblab,Fat Sandwich,Tuesday
+1232,Vidoo,Eggs Neptune,Friday
+1233,Thoughtsphere,Curry Chicken,Thursday
+1234,Jaxbean,Turducken,Thursday
+1235,Meevee,Curry Chicken,Tuesday
+1236,Brightbean,Thousand Island dressing,Friday
+1237,Babbleblab,Pork Fried Rice,Friday
+1238,Topicware,Tuna casserole,Tuesday
+1239,Rhybox,Rolled Shrimp,Thursday
+1240,Skilith,Carne pizzaiola,Thursday
+1241,Yadel,Deviled egg,Wednesday
+1242,Linkbridge,Stuffed zucchini,Monday
+1243,Igor's Vodka Shack,Sushi Roll,Friday
+1244,Yotz,Cold Sub,Friday
+1245,Geba,Surf and turf,Wednesday
+1246,Edgeify,Stuffed peppers,Thursday
+1247,Trunyx,Stuffed peppers,Wednesday
+1248,Tagopia,Pasta With Chicken,Wednesday
+1249,Ainyx,Steamed clams,Friday
+1250,Trudoo,Domesticated turkey,Wednesday
+1251,Gabcube,Cajun cuisine,Monday
+1252,Snaptags,Surf and turf,Thursday
+1253,Edgewire,Drunken chicken,Tuesday
+1254,Tagfeed,Fresh Bread,Sunday
+1255,Browseblab,Steamed clams,Thursday
+1256,Kanoodle,Kotlet mielony,Friday
+1257,Trilith,French Onion Soup,Sunday
+1258,Som Gud Fud Chinese Food,Jambalaya,Tuesday
+1259,Meeveo,Generals Tso's Chicken,Tuesday
+1260,Som Gud Fud Chinese Food,Shrimp Creole,Wednesday
+1261,Meezzy,Super Salad,Wednesday
+1262,Rhyloo,Eggo,Sunday
+1263,Trilith,Tomato compote,Thursday
+1264,Zooxo,Thousand Island dressing,Thursday
+1265,Wikizz,Toaster Strudel,Sunday
+1266,Flashspan,Chaudin,Monday
+1267,Meeveo,Eggs Benedict,Thursday
+1268,Bubblemix,Calf's liver and bacon,Sunday
+1269,Quimm,Rolled Shrimp,Tuesday
+1270,Linkbridge,Hawaiian haystack,Saturday
+1271,Riffwire,Rolled Shrimp,Friday
+1272,Divanoodle,Eggo,Saturday
+1273,Thoughtstorm,Kotlety,Sunday
+1274,Rhyloo,Stuffed ham,Wednesday
+1275,Skilith,Brunswick stew,Tuesday
+1276,Jaxnation,Calf's liver and bacon,Sunday
+1277,Fanoodle,Stuffed zucchini,Wednesday
+1278,Piast,Burrito,Thursday
+1279,Tokyo Fish,Burnt ends,Friday
+1280,Voonyx,Jambalaya,Tuesday
+1281,Trilith,Kasza,Friday
+1282,Kazio,Energy bar,Monday
+1283,Tokyo Fish,Vichyssoise,Thursday
+1284,Mafioso Pizza,Golabki,Thursday
+1285,Linklinks,Buffalo burger,Saturday
+1286,Dynabox,Cheese dog,Monday
+1287,Tekfly,Steak with potatoes,Monday
+1288,Vinder,Salad,Sunday
+1289,Quamba,Doughnut,Sunday
+1290,Jersey Burger,Gyro,Sunday
+1291,Piast,Vichyssoise,Wednesday
+1292,Voonyx,Karkówka,Thursday
+1293,Kwinu,Eggs Neptune,Monday
+1294,Trilith,Goetta,Wednesday
+1295,Meevee,Hawaiian haystack,Monday
+1296,Voomm,Gumbo,Monday
+1297,Blogpad,Hot dog,Monday
+1298,Osaka Bay Fishery,Veggie Burger,Sunday
+1299,Yotz,Stuffed zucchini,Friday
+1300,Igor's Vodka Shack,Carne pizzaiola,Tuesday
+1301,Linkbuzz,Swiss steak,Friday
+1302,Aimbu,Hoppin' John,Tuesday
+1303,Yotz,Chicken with Brocoli,Thursday
+1304,Ailane,Chorizo,Thursday
+1305,Trunyx,Rolled Shrimp,Saturday
+1306,Fatz,Fat Sandwich,Monday
+1307,Zooxo,Super Salad,Tuesday
+1308,Skinix,Drunken chicken,Wednesday
+1309,Mafioso Pizza,Calf's liver and bacon,Friday
+1310,Zooxo,Doughnut,Monday
+1311,Youfeed,Doughnut,Sunday
+1312,Piast,Super Salad,Thursday
+1313,Dabshots,Thousand Island dressing,Thursday
+1314,Linkbuzz,Pork Fried Rice,Friday
+1315,Eabox,Domesticated turkey,Thursday
+1316,Skipfire,Fresh Bread,Saturday
+1317,Edgeify,Shrimp Creole,Tuesday
+1318,Halal Palace,Thousand Island dressing,Sunday
+1319,Fivechat,Burrito,Monday
+1320,Eabox,Steak with potatoes,Tuesday
+1321,Vidoo,Burnt ends,Friday
+1322,Outfront stakehouse,Asian Salad,Friday
+1323,Realbridge,Kielbasa ,Tuesday
+1324,Feedfish,Shrimp Creole,Sunday
+1325,Quatz,Celery Victor,Friday
+1326,Dynabox,Chorizo,Monday
+1327,Zooxo,Surf and turf,Friday
+1328,Flipbug,Deviled crab,Saturday
+1329,Outfront stakehouse,Tetrazzini,Thursday
+1330,Igor's Vodka Shack,Cheese dog,Friday
+1331,Jaloo,Cheese dog,Monday
+1332,Twitterlist,Calf's liver and bacon,Wednesday
+1333,Photofeed,Spanish rice,Friday
+1334,Quatz,Eggs Benedict,Monday
+1335,Piast,Hot dog,Thursday
+1336,Thoughtsphere,Sushi Roll,Monday
+1337,Tokyo Fish,Eggs Neptune,Thursday
+1338,Brainbox,Golabki,Monday
+1339,Photospace,Tomato compote,Monday
+1340,Babbleblab,Steak with potatoes,Thursday
+1341,Snaptags,Calf's liver and bacon,Monday
+1342,Yata,Kotlety,Thursday
+1343,Quinu,Thousand Island dressing,Tuesday
+1344,Rhyloo,Penne Vodka,Wednesday
+1345,Demizz,Energy bar,Thursday
+1346,Fatz,Italian hot dog,Tuesday
+1347,Browseblab,Surf and turf,Tuesday
+1348,Tokyo Fish,Eggo,Tuesday
+1349,Jabbersphere,Surf and turf,Wednesday
+1350,Brightdog,Pork Fried Rice,Wednesday
+1351,Zooxo,Carolina style,Tuesday
+1352,Wikivu,Jumbo Shrimp,Saturday
+1353,Trunyx,Penne Vodka,Monday
+1354,Trunyx,Eggo,Tuesday
+1355,Skalith,Toaster Strudel,Monday
+1356,Thoughtsphere,Cheese dog,Sunday
+1357,Kwinu,Hokkien fried rice,Friday
+1358,Edgeify,Bookbinder Soup,Tuesday
+1359,Ntags,Cold Sub,Sunday
+1360,Som Gud Fud Chinese Food,Hawaiian haystack,Friday
+1361,Centimia,Eggo,Wednesday
+1362,Thoughtstorm,Glorified rice,Friday
+1363,Thoughtsphere,Hoppin' John,Thursday
+1364,Photofeed,Karkówka,Tuesday
+1365,Zooxo,Shrimp Scampi,Wednesday
+1366,Einti,Hoppin' John,Friday
+1367,Twitterlist,Shrimp Creole,Wednesday
+1368,Nlounge,Glorified rice,Sunday
+1369,Trunyx,Buffalo burger,Friday
+1370,Topicware,Celery Victor,Tuesday
+1371,Piast,Carne pizzaiola,Monday
+1372,Lajo,Italian hot dog,Friday
+1373,Katz,Gumbo,Friday
+1374,Dynava,Greek Salad,Saturday
+1375,Youspan,Eggo,Saturday
+1376,Eadel,Generals Tso's Chicken,Monday
+1377,Twitterbridge,Bigos,Tuesday
+1378,Thoughtstorm,Doughnut,Monday
+1379,Meeveo,Pierogi,Thursday
+1380,Edgeify,Cold Sub,Wednesday
+1381,Bubblemix,Rolled Shrimp,Tuesday
+1382,Zooxo,Cowboy Burger,Tuesday
+1383,Wikivu,Deviled egg,Wednesday
+1384,Meevee,Waffle,Thursday
+1385,Divavu,Surf and turf,Tuesday
+1386,Voonyx,Eggs Neptune,Wednesday
+1387,Tanoodle,Brunswick stew,Monday
+1388,Gabcube,Karkówka,Tuesday
+1389,Thoughtsphere,Surf and turf,Tuesday
+1390,Fivechat,Rolled Shrimp,Monday
+1391,Demivee,Stuffed ham,Friday
+1392,Oyoba,Fresh Bread,Tuesday
+1393,Youfeed,Shrimp Creole,Friday
+1394,Yotz,Chicken with Brocoli,Monday
+1395,Photofeed,Doughnut,Tuesday
+1396,Horohito's Crab Shack,Surf and turf,Thursday
+1397,Trunyx,Cajun cuisine,Tuesday
+1398,Topicblab,Deviled egg,Monday
+1399,Devbug,Carolina style,Monday
+1400,Linklinks,Salad,Monday
+1401,Twitterlist,Chicken with Brocoli,Thursday
+1402,Twinder,Steak with potatoes,Friday
+1403,Thoughtstorm,Dirty rice,Monday
+1404,Eabox,Veggie Burger,Friday
+1405,Linkbridge,Waffle,Monday
+1406,Lazzy,Asian Salad,Wednesday
+1407,Photospace,Cajun cuisine,Thursday
+1408,Dabvine,Chorizo,Thursday
+1409,Edgepulse,Pork Fried Rice,Friday
+1410,Brightdog,Hot Dog,Monday
+1411,Dynabox,Chicken bog,Sunday
+1412,Eabox,Tuna casserole,Tuesday
+1413,Twinder,Fresh Bread,Tuesday
+1414,Topicware,Chaudin,Tuesday
+1415,Horohito's Crab Shack,Bigos,Saturday
+1416,Fanoodle,Pizza,Wednesday
+1417,Mafioso Pizza,Drunken chicken,Sunday
+1418,Demimbu,Penne Vodka,Tuesday
+1419,Babbleblab,Chicken with Brocoli,Wednesday
+1420,Zoovu,Rolled Shrimp,Monday
+1421,Devbug,Tetrazzini,Monday
+1422,Jaxbean,Salad,Saturday
+1423,Realbridge,Bull roast,Tuesday
+1424,Topicblab,Calf's liver and bacon,Friday
+1425,Photobug,Karkówka,Wednesday
+1426,Voolith,Swiss steak,Thursday
+1427,Quatz,Calf's liver and bacon,Thursday
+1428,Livetube,Taco,Wednesday
+1429,Mafioso Pizza,Penne Vodka,Monday
+1430,Piast,Cheese dog,Wednesday
+1431,Meezzy,Meat ball sandwich,Friday
+1432,Photofeed,Gyro,Wednesday
+1433,Trilith,Kasza,Tuesday
+1434,Riffwire,Burnt ends,Thursday
+1435,Quinu,Fish Fillet,Friday
+1436,Jaxnation,Buffalo wing,Tuesday
+1437,Ainyx,Chorizo,Thursday
+1438,Thoughtbridge,Lamb w/ vegetables,Friday
+1439,Fatz,Domesticated turkey,Tuesday
+1440,Divape,Pierogi,Wednesday
+1441,Piast,Tetrazzini,Wednesday
+1442,Realblab,Stuffed zucchini,Sunday
+1443,Agimba,Cheese dog,Sunday
+1444,Youspan,Bull roast,Friday
+1445,Zooxo,Sushi Roll,Friday
+1446,Brainbox,Brunswick stew,Friday
+1447,Browseblab,Tuna casserole,Monday
+1448,Edgepulse,Taco,Thursday
+1449,Meevee,Bigos,Monday
+1450,Brightdog,Karkówka,Tuesday
+1451,Dabvine,Swiss steak,Monday
+1452,Edgeify,Gyro,Friday
+1453,Topicware,Gyro,Monday
+1454,Trilith,Half-smoke,Tuesday
+1455,Mafioso Pizza,Bookbinder Soup,Friday
+1456,Quimm,Shrimp Scampi,Friday
+1457,Thoughtstorm,Pork Fried Rice,Monday
+1458,Divavu,Hot dog,Tuesday
+1459,Devbug,Greek Salad,Tuesday
+1460,Ntags,Plain Lobster,Sunday
+1461,Babbleblab,Chorizo,Monday
+1462,Tokyo Fish,Jambalaya,Thursday
+1463,Skalith,Goetta,Monday
+1464,Eayo,Thousand Island dressing,Wednesday
+1465,Tagcat,Eggo,Saturday
+1466,Jaxnation,Steak with potatoes,Thursday
+1467,Thoughtstorm,Shrimp Scampi,Wednesday
+1468,Youtags,Cheese dog,Saturday
+1469,Divavu,Doughnut,Thursday
+1470,Realblab,Turkey Burger,Wednesday
+1471,Dynabox,Super Salad,Friday
+1472,Oyoloo,Pork Fried Rice,Sunday
+1473,Innotype,Waffle,Friday
+1474,Voonyx,Carolina style,Thursday
+1475,Wikivu,Domesticated turkey,Tuesday
+1476,Meevee,Curry Chicken,Wednesday
+1477,Roomm,Celery Victor,Monday
+1478,Thoughtstorm,Energy bar,Wednesday
+1479,Bubblemix,Spanish rice,Thursday
+1480,Demizz,Stuffed zucchini,Tuesday
+1481,Halal Palace,Italian hot dog,Tuesday
+1482,Smith's Grill,Eggs Benedict,Saturday
+1483,Gigaclub,Calf's liver and bacon,Wednesday
+1484,Zooxo,Jumbo Shrimp,Thursday
+1485,Outfront stakehouse,Cajun cuisine,Tuesday
+1486,Burger Queen,Curry Chicken,Wednesday
+1487,Quamba,Vichyssoise,Friday
+1488,Dabfeed,Golabki,Monday
+1489,Ntags,Curry Chicken,Thursday
+1490,Piast,Burritos,Tuesday
+1491,Topicware,Rolled Shrimp,Wednesday
+1492,Babbleblab,Karkówka,Monday
+1493,Blogpad,Eggs Benedict,Thursday
+1494,Thoughtstorm,Steak with potatoes,Wednesday
+1495,Yotz,Calf's liver and bacon,Saturday
+1496,Jaxnation,Deviled crab,Sunday
+1497,Tagfeed,Italian hot dog,Friday
+1498,Jaxnation,Veggie Burger,Monday
+1499,Fivechat,Penne Vodka,Wednesday
+1500,Fatz,Spanish rice,Friday
+1501,Quinu,Surf and turf,Wednesday
+1502,Quimm,Eggs Neptune,Saturday
+1503,Oyoloo,Doughnut,Monday
+1504,Quinu,Bookbinder Soup,Wednesday
+1505,Yata,Burrito,Sunday
+1506,Babbleblab,Burnt ends,Monday
+1507,Jetwire,Bull roast,Monday
+1508,Twinder,Karkówka,Thursday
+1509,Brainverse,Swiss steak,Wednesday
+1510,Nlounge,Glorified rice,Tuesday
+1511,Youfeed,Hot dog,Monday
+1512,Mafioso Pizza,Calf's liver and bacon,Monday
+1513,Piast,Penne Vodka,Monday
+1514,Yadel,Domesticated turkey,Tuesday
+1515,Linkbridge,Carne pizzaiola,Monday
+1516,Ntag,Turducken,Saturday
+1517,Ailane,Waffle,Monday
+1518,Skinte,Jambalaya,Monday
+1519,Innotype,Gyro,Monday
+1520,Burger Queen,French Onion Soup,Tuesday
+1521,Zooxo,Domesticated turkey,Wednesday
+1522,Aimbu,Toaster Strudel,Saturday
+1523,Oyoloo,Tuna casserole,Monday
+1524,Quatz,Burrito,Monday
+1525,King's Takeout,Calf's liver and bacon,Thursday
+1526,Tagopia,Cajun cuisine,Thursday
+1527,Rhyloo,Taco,Friday
+1528,Kayveo,Hoppin' John,Thursday
+1529,Lazzy,Energy bar,Thursday
+1530,Feedfish,Cowboy Burger,Wednesday
+1531,Skinte,Pizza,Wednesday
+1532,Dynabox,Rolled Shrimp,Friday
+1533,Divanoodle,Bigos,Saturday
+1534,Innotype,Goetta,Monday
+1535,Skilith,Thousand Island dressing,Monday
+1536,Aimbu,Eggs Neptune,Tuesday
+1537,Thoughtsphere,Cajun cuisine,Wednesday
+1538,Tokyo Fish,Hokkien fried rice,Monday
+1539,Jetwire,Deviled crab,Thursday
+1540,Youtags,Kotlety,Friday
+1541,Bubblemix,Fat Sandwich,Monday
+1542,Linkbridge,Greek Salad,Wednesday
+1543,Yotz,Steak with potatoes,Tuesday
+1544,Pixope,Gumbo,Thursday
+1545,Realblab,Carolina style,Wednesday
+1546,Snaptags,Half-smoke,Friday
+1547,Linklinks,Vegie Burger,Thursday
+1548,Piast,Jambalaya,Thursday
+1549,Edgeify,Pierogi,Wednesday
+1550,Fivechat,Super Salad,Monday
+1551,Thoughtsphere,Plain Lobster,Monday
+1552,Aimbu,Eggs Neptune,Thursday
+1553,Jaloo,Gyro,Monday
+1554,Edgepulse,Vichyssoise,Tuesday
+1555,Quatz,Bull roast,Monday
+1556,Photofeed,Thousand Island dressing,Wednesday
+1557,Thoughtstorm,Steak with potatoes,Friday
+1558,Topicblab,Rolled Shrimp,Monday
+1559,Snaptags,Kasza,Thursday
+1560,Bubblemix,Hot Dog,Saturday
+1561,Yotz,Curry Chicken,Thursday
+1562,Twitterbridge,Dirty rice,Sunday
+1563,Dynabox,Drunken chicken,Monday
+1564,Kazio,Hoppin' John,Tuesday
+1565,Trunyx,Steamed clams,Monday
+1566,Thoughtsphere,Vegie Burger,Monday
+1567,Vidoo,Cajun cuisine,Tuesday
+1568,Linkbridge,Thousand Island dressing,Friday
+1569,Voonyx,Doughnut,Wednesday
+1570,Kazu,Pierogi,Thursday
+1571,Igor's Vodka Shack,Taco,Friday
+1572,Realblab,Gyro,Sunday
+1573,Divavu,Rolled Shrimp,Wednesday
+1574,Mafioso Pizza,Chaudin,Friday
+1575,Linkbridge,Curry Chicken,Monday
+1576,Fivechat,Hokkien fried rice,Sunday
+1577,Jaloo,Pasta With Chicken,Wednesday
+1578,Digitube,Burritos,Wednesday
+1579,Jaxnation,Italian hot dog,Thursday
+1580,Demimbu,Chorizo,Thursday
+1581,Agimba,Golabki,Thursday
+1582,Riffwire,Kotlety,Saturday
+1583,Jaxnation,Rolled Shrimp,Thursday
+1584,Meeveo,Chicken bog,Friday
+1585,Flashspan,Super Salad,Wednesday
+1586,Horohito's Crab Shack,Spanish rice,Wednesday
+1587,Photofeed,Steak with potatoes,Wednesday
+1588,Meezzy,Chicken with Brocoli,Tuesday
+1589,Tekfly,Cold Sub,Friday
+1590,Gigaclub,Buffalo wing,Wednesday
+1591,Katz,Bull roast,Saturday
+1592,Fatz,Rolled Shrimp,Thursday
+1593,Osaka Bay Fishery,Karkówka,Tuesday
+1594,Innotype,Deviled crab,Monday
+1595,Einti,Cajun cuisine,Monday
+1596,Outfront stakehouse,Hoppin' John,Saturday
+1597,Tokyo Fish,Brunswick stew,Thursday
+1598,Youtags,Fish Fillet,Thursday
+1599,Smith's Grill,Burnt ends,Thursday
+1600,Flashspan,Cold Sub,Monday
+1601,Topicblab,Gyro,Monday
+1602,Zooxo,Goetta,Friday
+1603,Kwinu,Gumbo,Tuesday
+1604,Gigaclub,Domesticated turkey,Friday
+1605,Bubblemix,Rice and gravy,Friday
+1606,Thoughtbridge,Carne pizzaiola,Wednesday
+1607,Livetube,Generals Tso's Chicken,Thursday
+1608,Tekfly,Asian Salad,Tuesday
+1609,Igor's Vodka Shack,French Onion Soup,Monday
+1610,Yoveo,Kasza,Wednesday
+1611,Edgeify,Asian Salad,Wednesday
+1612,Livetube,Waffle,Monday
+1613,Tokyo Fish,Pasta With Chicken,Monday
+1614,Tagfeed,Brunswick stew,Tuesday
+1615,Tagcat,Sushi Roll,Friday
+1616,Igor's Vodka Shack,Thousand Island dressing,Tuesday
+1617,Skinix,Hokkien fried rice,Tuesday
+1618,Burger Queen,Steak with potatoes,Tuesday
+1619,Brightdog,Rolled Shrimp,Monday
+1620,Browseblab,Burrito,Friday
+1621,Tokyo Fish,Jambalaya,Thursday
+1622,Meeveo,Pork Fried Rice,Monday
+1623,Einti,Fish Fillet,Monday
+1624,Vinder,Stuffed ham,Wednesday
+1625,Quimm,Domesticated turkey,Sunday
+1626,Twinder,Super Salad,Monday
+1627,Meevee,Asian Salad,Friday
+1628,Twinder,Drunken chicken,Thursday
+1629,Gigaclub,Deviled crab,Friday
+1630,Trunyx,Gumbo,Tuesday
+1631,Jetwire,Hoppin' John,Thursday
+1632,Quimm,Bull roast,Wednesday
+1633,Thoughtsphere,Hoppin' John,Friday
+1634,Skinte,Chorizo,Tuesday
+1635,Thoughtbridge,Steak with potatoes,Friday
+1636,Snaptags,Jambalaya,Wednesday
+1637,Wikivu,Doughnut,Sunday
+1638,Twinder,Salad,Friday
+1639,Realmix,Gyro,Friday
+1640,Piast,Jambalaya,Tuesday
+1641,Zooxo,French Onion Soup,Monday
+1642,Demizz,Steamed clams,Friday
+1643,Vinder,Steak with potatoes,Thursday
+1644,Fatz,Golabki,Wednesday
+1645,Demivee,Kotlety,Tuesday
+1646,Trudoo,Dirty rice,Thursday
+1647,Realmix,Turducken,Friday
+1648,Kayveo,Buffalo wing,Wednesday
+1649,Voonyx,Kielbasa ,Wednesday
+1650,Quinu,Kotlety,Monday
+1651,Linkbridge,Celery Victor,Saturday
+1652,Fivechat,Cheese dog,Thursday
+1653,Digitube,Chicken with Brocoli,Tuesday
+1654,Yoveo,Rice and gravy,Tuesday
+1655,Agimba,Tuna casserole,Tuesday
+1656,Fivechat,Golabki,Monday
+1657,Eabox,Jumbo Shrimp,Monday
+1658,Twinder,Plain Lobster,Monday
+1659,Meevee,Kasza,Saturday
+1660,Twinder,Pizza,Friday
+1661,Oyoloo,Veggie Burger,Thursday
+1662,Realcube,Fish Fillet,Monday
+1663,Kazu,Italian hot dog,Friday
+1664,Piast,Eggs Neptune,Monday
+1665,Jaxnation,Karkówka,Wednesday
+1666,Piast,Hoppin' John,Monday
+1667,Livetube,Rolled Shrimp,Tuesday
+1668,Quatz,Cheese dog,Thursday
+1669,Osaka Bay Fishery,Veggie Burger,Thursday
+1670,Yadel,Bigos,Thursday
+1671,Trilith,Italian hot dog,Monday
+1672,Geba,Fat Sandwich,Friday
+1673,Fanoodle,Thousand Island dressing,Monday
+1674,Fatz,Sushi Roll,Thursday
+1675,Meeveo,Bookbinder Soup,Monday
+1676,Mafioso Pizza,Kotlet mielony,Monday
+1677,Brainverse,Steak with potatoes,Tuesday
+1678,Linkbuzz,Tuna casserole,Wednesday
+1679,Blogpad,Meat ball sandwich,Monday
+1680,Livetube,Chicken bog,Friday
+1681,Jaxbean,Super Salad,Tuesday
+1682,Topicblab,Gumbo,Thursday
+1683,Piast,Bigos,Wednesday
+1684,Thoughtstorm,Burrito,Wednesday
+1685,Skilith,Deviled egg,Saturday
+1686,Burger Queen,Burnt ends,Wednesday
+1687,Smith's Grill,Drunken chicken,Friday
+1688,Tokyo Fish,Kotlet mielony,Wednesday
+1689,Buzzshare,Tomato compote,Monday
+1690,Zoovu,Bull roast,Friday
+1691,Igor's Vodka Shack,French Onion Soup,Friday
+1692,Jaxnation,Steak with potatoes,Wednesday
+1693,Skinix,Glorified rice,Monday
+1694,Livetube,Eggs Neptune,Wednesday
+1695,Jersey Burger,Eggs Benedict,Sunday
+1696,Jaxnation,Cold Sub,Saturday
+1697,Kayveo,Super Salad,Thursday
+1698,Nlounge,Chicken bog,Tuesday
+1699,Demivee,Stuffed ham,Tuesday
+1700,Piast,Buffalo burger,Monday
+1701,Edgeify,Gumbo,Tuesday
+1702,Viva,Rice and gravy,Saturday
+1703,Realbridge,Kasza,Tuesday
+1704,Skilith,Kotlet mielony,Tuesday
+1705,Jaxnation,Sushi Roll,Monday
+1706,Divavu,Pierogi,Wednesday
+1707,Innotype,Toaster Strudel,Monday
+1708,Dynabox,Glorified rice,Monday
+1709,Wikivu,Shrimp Scampi,Tuesday
+1710,Thoughtstorm,Brunswick stew,Wednesday
+1711,Twitterbridge,Turkey Burger,Monday
+1712,Quatz,Salad,Wednesday
+1713,Jersey Burger,Stuffed peppers,Wednesday
+1714,Piast,Drunken chicken,Wednesday
+1715,Yoveo,Bull roast,Thursday
+1716,Dabshots,Cheese dog,Wednesday
+1717,Realblab,Toaster Strudel,Monday
+1718,Brightbean,Salad,Monday
+1719,Topicblab,Eggs Neptune,Tuesday
+1720,Realfire,Plain Lobster,Monday
+1721,Thoughtsphere,Glorified rice,Monday
+1722,Zoonoodle,Tuna casserole,Friday
+1723,Skalith,Energy bar,Thursday
+1724,Jersey Burger,Rice and gravy,Monday
+1725,Skinte,Chaudin,Tuesday
+1726,Pixope,Stuffed zucchini,Thursday
+1727,Linkbridge,Eggs Benedict,Thursday
+1728,Quimm,Steak with potatoes,Wednesday
+1729,Yadel,Hoppin' John,Sunday
+1730,Brainverse,Burritos,Wednesday
+1731,Flipbug,Eggs Neptune,Tuesday
+1732,Outfront stakehouse,Eggs Neptune,Wednesday
+1733,Thoughtstorm,Surf and turf,Wednesday
+1734,Meeveo,Hokkien fried rice,Monday
+1735,Jetwire,Super Salad,Thursday
+1736,Oyoba,Swiss steak,Thursday
+1737,Dynabox,Shrimp Scampi,Tuesday
+1738,Tanoodle,Golabki,Monday
+1739,Geba,Italian hot dog,Tuesday
+1740,Yotz,Hoppin' John,Saturday
+1741,Npath,Buffalo burger,Friday
+1742,Ailane,Bigos,Monday
+1743,Trunyx,Stuffed zucchini,Thursday
+1744,Thoughtsphere,Tetrazzini,Monday
+1745,Bubblemix,Carne pizzaiola,Sunday
+1746,Ntags,Pork Fried Rice,Monday
+1747,Som Gud Fud Chinese Food,Rolled Shrimp,Monday
+1748,Osaka Bay Fishery,Asian Salad,Tuesday
+1749,Realbridge,Penne Vodka,Tuesday
+1750,Skimia,Shrimp Creole,Friday
+1751,Skilith,Stuffed zucchini,Monday
+1752,Tagcat,Burritos,Monday
+1753,Burger Queen,Deviled egg,Friday
+1754,Digitube,Greek Salad,Thursday
+1755,Realcube,Deviled crab,Saturday
+1756,Thoughtstorm,Sushi Roll,Monday
+1757,Skinix,Toaster Strudel,Monday
+1758,Burger Queen,Buffalo burger,Friday
+1759,Quatz,Cold Sub,Tuesday
+1760,Trilith,Deviled crab,Thursday
+1761,Igor's Vodka Shack,Super Salad,Wednesday
+1762,Piast,Plain Lobster,Wednesday
+1763,Brightdog,Cowboy Burger,Wednesday
+1764,Piast,Brunswick stew,Tuesday
+1765,Skipfire,Deviled egg,Tuesday
+1766,Riffwire,Stuffed peppers,Thursday
+1767,Twinder,Glorified rice,Monday
+1768,Aimbu,Salad,Thursday
+1769,Thoughtstorm,Carne pizzaiola,Friday
+1770,Fatz,Salad,Monday
+1771,Divavu,Bookbinder Soup,Thursday
+1772,Fanoodle,Kielbasa ,Friday
+1773,Kazu,Goetta,Tuesday
+1774,Yoveo,Asian Salad,Monday
+1775,Divavu,Hokkien fried rice,Thursday
+1776,Voomm,Hokkien fried rice,Friday
+1777,Outfront stakehouse,Deviled egg,Monday
+1778,Thoughtsphere,Bookbinder Soup,Tuesday
+1779,Meeveo,Pizza,Thursday
+1780,Tagfeed,Hawaiian haystack,Monday
+1781,Tagfeed,Shrimp Scampi,Thursday
+1782,Realbridge,Sushi Roll,Friday
+1783,Realblab,Gyro,Thursday
+1784,Jaxbean,Eggs Neptune,Thursday
+1785,Brightbean,Taco,Tuesday
+1786,Yotz,Rice and gravy,Tuesday
+1787,Realmix,Curry Chicken,Wednesday
+1788,Roomm,Glorified rice,Monday
+1789,Ntag,Stuffed zucchini,Thursday
+1790,Thoughtstorm,Gumbo,Sunday
+1791,Fanoodle,Generals Tso's Chicken,Thursday
+1792,Blogpad,Shrimp Creole,Wednesday
+1793,Tokyo Fish,Turducken,Wednesday
+1794,Eayo,Stuffed peppers,Thursday
+1795,Quinu,Fish Fillet,Friday
+1796,Quimm,Carolina style,Thursday
+1797,Brainbox,Hot Dog,Monday
+1798,Vinder,Goetta,Wednesday
+1799,Browseblab,Half-smoke,Tuesday
+1800,Demizz,Bigos,Friday
+1801,Fanoodle,Eggs Benedict,Wednesday
+1802,Brightbean,Cowboy Burger,Friday
+1803,Jersey Burger,Sushi Roll,Tuesday
+1804,Wordify,Steak with potatoes,Tuesday
+1805,Rhyloo,Tetrazzini,Friday
+1806,Meeveo,Bookbinder Soup,Monday
+1807,Youfeed,Turkey Burger,Tuesday
+1808,Gabcube,Gyro,Monday
+1809,Blogpad,Karkówka,Tuesday
+1810,King's Takeout,Dirty rice,Tuesday
+1811,Ailane,Energy bar,Thursday
+1812,Igor's Vodka Shack,Steak with potatoes,Tuesday
+1813,Tagfeed,Hot dog,Sunday
+1814,Browseblab,Kasza,Thursday
+1815,Piast,Burnt ends,Saturday
+1816,Talane,Fat Sandwich,Monday
+1817,Twitterbridge,Salad,Saturday
+1818,Tagfeed,Chicken with Brocoli,Wednesday
+1819,Brainverse,Bigos,Wednesday
+1820,Skilith,Salad,Monday
+1821,Fivechat,Cheese dog,Tuesday
+1822,Quinu,Burritos,Friday
+1823,Digitube,Cajun cuisine,Tuesday
+1824,Zoovu,Steamed clams,Friday
+1825,Jaxbean,Rolled Shrimp,Tuesday
+1826,Quimm,Thousand Island dressing,Sunday
+1827,Kwinu,Deviled egg,Thursday
+1828,Browseblab,Jambalaya,Friday
+1829,Smith's Grill,Rice and gravy,Tuesday
+1830,Skimia,Stuffed ham,Friday
+1831,Yotz,Pierogi,Friday
+1832,Ainyx,French Onion Soup,Monday
+1833,Yadel,Karkówka,Thursday
+1834,Topicblab,Hot dog,Friday
+1835,Pixope,Hokkien fried rice,Tuesday
+1836,Jaxnation,Shrimp Creole,Wednesday
+1837,Jersey Burger,Rice and gravy,Sunday
+1838,Brightdog,Deviled egg,Wednesday
+1839,Photospace,Spanish rice,Thursday
+1840,Zooxo,Cajun cuisine,Tuesday
+1841,Ntags,Cold Sub,Wednesday
+1842,Linkbuzz,Shrimp Scampi,Friday
+1843,Gigaclub,Doughnut,Wednesday
+1844,Thoughtstorm,Calf's liver and bacon,Tuesday
+1845,Youfeed,Calf's liver and bacon,Monday
+1846,Katz,Salad,Saturday
+1847,Divavu,Burritos,Monday
+1848,Zoonoodle,Domesticated turkey,Monday
+1849,Halal Palace,Fat Sandwich,Thursday
+1850,Fivechat,Shrimp Creole,Wednesday
+1851,Skiba,Veggie Burger,Monday
+1852,Topicblab,Fat Sandwich,Wednesday
+1853,Mycat,Chicken bog,Saturday
+1854,Linklinks,Burnt ends,Saturday
+1855,Thoughtsphere,Eggo,Monday
+1856,Thoughtstorm,Pork Fried Rice,Thursday
+1857,Twitterlist,Rolled Shrimp,Friday
+1858,Yotz,Rice and gravy,Tuesday
+1859,Viva,Kielbasa ,Tuesday
+1860,Tagcat,Jumbo Shrimp,Tuesday
+1861,Skilith,Chicken bog,Wednesday
+1862,Burger Queen,Penne Vodka,Thursday
+1863,Thoughtsphere,Asian Salad,Wednesday
+1864,Eabox,Kasza,Tuesday
+1865,Photospace,French Onion Soup,Thursday
+1866,Yoveo,Penne Vodka,Thursday
+1867,Dynabox,Toaster Strudel,Thursday
+1868,Tekfly,Salad,Wednesday
+1869,Npath,Kotlet mielony,Thursday
+1870,Gabcube,Vichyssoise,Wednesday
+1871,Oyoba,Celery Victor,Thursday
+1872,Skinix,Super Salad,Thursday
+1873,Dynabox,Kielbasa ,Sunday
+1874,Halal Palace,Surf and turf,Tuesday
+1875,Jetwire,Deviled crab,Thursday
+1876,Brainbox,Eggo,Friday
+1877,Trilith,Eggs Neptune,Monday
+1878,Photospace,Steak with potatoes,Tuesday
+1879,Npath,Hoppin' John,Tuesday
+1880,Innotype,Stuffed ham,Thursday
+1881,Eabox,Steak with potatoes,Tuesday
+1882,Halal Palace,Italian hot dog,Monday
+1883,Skiba,Penne Vodka,Wednesday
+1884,Yata,Rice and gravy,Friday
+1885,Skipfire,Greek Salad,Sunday
+1886,Tagfeed,Goetta,Friday
+1887,Npath,Penne Vodka,Sunday
+1888,Zoonoodle,Spanish rice,Wednesday
+1889,Geba,Rolled Shrimp,Sunday
+1890,Divavu,Tuna casserole,Thursday
+1891,Divavu,Jumbo Shrimp,Saturday
+1892,Trudoo,Kielbasa ,Wednesday
+1893,Oyoloo,Bull roast,Monday
+1894,Burger Queen,Kotlety,Wednesday
+1895,Realbridge,Brunswick stew,Monday
+1896,Snaptags,Gyro,Sunday
+1897,Meeveo,Sushi Roll,Thursday
+1898,Rhyloo,Golabki,Tuesday
+1899,Meeveo,Cold Sub,Wednesday
+1900,Meeveo,Hawaiian haystack,Monday
+1901,Digitube,Chicken bog,Monday
+1902,Trunyx,Asian Salad,Saturday
+1903,Eabox,Generals Tso's Chicken,Monday
+1904,Gabcube,Burrito,Wednesday
+1905,Eadel,Kielbasa ,Friday
+1906,Buzzshare,Curry Chicken,Tuesday
+1907,Skilith,Fish Fillet,Wednesday
+1908,Dynabox,Kotlety,Tuesday
+1909,Yotz,Hawaiian haystack,Thursday
+1910,Gabcube,Carolina style,Thursday
+1911,Ainyx,Pork Fried Rice,Tuesday
+1912,Trunyx,Burnt ends,Friday
+1913,Pixope,Domesticated turkey,Tuesday
+1914,Trunyx,Pierogi,Tuesday
+1915,Thoughtsphere,Jumbo Shrimp,Sunday
+1916,Thoughtstorm,Rice and gravy,Saturday
+1917,Piast,Jambalaya,Sunday
+1918,Fanoodle,Eggo,Thursday
+1919,Zoovu,Goetta,Wednesday
+1920,Quinu,Pasta With Chicken,Monday
+1921,Eayo,Pork Fried Rice,Friday
+1922,Voomm,Cheese dog,Thursday
+1923,Quimm,Eggo,Monday
+1924,Innotype,Cheese dog,Tuesday
+1925,Meeveo,Greek Salad,Tuesday
+1926,Brainbox,Taco,Friday
+1927,Thoughtstorm,Calf's liver and bacon,Friday
+1928,Kazu,Cheese dog,Thursday
+1929,Divavu,Bull roast,Sunday
+1930,Outfront stakehouse,Cheese dog,Thursday
+1931,Ainyx,Hot dog,Thursday
+1932,Photofeed,Gyro,Wednesday
+1933,Realblab,Fat Sandwich,Friday
+1934,Kazio,Calf's liver and bacon,Monday
+1935,Topicware,Burritos,Wednesday
+1936,Realmix,Cold Sub,Friday
+1937,Dabvine,Jumbo Shrimp,Friday
+1938,Flipbug,Lamb w/ vegetables,Friday
+1939,Divanoodle,Pierogi,Saturday
+1940,Wikivu,Bigos,Tuesday
+1941,Gigaclub,Shrimp Scampi,Wednesday
+1942,Ainyx,Hot Dog,Tuesday
+1943,Jabbersphere,Surf and turf,Tuesday
+1944,Realblab,Fresh Bread,Friday
+1945,Trilith,Jambalaya,Wednesday
+1946,Skimia,Jumbo Shrimp,Monday
+1947,Linkbridge,Eggs Benedict,Monday
+1948,Talane,Steak with potatoes,Thursday
+1949,Skimia,Hot Dog,Thursday
+1950,Blogpad,Salad,Friday
+1951,Youspan,Greek Salad,Thursday
+1952,Dabshots,Taco,Thursday
+1953,Photobug,Burritos,Tuesday
+1954,Vidoo,Carolina style,Saturday
+1955,Wikivu,Hot Dog,Sunday
+1956,Tagfeed,Greek Salad,Wednesday
+1957,Twinder,Salad,Monday
+1958,Vinder,Bull roast,Friday
+1959,Blogpad,Steak with potatoes,Wednesday
+1960,Voonyx,Doughnut,Thursday
+1961,Meeveo,Tomato compote,Friday
+1962,Bubblemix,Golabki,Monday
+1963,Wikivu,French Onion Soup,Thursday
+1964,Eabox,Bull roast,Thursday
+1965,Yotz,Vegie Burger,Wednesday
+1966,Meeveo,Kotlety,Friday
+1967,Photospace,Rolled Shrimp,Friday
+1968,Bubblemix,Glorified rice,Monday
+1969,Brightdog,Karkówka,Friday
+1970,Photobug,Curry Chicken,Tuesday
+1971,Thoughtsphere,Cajun cuisine,Tuesday
+1972,Youfeed,Rice and gravy,Tuesday
+1973,Skimia,Hot dog,Saturday
+1974,Youfeed,Golabki,Tuesday
+1975,Trilith,Hot dog,Monday
+1976,Fivechat,Thousand Island dressing,Tuesday
+1977,Tokyo Fish,Fish Fillet,Friday
+1978,Trilith,Rolled Shrimp,Wednesday
+1979,Vinder,Toaster Strudel,Saturday
+1980,Jetwire,Buffalo wing,Friday
+1981,Meetz,Penne Vodka,Thursday
+1982,Brainbox,Hot Dog,Tuesday
+1983,Horohito's Crab Shack,Asian Salad,Tuesday
+1984,Zooxo,Turducken,Friday
+1985,Livetube,Hot dog,Saturday
+1986,Burger Queen,Tomato compote,Friday
+1987,Youtags,Drunken chicken,Wednesday
+1988,Thoughtsphere,Cowboy Burger,Wednesday
+1989,Burger Queen,Steak with potatoes,Sunday
+1990,Wordify,Greek Salad,Thursday
+1991,Quimm,Salad,Tuesday
+1992,Jabbersphere,Hot dog,Monday
+1993,Dynabox,Turkey Burger,Monday
+1994,Mafioso Pizza,Calf's liver and bacon,Thursday
+1995,Topicware,Taco,Tuesday
+1996,Agimba,Salad,Tuesday
+1997,Thoughtstorm,Carne pizzaiola,Monday
+1998,Linkbridge,Toaster Strudel,Thursday
+1999,Piast,Fat Sandwich,Friday
+2000,Piast,Energy bar,Monday
