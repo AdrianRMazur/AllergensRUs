@@ -52,7 +52,7 @@ public class RestMenuPanel extends JFrame{
 
 		 
 		 final JTable table = new JTable(data, columnNames);
-		 table.setPreferredScrollableViewportSize(new Dimension(300, 70));
+		 table.setPreferredScrollableViewportSize(new Dimension(100, 100));
 	     table.setFillsViewportHeight(true);
 	     table.setEnabled(false);
 

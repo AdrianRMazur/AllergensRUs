@@ -5,6 +5,11 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
 
 import javax.swing.Box;
 import javax.swing.BoxLayout;
@@ -19,6 +24,10 @@ import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTextField;
 import javax.swing.ListSelectionModel;
+import javax.swing.event.ListSelectionEvent;
+import javax.swing.event.ListSelectionListener;
+
+import org.h2.tools.DeleteDbFiles;
 
 
 
@@ -30,8 +39,8 @@ public class FirstPanel extends JFrame{
 	
 	private JButton help;
 	
-	
-	private JButton showrestaurants; 
+	public static DefaultListModel <String>listModel = new DefaultListModel<String>();
+	public static  JList list = new JList<String>(listModel);
 	
 	private JButton admin; 
 	
@@ -42,12 +51,11 @@ public class FirstPanel extends JFrame{
 		
 		builder();
 		
-	
-		showrestaurants.addActionListener(new ActionListener(){
-			public void actionPerformed(ActionEvent e1){
-				
-				pickrestaurant();
-			}
+
+		list.addListSelectionListener( new ListSelectionListener (){
+			public void valueChanged(ListSelectionEvent e){
+				restaurant.setText( listModel.get(list.getSelectedIndex()));
+			}			
 		});
 		
 		
@@ -58,16 +66,9 @@ public class FirstPanel extends JFrame{
 					error();
 					restaurant.setText("");
 				}
-				else  if (!restaurant.getText().equals("")){
-					for (int c=0; c<PickPanel.listModel.getSize(); c++){
-						if (restaurant.getText().equals(PickPanel.listModel.get(c))){
-							dispose(); 
-							nextrestaurant();
-						}
-					}
-				}
 				else{
-					error();
+					dispose();
+					nextrestaurant(); 
 				}
 			}
 		});
@@ -104,14 +105,7 @@ public class FirstPanel extends JFrame{
 		JOptionPane.showMessageDialog(null, x, "Error", JOptionPane.ERROR_MESSAGE);
 	}
 	
-	public static void pickrestaurant(){
-		JFrame pickframe = new PickPanel("Allergy's R Us - Pick Page");
-		pickframe.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		pickframe.setResizable(true);
-		pickframe.setLocationRelativeTo(null);
-		pickframe.setVisible(true);
-		pickframe.setMinimumSize(new Dimension(300, 200));
-	}
+
 	
 	public static void nextadmin(){
 		JFrame adminframe = new AdminPanel("Allergy's R Us - Admin Page");
@@ -134,15 +128,29 @@ public class FirstPanel extends JFrame{
 	
 	private void builder(){
 		
-		showrestaurants = new JButton ("Show Restaurants");
+		
+		list.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
+		list.setSelectedIndex(0);
+		list.setVisibleRowCount(5);
+		JScrollPane listscroller = new JScrollPane(list);
+		
+		try {
+			DBQuery();
+		} catch (ClassNotFoundException e1) {
+			e1.printStackTrace();
+		} catch (SQLException e1) {
+			e1.printStackTrace();
+		} 
+		
+		
 		 next = new JButton("Load Restaurant");
-		 restaurant = new JTextField(); 
+		 restaurant = new JTextField();
+		 restaurant.setEditable(false);
 		 admin = new JButton ("Admin");
 		 help = new JButton ("Help");
 		
 		JLabel info2 = new JLabel("Restaurant Name:");
-		JLabel info = new JLabel("If you know the restaurant name enter it below");
-		JLabel info3 = new JLabel ("Or click the show restaurants button to select from a list");
+		JLabel info3 = new JLabel ("Select the restaurant from the list");
 		
 		JPanel input = new JPanel();
 		input.setLayout(new BoxLayout(input, BoxLayout.X_AXIS));
@@ -163,38 +171,63 @@ public class FirstPanel extends JFrame{
 		
 		JPanel finalpanel = new JPanel ();
 		finalpanel.setLayout(new BoxLayout(finalpanel, BoxLayout.Y_AXIS));
+		
 		finalpanel.add(Box.createRigidArea(new Dimension(0, 10)));
-		finalpanel.add(info);
-		info.setAlignmentX(CENTER_ALIGNMENT);
-		finalpanel.add(Box.createRigidArea(new Dimension(0, 1)));
 		finalpanel.add(info3);
 		info3.setAlignmentX(CENTER_ALIGNMENT);
-		finalpanel.add(Box.createRigidArea(new Dimension(0, 20)));
-		finalpanel.add(showrestaurants);
-		showrestaurants.setAlignmentX(CENTER_ALIGNMENT);
+		finalpanel.add(Box.createRigidArea(new Dimension(0, 10)));
+		finalpanel.add(listscroller);
 		finalpanel.add(Box.createRigidArea(new Dimension(0, 20)));
 		finalpanel.add(input);
 		input.setAlignmentX(CENTER_ALIGNMENT);
 		finalpanel.add(Box.createRigidArea(new Dimension(0, 20)));
 		finalpanel.add(input2);
 		input2.setAlignmentX(CENTER_ALIGNMENT);
+		finalpanel.add(Box.createRigidArea(new Dimension(0, 10)));
 		
 		
 		this.add(finalpanel);
 		
-		
-		
 	}
 	
-
 	
+	
+public void DBQuery() throws SQLException, ClassNotFoundException{
+		
+
+        DeleteDbFiles.execute("~", "test", true);
+
+        Class.forName("org.h2.Driver");
+        Connection conn = DriverManager.getConnection("jdbc:h2:~/test");
+        Statement stat = conn.createStatement();
+
+        String current = System.getProperty("user.dir");
+
+        
+       stat.execute("DROP TABLE IF EXISTS SERVES; create table Serves As Select * from csvread('"+current+"\\data\\Serves1.0.csv')");
+        
+        
+       //stat.execute("create table test(id int primary key, name varchar(255))");
+       // stat.execute("insert into test values(1, 'Hello')");
+        ResultSet rs;
+    
+        //System.out.println("X: " + count.getString("Count(*)"));
+        rs = stat.executeQuery("Select Distinct(Restaurant) From Serves");
+        while (rs.next()) {
+        	listModel.addElement(rs.getString("Restaurant"));
+        }
+        stat.close();
+        conn.close();
+		
+	}
+
 
 	public static void main(String[] args) {
 		JFrame firstframe = new FirstPanel("Allergy's R Us - Restaurant Page");
 		firstframe.pack();
 		firstframe.setVisible(true);
 		firstframe.setLocationRelativeTo(null);
-		firstframe.setMinimumSize(new Dimension(400, 240));
+		firstframe.setMinimumSize(new Dimension(400, 300));
 		firstframe.setResizable(true);
 		firstframe.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
        

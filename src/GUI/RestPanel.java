@@ -69,13 +69,13 @@ public class RestPanel extends JFrame{
 	
 	private void custmenu(){
 	
-		JFrame firstframe = new CustPanel("Allergy's R Us - "+ name.getText() + "'s Menu");
-		firstframe.pack();
-		firstframe.setVisible(true);
-		firstframe.setLocationRelativeTo(null);
-		firstframe.setMinimumSize(new Dimension(400, 185));
-		firstframe.setResizable(true);
-		firstframe.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		JFrame custframe = new CustPanel("Allergy's R Us - "+ name.getText() + "'s Menu");
+		custframe.pack();
+		custframe.setVisible(true);
+		custframe.setLocationRelativeTo(null);
+		custframe.setMinimumSize(new Dimension(400, 185));
+		custframe.setResizable(true);
+		custframe.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
 	}
 	
