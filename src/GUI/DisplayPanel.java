@@ -17,8 +17,15 @@ public class DisplayPanel extends JFrame{
 
 	private JButton close; 
 	
+	private Object data[][];
+	
+	private String restaurantname; 
+	
 	public DisplayPanel(String title, int x) {
 		super(title);
+		
+		restaurantname = FirstPanel.restaurant.getText();
+		
 		
 		builder();
 		
@@ -28,30 +35,9 @@ public class DisplayPanel extends JFrame{
 			}
 		});
 		
-		if (x ==1){
-			tablefill1();
-		}
-		else if (x==2){
-			tablefill2();
-		}
-		else {
-			tablefill3();
-		}
-	}
 	
-	private void tablefill1(){
-		
 	}
-	
-	private void tablefill2(){
-		
-		
-	}
-	
-	private void tablefill3(){
-		
-	}
-	
+
 	private void builder(){
 		close = new JButton ("Close");
 		
@@ -59,18 +45,7 @@ public class DisplayPanel extends JFrame{
                 "Price",
                 "Weekday"};
 		
-		 Object[][] data = {
-			        {"Kathy", "Smith",
-			         "Snowboarding"},
-			        {"John", "Doe",
-			         "Rowing"},
-			        {"Sue", "Black",
-			         "Knitting"},
-			        {"Jane", "White",
-			         "Speed reading"},
-			        {"Joe", "Brown",
-			         "Pool"}
-			        };
+		// call here the query method hereeee
 		 
 		 final JTable table = new JTable(data, columnNames);
 		 table.setPreferredScrollableViewportSize(new Dimension(300, 70));

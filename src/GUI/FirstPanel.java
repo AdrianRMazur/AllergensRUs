@@ -58,9 +58,16 @@ public class FirstPanel extends JFrame{
 					error();
 					restaurant.setText("");
 				}
-				else {
-					dispose(); 
-					nextrestaurant(); 
+				else  if (!restaurant.getText().equals("")){
+					for (int c=0; c<PickPanel.listModel.getSize(); c++){
+						if (restaurant.getText().equals(PickPanel.listModel.get(c))){
+							dispose(); 
+							nextrestaurant();
+						}
+					}
+				}
+				else{
+					error();
 				}
 			}
 		});
@@ -93,7 +100,7 @@ public class FirstPanel extends JFrame{
 	
 	
 	private void error(){
-		String x = "Error: Please enter the restaurant name ";
+		String x = "Error: Please enter the restaurant name in proper capitalization ";
 		JOptionPane.showMessageDialog(null, x, "Error", JOptionPane.ERROR_MESSAGE);
 	}
 	
@@ -128,12 +135,9 @@ public class FirstPanel extends JFrame{
 	private void builder(){
 		
 		showrestaurants = new JButton ("Show Restaurants");
-		
 		 next = new JButton("Load Restaurant");
 		 restaurant = new JTextField(); 
 		 admin = new JButton ("Admin");
-		 
-		 
 		 help = new JButton ("Help");
 		
 		JLabel info2 = new JLabel("Restaurant Name:");
