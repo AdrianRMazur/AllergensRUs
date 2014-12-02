@@ -1,6 +1,8 @@
 package GUI;
 
 import java.awt.Dimension;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
@@ -30,7 +32,12 @@ public class RestMenuPanel extends JFrame{
 		
 		builder();
 		
-		
+		back.addActionListener(new ActionListener(){
+			public void actionPerformed(ActionEvent e){
+				dispose();
+				FirstPanel.nextrestaurant();
+			}
+		});
 	}
 	
 	private void builder(){
@@ -73,7 +80,9 @@ public class RestMenuPanel extends JFrame{
 	     JPanel finalpanel = new JPanel();
 	     finalpanel.setLayout(new BoxLayout(finalpanel, BoxLayout.Y_AXIS));
 	     finalpanel.add(scrollPane);
-	     
+	     finalpanel.add(back); 
+	     back.setAlignmentX(CENTER_ALIGNMENT);
+
 	     this.add(finalpanel);
 	     
 		
