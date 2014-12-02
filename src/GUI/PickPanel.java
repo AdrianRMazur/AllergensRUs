@@ -26,14 +26,25 @@ public class PickPanel extends JFrame{
 	public PickPanel(String title) {
 		super(title);
 		
-		final DefaultListModel <String>listModel = new DefaultListModel<String>();
-		final JList list = new JList<String>(listModel);
+		//final DefaultListModel <String>listModel = new DefaultListModel<String>();
+		//final JList list = new JList<String>(listModel);
 		list.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
 		list.setSelectedIndex(0);
 		list.setVisibleRowCount(5);
 		//list.setSize(10, 5);
 		JScrollPane listscroller = new JScrollPane(list);
-
+		//listModel.addElement("Cat");
+		
+		try {
+			DBQuery();
+		} catch (ClassNotFoundException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		} catch (SQLException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		} 
+		
 		JPanel finalpanel = new JPanel ();
 		finalpanel.setLayout(new BoxLayout(finalpanel, BoxLayout.Y_AXIS));
 		finalpanel.add(listscroller);
@@ -63,12 +74,19 @@ public class PickPanel extends JFrame{
         // from the SQL script file 'init.sql'
         //stat.execute("runscript from 'init.sql'");
 
+        String current = System.getProperty("user.dir");
+       // System.out.println("Current working directory in Java : " + current);
+
+        
+       stat.execute("DROP TABLE IF EXISTS SERVES; create table Serves As Select * from csvread('"+current+"\\data\\Serves1.0.csv')");
+        
+        
        //stat.execute("create table test(id int primary key, name varchar(255))");
        // stat.execute("insert into test values(1, 'Hello')");
         ResultSet rs;
     
         //System.out.println("X: " + count.getString("Count(*)"));
-        rs = stat.executeQuery("Select Restaurant From Serves");
+        rs = stat.executeQuery("Select Distinct(Restaurant) From Serves");
         int c =0; 
         //System.out.println("X: " + data.length );
         while (rs.next()) {
