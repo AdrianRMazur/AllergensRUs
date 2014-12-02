@@ -69,7 +69,6 @@ public class PickPanel extends JFrame{
         Class.forName("org.h2.Driver");
         Connection conn = DriverManager.getConnection("jdbc:h2:~/test");
         Statement stat = conn.createStatement();
-
         // this line would initialize the database
         // from the SQL script file 'init.sql'
         //stat.execute("runscript from 'init.sql'");
@@ -92,13 +91,7 @@ public class PickPanel extends JFrame{
         while (rs.next()) {
         	
         	listModel.addElement(rs.getString("Restaurant"));
-            /*System.out.print(rs.getString("Restaurant"));
-            System.out.print(" ");
-            System.out.print(rs.getString("Food"));
-            System.out.print(" ");
-            System.out.print(rs.getString("Day"));
-            System.out.println("");
-            */
+           
             c++;
         }
         stat.close();

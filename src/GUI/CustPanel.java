@@ -23,9 +23,15 @@ public class CustPanel extends JFrame {
 	
 	private JButton back; 
 	
+	private String restaurantName; 
+	private String personName; 
+	private Object[][] data; 
 	
 	public CustPanel(String title) {
 		super (title);
+		
+		restaurantName=FirstPanel.restaurant.getText();
+		personName = RestPanel.name.getText();
 		
 		builder();
 		
@@ -48,18 +54,7 @@ public class CustPanel extends JFrame {
 		
 		String[] columnNames = {"Dish", "Weekday"};
 		
-		 Object[][] data = {
-			        {"Kathy", "Smith",
-			         "Snowboarding"},
-			        {"John", "Doe",
-			         "Rowing"},
-			        {"Sue", "Black",
-			         "Knitting"},
-			        {"Jane", "White",
-			         "Speed reading"},
-			        {"Joe", "Brown",
-			         "Pool"}
-			        };
+	
 		 
 		
 		 final JTable table = new JTable(data, columnNames);
