@@ -8,12 +8,17 @@ import java.awt.event.WindowEvent;
 
 import javax.swing.Box;
 import javax.swing.BoxLayout;
+import javax.swing.DefaultListModel;
+import javax.swing.ImageIcon;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
+import javax.swing.JList;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
+import javax.swing.JScrollPane;
 import javax.swing.JTextField;
+import javax.swing.ListSelectionModel;
 
 
 
@@ -26,6 +31,8 @@ public class FirstPanel extends JFrame{
 	private JButton help;
 	
 	
+	private JButton showrestaurants; 
+	
 	private JButton admin; 
 	
 	public static JTextField restaurant;
@@ -36,6 +43,12 @@ public class FirstPanel extends JFrame{
 		builder();
 		
 	
+		showrestaurants.addActionListener(new ActionListener(){
+			public void actionPerformed(ActionEvent e1){
+				
+				pickrestaurant();
+			}
+		});
 		
 		
 		next.addActionListener(new ActionListener(){
@@ -84,6 +97,14 @@ public class FirstPanel extends JFrame{
 		JOptionPane.showMessageDialog(null, x, "Error", JOptionPane.ERROR_MESSAGE);
 	}
 	
+	public static void pickrestaurant(){
+		JFrame pickframe = new PickPanel("Allergy's R Us - Pick Page");
+		pickframe.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		pickframe.setResizable(true);
+		pickframe.setLocationRelativeTo(null);
+		pickframe.setVisible(true);
+		pickframe.setMinimumSize(new Dimension(300, 200));
+	}
 	
 	public static void nextadmin(){
 		JFrame adminframe = new AdminPanel("Allergy's R Us - Admin Page");
@@ -105,7 +126,8 @@ public class FirstPanel extends JFrame{
 	}
 	
 	private void builder(){
-
+		
+		showrestaurants = new JButton ("Show Restaurants");
 		
 		 next = new JButton("Load Restaurant");
 		 restaurant = new JTextField(); 
@@ -115,7 +137,8 @@ public class FirstPanel extends JFrame{
 		 help = new JButton ("Help");
 		
 		JLabel info2 = new JLabel("Restaurant Name:");
-		JLabel info = new JLabel("Please type your restaurant name to load the details");
+		JLabel info = new JLabel("If you know the restaurant name enter it below");
+		JLabel info3 = new JLabel ("Or click the show restaurants button to select from a list");
 		
 		JPanel input = new JPanel();
 		input.setLayout(new BoxLayout(input, BoxLayout.X_AXIS));
@@ -136,9 +159,15 @@ public class FirstPanel extends JFrame{
 		
 		JPanel finalpanel = new JPanel ();
 		finalpanel.setLayout(new BoxLayout(finalpanel, BoxLayout.Y_AXIS));
-		finalpanel.add(Box.createRigidArea(new Dimension(0, 20)));
+		finalpanel.add(Box.createRigidArea(new Dimension(0, 10)));
 		finalpanel.add(info);
 		info.setAlignmentX(CENTER_ALIGNMENT);
+		finalpanel.add(Box.createRigidArea(new Dimension(0, 1)));
+		finalpanel.add(info3);
+		info3.setAlignmentX(CENTER_ALIGNMENT);
+		finalpanel.add(Box.createRigidArea(new Dimension(0, 20)));
+		finalpanel.add(showrestaurants);
+		showrestaurants.setAlignmentX(CENTER_ALIGNMENT);
 		finalpanel.add(Box.createRigidArea(new Dimension(0, 20)));
 		finalpanel.add(input);
 		input.setAlignmentX(CENTER_ALIGNMENT);
@@ -153,6 +182,7 @@ public class FirstPanel extends JFrame{
 		
 	}
 	
+
 	
 
 	public static void main(String[] args) {
@@ -160,7 +190,7 @@ public class FirstPanel extends JFrame{
 		firstframe.pack();
 		firstframe.setVisible(true);
 		firstframe.setLocationRelativeTo(null);
-		firstframe.setMinimumSize(new Dimension(400, 185));
+		firstframe.setMinimumSize(new Dimension(400, 240));
 		firstframe.setResizable(true);
 		firstframe.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
        

@@ -65,6 +65,7 @@ public class CustPanel extends JFrame {
 		 final JTable table = new JTable(data, columnNames);
 		 table.setPreferredScrollableViewportSize(new Dimension(50, 50));
 	     table.setFillsViewportHeight(true);
+	     table.setEnabled(false);
 	     
 	     JScrollPane scrollPane = new JScrollPane(table);
 			
@@ -73,6 +74,7 @@ public class CustPanel extends JFrame {
 	     finalpanel.add(info);
 	     info.setAlignmentX(CENTER_ALIGNMENT);
 	     finalpanel.add(scrollPane);
+	    
 	     finalpanel.add(back); 
 	     back.setAlignmentX(CENTER_ALIGNMENT);
 	     

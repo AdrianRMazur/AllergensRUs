@@ -28,6 +28,28 @@ public class DisplayPanel extends JFrame{
 			}
 		});
 		
+		if (x ==1){
+			tablefill1();
+		}
+		else if (x==2){
+			tablefill2();
+		}
+		else {
+			tablefill3();
+		}
+	}
+	
+	private void tablefill1(){
+		
+	}
+	
+	private void tablefill2(){
+		
+		
+	}
+	
+	private void tablefill3(){
+		
 	}
 	
 	private void builder(){

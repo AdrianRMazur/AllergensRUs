@@ -93,7 +93,7 @@ public class RestPanel extends JFrame{
 		 name = new JTextField(); 
 		 
 		JLabel info1 = new JLabel("Information for "+FirstPanel.restaurant.getText() +" has been loaded");
-		info1.setForeground(Color.RED);
+		info1.setForeground(Color.GREEN);
 		JLabel info2 = new JLabel(" Name:");
 		JLabel info = new JLabel ("Click here to view the full menu");
 		JLabel info4 = new JLabel ("----- OR -----");
