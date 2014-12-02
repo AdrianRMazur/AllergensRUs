@@ -1,5 +1,6 @@
 package GUI;
 
+import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -11,6 +12,9 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
+
+
+// admin panel displays trends
 public class AdminPanel extends JFrame {
 	
 	private JButton pattern1; 
@@ -25,20 +29,20 @@ public class AdminPanel extends JFrame {
 		
 		pattern1.addActionListener(new ActionListener(){
 			public void actionPerformed(ActionEvent e){
-				
+				nextdisplay(1);
 			}
 		});
 		
 		pattern2.addActionListener(new ActionListener(){
 			public void actionPerformed(ActionEvent e){
-				
+				nextdisplay(2);
 			}
 		});
 		
 		
 		pattern3.addActionListener(new ActionListener(){
 			public void actionPerformed(ActionEvent e){
-				
+				nextdisplay(3);
 			}
 		});
 		
@@ -46,8 +50,19 @@ public class AdminPanel extends JFrame {
 	}
 	
 	
+	private void nextdisplay(int x){
+		JFrame displayframe = new DisplayPanel("Allergy's R Us - Trends", x);
+		displayframe.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		displayframe.setResizable(true);
+		displayframe.setLocationRelativeTo(null);
+		displayframe.setVisible(true);
+		displayframe.setMinimumSize(new Dimension(400, 185));
+	}
+	
+	
 	private void builder(){
-		JLabel info = new JLabel("Here are some interesting patterns");
+		JLabel info = new JLabel("Patterns for " + FirstPanel.restaurant.getText());
+		info.setForeground(Color.GREEN);
 		JLabel info2 = new JLabel ("Click to view a pattern");
 		pattern1 = new JButton ("Pattern 1");
 		pattern2 = new JButton ("Pattern 2");
@@ -68,6 +83,7 @@ public class AdminPanel extends JFrame {
 		finalpanel.add(Box.createRigidArea(new Dimension(0, 15)));
 		finalpanel.add(info);
 		info.setAlignmentX(CENTER_ALIGNMENT);
+		finalpanel.add(Box.createRigidArea(new Dimension(0, 10)));
 		finalpanel.add(info2);
 		info2.setAlignmentX(CENTER_ALIGNMENT);
 		finalpanel.add(Box.createRigidArea(new Dimension(0, 15)));

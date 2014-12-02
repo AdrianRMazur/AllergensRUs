@@ -15,13 +15,13 @@ import javax.swing.JScrollPane;
 import javax.swing.JTable;
 import javax.swing.JTextField;
 
+
+
+// personalized menu 
 public class CustPanel extends JFrame {
 
 	
 	private JButton back; 
-	
-	
-	
 	
 	
 	public CustPanel(String title) {
@@ -41,11 +41,12 @@ public class CustPanel extends JFrame {
 	// rest food day
 	
 	private void builder(){
+		
+		
+		JLabel info = new JLabel ("Displaying " + RestPanel.name.getText() + "'s personalized menu");
 		back = new JButton ("Back");
 		
-		String[] columnNames = {"Dish",
-                "Price",
-                "Weekday"};
+		String[] columnNames = {"Dish", "Weekday"};
 		
 		 Object[][] data = {
 			        {"Kathy", "Smith",
@@ -68,7 +69,9 @@ public class CustPanel extends JFrame {
 	     JScrollPane scrollPane = new JScrollPane(table);
 			
 	     JPanel finalpanel = new JPanel();
-	     finalpanel.setLayout(new BoxLayout(finalpanel, BoxLayout.Y_AXIS));
+	     finalpanel.setLayout(new BoxLayout(finalpanel, BoxLayout.Y_AXIS));	
+	     finalpanel.add(info);
+	     info.setAlignmentX(CENTER_ALIGNMENT);
 	     finalpanel.add(scrollPane);
 	     finalpanel.add(back); 
 	     back.setAlignmentX(CENTER_ALIGNMENT);

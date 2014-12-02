@@ -14,6 +14,9 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
+
+
+// restaurant panel. the panel that gives option to display normal menu or personalized menu
 public class RestPanel extends JFrame{
 
 	
@@ -21,7 +24,9 @@ public class RestPanel extends JFrame{
 	
 	private JButton next; 
 	
-	private JTextField name;  
+	public static JTextField name;
+	
+	
 	
 	public RestPanel(String title) {
 		
@@ -64,7 +69,7 @@ public class RestPanel extends JFrame{
 	
 	private void custmenu(){
 	
-		JFrame firstframe = new CustPanel("Allergy's R Us - Personalized Menu");
+		JFrame firstframe = new CustPanel("Allergy's R Us - "+ name.getText() + "'s Menu");
 		firstframe.pack();
 		firstframe.setVisible(true);
 		firstframe.setLocationRelativeTo(null);
@@ -77,7 +82,7 @@ public class RestPanel extends JFrame{
 	
 	
 	private void error(){
-		String x = "Error: Please enter the restaurant name ";
+		String x = "Error: Please enter your name ";
 		JOptionPane.showMessageDialog(null, x, "Error", JOptionPane.ERROR_MESSAGE);
 	}
 	

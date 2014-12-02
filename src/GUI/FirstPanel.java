@@ -73,7 +73,6 @@ public class FirstPanel extends JFrame{
 					dispose();
 					nextadmin(); 
 				}
-				
 			}
 		});
 		
@@ -92,7 +91,7 @@ public class FirstPanel extends JFrame{
 		adminframe.setResizable(true);
 		adminframe.setLocationRelativeTo(null);
 		adminframe.setVisible(true);
-		adminframe.setMinimumSize(new Dimension(370, 190));
+		adminframe.setMinimumSize(new Dimension(370, 170));
 	}
 	
 	

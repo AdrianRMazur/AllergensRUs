@@ -14,7 +14,10 @@ import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTable;
 
-import org.h2.tools.DeleteDbFiles;
+//import org.h2.tools.DeleteDbFiles;
+
+
+// regular menu
 
 public class RestMenuPanel extends JFrame{
 
@@ -32,15 +35,15 @@ public class RestMenuPanel extends JFrame{
 	
 	private void builder(){
 		
-		try {
-			DBQuery();
-		} catch (ClassNotFoundException e) {
+		//try {
+			//DBQuery();
+	//	} catch (ClassNotFoundException e) {
 			// TODO Auto-generated catch block
-			e.printStackTrace();
-		} catch (SQLException e) {
+		//	e.printStackTrace();
+		//} catch (SQLException e) {
 			// TODO Auto-generated catch block
-			e.printStackTrace();
-		} 
+		//	e.printStackTrace();
+		//} 
 		back = new JButton ("Back");
 		
 		String[] columnNames = {"Dish",
@@ -76,6 +79,8 @@ public class RestMenuPanel extends JFrame{
 		
 	}
 	
+	/*
+	
 	public String DBQuery() throws SQLException, ClassNotFoundException{
 		
         DeleteDbFiles.execute("~", "test", true);
@@ -103,7 +108,7 @@ public class RestMenuPanel extends JFrame{
 		
 	}
 	
-	
+	*/
 	
 
 }
