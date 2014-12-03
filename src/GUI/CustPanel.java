@@ -31,7 +31,8 @@ public class CustPanel extends JFrame {
 	private JButton back; 
 	
 	private String restaurantName; 
-	private String personName; 
+	private String personName;
+	
 	private Object[][] data; 
 	
 	public CustPanel(String title) {
@@ -115,14 +116,24 @@ public void DBQuery() throws SQLException, ClassNotFoundException{
         
        //stat.execute("create table test(id int primary key, name varchar(255))");
        // stat.execute("insert into test values(1, 'Hello')");
-        ResultSet rs;
-        ResultSet count;
-        count = stat.executeQuery("Select Count(Distinct Food) From Serves Where Restaurant= '"+ restaurantName +
+        ResultSet rs, count, test;
+        count = stat.executeQuery("Select Distinct(Food), Day From Serves Where Restaurant= '"+ restaurantName +
                 "' AND  Serves.Food NOT IN (Select Distinct(\"Food Allergen\") From Allergens Where Customer = '" +personName+ "')");
-        count.next();
         
-        int size= Integer.parseInt(count.getString("Count(Distinct Food)"));
+        int size = 0;
+        while (count.next()){
+        	size++;
+        }
+         
+        test = stat.executeQuery("Select Distinct(Food) From Serves Where Restaurant= '"+ restaurantName +
+                "' AND  Serves.Food IN (Select Distinct(\"Food Allergen\") From Allergens Where Customer = '" +personName+ "')");
+        
+        if (test.first() == false){
+        	warning(); 
+        }
+      
         data= new Object[size][2];
+        
     
         //System.out.println("X: " + count.getString("Count(*)"));
         rs = stat.executeQuery("Select Distinct(Food), Day From Serves Where Restaurant= '"+ restaurantName +
@@ -141,5 +152,8 @@ public void DBQuery() throws SQLException, ClassNotFoundException{
 		
 	}
 	
-	
+	private void warning(){
+		String x = "Warning: The person does not exist. Displaying full menu instead";
+		JOptionPane.showMessageDialog(null, x, "Warning", JOptionPane.ERROR_MESSAGE);
+	}
 }
