@@ -35,7 +35,7 @@ public class AdminPanel extends JFrame {
 		
 		pattern2.addActionListener(new ActionListener(){
 			public void actionPerformed(ActionEvent e){
-				nextdisplay(2);
+				nextdisplay2(2);
 			}
 		});
 		
@@ -52,16 +52,22 @@ public class AdminPanel extends JFrame {
 	
 	private void nextdisplay(int x){
 		JFrame displayframe = new DisplayPanel("Allergy's R Us - Trends", x);
-		displayframe.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		displayframe.setResizable(true);
 		displayframe.setLocationRelativeTo(null);
 		displayframe.setVisible(true);
-		displayframe.setMinimumSize(new Dimension(400, 185));
+		displayframe.setMinimumSize(new Dimension(400, 300));
 	}
 	
+	private void nextdisplay2(int x){
+		JFrame displayframe = new DisplayPanel("Allergy's R Us - Trends", x);
+		displayframe.setResizable(true);
+		displayframe.setLocationRelativeTo(null);
+		displayframe.setVisible(true);
+		displayframe.setMinimumSize(new Dimension(400, 200));
+	}
 	
 	private void builder(){
-		JLabel info = new JLabel("Patterns for " + FirstPanel.restaurant.getText());
+		JLabel info = new JLabel("General Patters");
 		info.setForeground(Color.GREEN);
 		JLabel info2 = new JLabel ("Click to view a pattern");
 		pattern1 = new JButton ("Pattern 1");

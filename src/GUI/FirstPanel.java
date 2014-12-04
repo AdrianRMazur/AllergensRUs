@@ -86,14 +86,11 @@ public class FirstPanel extends JFrame{
 		admin.addActionListener(new ActionListener(){
 			public void actionPerformed(ActionEvent e){
 				
-				if ( restaurant.getText().equals("")){
-					error();
-					restaurant.setText("");
-				}
-				else {
-					dispose();
-					nextadmin(); 
-				}
+				
+				dispose(); 
+				nextadmin(); 
+				
+				
 			}
 		});
 		
