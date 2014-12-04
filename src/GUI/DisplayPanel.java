@@ -66,7 +66,7 @@ public class DisplayPanel extends JFrame{
 		} 
 	
 		 
-		JLabel info = new JLabel ("Number of allergies vs restaurant nationality");
+		JLabel info = new JLabel ("Number of Allergens found in restaurants vs restaurant nationality, based on the food they sell");
 		JLabel info2 = new JLabel ("English have the least allergies");
 		JLabel info3 = new JLabel ("American have the most allergies");
 		
@@ -100,7 +100,7 @@ public class DisplayPanel extends JFrame{
                 "Number of Allergens"};
 		
 		JLabel info = new JLabel ("Number of allergies vs day");
-		JLabel info2 = new JLabel ("Weekends have low number of allergies");
+		JLabel info2 = new JLabel ("Weekends have low number of allergens");
 		
 		try {
 			DBQuery2();
@@ -136,7 +136,7 @@ public class DisplayPanel extends JFrame{
 	private void builder1(){
 		close = new JButton ("Close");
 		JLabel info2 = new JLabel ("Relation between Price - Allergy");
-		JLabel info3 = new JLabel ("Cheaper foods have more allergies");
+		JLabel info3 = new JLabel ("Cheaper foods have more allergens");
 		JLabel info = new JLabel ("No foods over $25 were seen in the results");
 		String[] columnNames = {"Food Allergen",
                 "Avg Price",
@@ -206,7 +206,7 @@ private void DBQuery1() throws SQLException, ClassNotFoundException{
         data= new Object[size][3];
         
     
-        rs = stat.executeQuery("Select \"Food Allergen\", AVG(CAST(PRICE AS DOUBLE)) as \"Average Price of Food\", " +
+        rs = stat.executeQuery("Select \"Food Allergen\", ROUND(AVG(CAST(PRICE AS DOUBLE)),2) as \"Average Price of Food\", " +
                 "Count(*) as \"Number of Allergies\" From Allergens LEFT JOIN (Select Food, AVG(Cast(PRICE as Float)) as Price From " +
                 "Orders Group By Food) on Allergens.\"Food Allergen\" = Food Group By \"Food Allergen\" Order By \"Number of Allergies\" DESC");
         
@@ -214,6 +214,9 @@ private void DBQuery1() throws SQLException, ClassNotFoundException{
         while (rs.next()) {
         	data[c][0] = rs.getString("Food Allergen");
         	data[c][1] = rs.getString("Average Price of Food");
+        	if(data[c][1]==null){
+        		data[c][1]="null/Not Found";
+        	}
         	data[c][2] = rs.getString("Number of Allergies");
             c++;
         }
