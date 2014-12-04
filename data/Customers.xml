@@ -1,0 +1,1803 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Customers>
+	<CustomerID id="1">
+		<Name>Julie Butler</Name>
+		<City>Dallas</City>
+		<State>Texas</State>
+		<Nationality>New Zealander</Nationality>
+	</CustomerID>
+	<CustomerID id="2">
+		<Name>Joyce Wilson</Name>
+		<City>Sarasota</City>
+		<State>Florida</State>
+		<Nationality>Cameroonian</Nationality>
+	</CustomerID>
+	<CustomerID id="3">
+		<Name>Kosti Papajani</Name>
+		<City>Memphis</City>
+		<State>Tennessee</State>
+		<Nationality>Cameroonian</Nationality>
+	</CustomerID>
+	<CustomerID id="4">
+		<Name>Cynthia Elliott</Name>
+		<City>Tulsa</City>
+		<State>Oklahoma</State>
+		<Nationality>Jordanian</Nationality>
+	</CustomerID>
+	<CustomerID id="5">
+		<Name>Tammy Scott</Name>
+		<City>Little Rock</City>
+		<State>Arkansas</State>
+		<Nationality>Colombian</Nationality>
+	</CustomerID>
+	<CustomerID id="6">
+		<Name>Dorothy Jacobs</Name>
+		<City>Ogden</City>
+		<State>Utah</State>
+		<Nationality>New Zealander</Nationality>
+	</CustomerID>
+	<CustomerID id="7">
+		<Name>Linda Bennett</Name>
+		<City>San Diego</City>
+		<State>California</State>
+		<Nationality>Saudi</Nationality>
+	</CustomerID>
+	<CustomerID id="8">
+		<Name>John Fox</Name>
+		<City>Omaha</City>
+		<State>Nebraska</State>
+		<Nationality>Swiss</Nationality>
+	</CustomerID>
+	<CustomerID id="9">
+		<Name>Jennifer Campbell</Name>
+		<City>Winston Salem</City>
+		<State>North Carolina</State>
+		<Nationality>Estonian</Nationality>
+	</CustomerID>
+	<CustomerID id="10">
+		<Name>Beverly Cruz</Name>
+		<City>Memphis</City>
+		<State>Tennessee</State>
+		<Nationality>Brazilian</Nationality>
+	</CustomerID>
+	<CustomerID id="11">
+		<Name>Jennifer Snyder</Name>
+		<City>Battle Creek</City>
+		<State>Michigan</State>
+		<Nationality>Paraguayan</Nationality>
+	</CustomerID>
+	<CustomerID id="12">
+		<Name>Jeremy Warren</Name>
+		<City>Pompano Beach</City>
+		<State>Florida</State>
+		<Nationality>Romanian</Nationality>
+	</CustomerID>
+	<CustomerID id="13">
+		<Name>Angela Dean</Name>
+		<City>Orlando</City>
+		<State>Florida</State>
+		<Nationality>American *</Nationality>
+	</CustomerID>
+	<CustomerID id="14">
+		<Name>Anna Howell</Name>
+		<City>Bronx</City>
+		<State>New York</State>
+		<Nationality>Uruguayan</Nationality>
+	</CustomerID>
+	<CustomerID id="15">
+		<Name>Cheryl Murray</Name>
+		<City>Albuquerque</City>
+		<State>New Mexico</State>
+		<Nationality>Norwegian</Nationality>
+	</CustomerID>
+	<CustomerID id="16">
+		<Name>Timothy Hernandez</Name>
+		<City>Richmond</City>
+		<State>Virginia</State>
+		<Nationality>Ukrainian</Nationality>
+	</CustomerID>
+	<CustomerID id="17">
+		<Name>Stephen Crawford</Name>
+		<City>Fullerton</City>
+		<State>California</State>
+		<Nationality>American *</Nationality>
+	</CustomerID>
+	<CustomerID id="18">
+		<Name>Arthur White</Name>
+		<City>Washington</City>
+		<State>District of Columbia</State>
+		<Nationality>Ukrainian</Nationality>
+	</CustomerID>
+	<CustomerID id="19">
+		<Name>Carl Mitchell</Name>
+		<City>Tulsa</City>
+		<State>Oklahoma</State>
+		<Nationality>Filipino</Nationality>
+	</CustomerID>
+	<CustomerID id="20">
+		<Name>Jonathan Stone</Name>
+		<City>Fort Worth</City>
+		<State>Texas</State>
+		<Nationality>Vietnamese</Nationality>
+	</CustomerID>
+	<CustomerID id="21">
+		<Name>Joyce Wilson</Name>
+		<City>Great Neck</City>
+		<State>New York</State>
+		<Nationality>Malaysian</Nationality>
+	</CustomerID>
+	<CustomerID id="22">
+		<Name>Stephanie Cruz</Name>
+		<City>Louisville</City>
+		<State>Kentucky</State>
+		<Nationality>Turkish</Nationality>
+	</CustomerID>
+	<CustomerID id="23">
+		<Name>Jack Schmidt</Name>
+		<City>Colorado Springs</City>
+		<State>Colorado</State>
+		<Nationality>American *</Nationality>
+	</CustomerID>
+	<CustomerID id="24">
+		<Name>Melissa Shaw</Name>
+		<City>Abilene</City>
+		<State>Texas</State>
+		<Nationality>German</Nationality>
+	</CustomerID>
+	<CustomerID id="25">
+		<Name>Gloria Lawrence</Name>
+		<City>Montgomery</City>
+		<State>Alabama</State>
+		<Nationality>Brazilian</Nationality>
+	</CustomerID>
+	<CustomerID id="26">
+		<Name>Betty Chapman</Name>
+		<City>Houston</City>
+		<State>Texas</State>
+		<Nationality>Italian</Nationality>
+	</CustomerID>
+	<CustomerID id="27">
+		<Name>Carlos Armstrong</Name>
+		<City>Philadelphia</City>
+		<State>Pennsylvania</State>
+		<Nationality>American *</Nationality>
+	</CustomerID>
+	<CustomerID id="28">
+		<Name>Charles Fowler</Name>
+		<City>Jacksonville</City>
+		<State>Florida</State>
+		<Nationality>Irish</Nationality>
+	</CustomerID>
+	<CustomerID id="29">
+		<Name>Patrick Foster</Name>
+		<City>Norwalk</City>
+		<State>Connecticut</State>
+		<Nationality>Kenyan</Nationality>
+	</CustomerID>
+	<CustomerID id="30">
+		<Name>Peter Bryant</Name>
+		<City>Topeka</City>
+		<State>Kansas</State>
+		<Nationality>Swedish</Nationality>
+	</CustomerID>
+	<CustomerID id="31">
+		<Name>Michelle Olson</Name>
+		<City>Worcester</City>
+		<State>Massachusetts</State>
+		<Nationality>Paraguayan</Nationality>
+	</CustomerID>
+	<CustomerID id="32">
+		<Name>Jack Reed</Name>
+		<City>Houston</City>
+		<State>Texas</State>
+		<Nationality>Swedish</Nationality>
+	</CustomerID>
+	<CustomerID id="33">
+		<Name>Julie Tucker</Name>
+		<City>Minneapolis</City>
+		<State>Minnesota</State>
+		<Nationality>American *</Nationality>
+	</CustomerID>
+	<CustomerID id="34">
+		<Name>Bruce Rodriguez</Name>
+		<City>Durham</City>
+		<State>North Carolina</State>
+		<Nationality>Australian</Nationality>
+	</CustomerID>
+	<CustomerID id="35">
+		<Name>Eric Duncan</Name>
+		<City>Wichita</City>
+		<State>Kansas</State>
+		<Nationality>Laotian</Nationality>
+	</CustomerID>
+	<CustomerID id="36">
+		<Name>Paula Jones</Name>
+		<City>San Jose</City>
+		<State>California</State>
+		<Nationality>Malaysian</Nationality>
+	</CustomerID>
+	<CustomerID id="37">
+		<Name>Brian Jackson</Name>
+		<City>Monticello</City>
+		<State>Minnesota</State>
+		<Nationality>Uruguayan</Nationality>
+	</CustomerID>
+	<CustomerID id="38">
+		<Name>Jack Gray</Name>
+		<City>Aurora</City>
+		<State>Colorado</State>
+		<Nationality>New Zealander</Nationality>
+	</CustomerID>
+	<CustomerID id="39">
+		<Name>Timothy Hernandez</Name>
+		<City>Boise</City>
+		<State>Idaho</State>
+		<Nationality>American *</Nationality>
+	</CustomerID>
+	<CustomerID id="40">
+		<Name>Kathy Montgomery</Name>
+		<City>Shreveport</City>
+		<State>Louisiana</State>
+		<Nationality>Japanese</Nationality>
+	</CustomerID>
+	<CustomerID id="41">
+		<Name>Rich McPoor</Name>
+		<City>Saint Augustine</City>
+		<State>Florida</State>
+		<Nationality>Nicaraguan</Nationality>
+	</CustomerID>
+	<CustomerID id="42">
+		<Name>Joe Carpenter</Name>
+		<City>Knoxville</City>
+		<State>Tennessee</State>
+		<Nationality>Latvian</Nationality>
+	</CustomerID>
+	<CustomerID id="43">
+		<Name>Jack Gray</Name>
+		<City>Las Vegas</City>
+		<State>Nevada</State>
+		<Nationality>Egyptian</Nationality>
+	</CustomerID>
+	<CustomerID id="44">
+		<Name>Lawrence Snyder</Name>
+		<City>Newark</City>
+		<State>New Jersey</State>
+		<Nationality>American *</Nationality>
+	</CustomerID>
+	<CustomerID id="45">
+		<Name>James Chavez</Name>
+		<City>Toledo</City>
+		<State>Ohio</State>
+		<Nationality>Israeli</Nationality>
+	</CustomerID>
+	<CustomerID id="46">
+		<Name>Samuel Russell</Name>
+		<City>Chicago</City>
+		<State>Illinois</State>
+		<Nationality>Salvadorian</Nationality>
+	</CustomerID>
+	<CustomerID id="47">
+		<Name>Peter Banks</Name>
+		<City>Birmingham</City>
+		<State>Alabama</State>
+		<Nationality>Estonian</Nationality>
+	</CustomerID>
+	<CustomerID id="48">
+		<Name>Justin Schmidt</Name>
+		<City>Phoenix</City>
+		<State>Arizona</State>
+		<Nationality>Laotian</Nationality>
+	</CustomerID>
+	<CustomerID id="49">
+		<Name>Adam Hamilton</Name>
+		<City>Dayton</City>
+		<State>Ohio</State>
+		<Nationality>Kenyan</Nationality>
+	</CustomerID>
+	<CustomerID id="50">
+		<Name>Dorothy Ray</Name>
+		<City>Birmingham</City>
+		<State>Alabama</State>
+		<Nationality>American *</Nationality>
+	</CustomerID>
+	<CustomerID id="51">
+		<Name>Nicole Taylor</Name>
+		<City>Worcester</City>
+		<State>Massachusetts</State>
+		<Nationality>Ghanaian</Nationality>
+	</CustomerID>
+	<CustomerID id="52">
+		<Name>Anna Mendoza</Name>
+		<City>Birmingham</City>
+		<State>Alabama</State>
+		<Nationality>Greek</Nationality>
+	</CustomerID>
+	<CustomerID id="53">
+		<Name>Harold Brown</Name>
+		<City>Richmond</City>
+		<State>Virginia</State>
+		<Nationality>American *</Nationality>
+	</CustomerID>
+	<CustomerID id="54">
+		<Name>Katherine Vasquez</Name>
+		<City>Naperville</City>
+		<State>Illinois</State>
+		<Nationality>Colombian</Nationality>
+	</CustomerID>
+	<CustomerID id="55">
+		<Name>Timothy Grant</Name>
+		<City>San Diego</City>
+		<State>California</State>
+		<Nationality>American *</Nationality>
+	</CustomerID>
+	<CustomerID id="56">
+		<Name>Angela Dean</Name>
+		<City>Anniston</City>
+		<State>Alabama</State>
+		<Nationality>Latvian</Nationality>
+	</CustomerID>
+	<CustomerID id="57">
+		<Name>Jason Owens</Name>
+		<City>Carson City</City>
+		<State>Nevada</State>
+		<Nationality>Afghan</Nationality>
+	</CustomerID>
+	<CustomerID id="58">
+		<Name>Moop Moopinson</Name>
+		<City>Newport News</City>
+		<State>Virginia</State>
+		<Nationality>Taiwanese</Nationality>
+	</CustomerID>
+	<CustomerID id="59">
+		<Name>Marie Evans</Name>
+		<City>Baton Rouge</City>
+		<State>Louisiana</State>
+		<Nationality>Finnish</Nationality>
+	</CustomerID>
+	<CustomerID id="60">
+		<Name>Joshua Riley</Name>
+		<City>Jackson</City>
+		<State>Mississippi</State>
+		<Nationality>Belgian</Nationality>
+	</CustomerID>
+	<CustomerID id="61">
+		<Name>Betty Chapman</Name>
+		<City>Sarasota</City>
+		<State>Florida</State>
+		<Nationality>American *</Nationality>
+	</CustomerID>
+	<CustomerID id="62">
+		<Name>Diane Hall</Name>
+		<City>Reno</City>
+		<State>Nevada</State>
+		<Nationality>Haitian</Nationality>
+	</CustomerID>
+	<CustomerID id="63">
+		<Name>Douglas Bishop</Name>
+		<City>Brea</City>
+		<State>California</State>
+		<Nationality>Turkish</Nationality>
+	</CustomerID>
+	<CustomerID id="64">
+		<Name>Howard Larson</Name>
+		<City>North Hollywood</City>
+		<State>California</State>
+		<Nationality>Belgian</Nationality>
+	</CustomerID>
+	<CustomerID id="65">
+		<Name>Jimmy Moreno</Name>
+		<City>Pittsburgh</City>
+		<State>Pennsylvania</State>
+		<Nationality>Cambodian</Nationality>
+	</CustomerID>
+	<CustomerID id="66">
+		<Name>Bruce Andrews</Name>
+		<City>Saint Louis</City>
+		<State>Missouri</State>
+		<Nationality>Dutch</Nationality>
+	</CustomerID>
+	<CustomerID id="67">
+		<Name>Julie Carroll</Name>
+		<City>Daytona Beach</City>
+		<State>Florida</State>
+		<Nationality>American *</Nationality>
+	</CustomerID>
+	<CustomerID id="68">
+		<Name>Teresa Perez</Name>
+		<City>Houston</City>
+		<State>Texas</State>
+		<Nationality>Egyptian</Nationality>
+	</CustomerID>
+	<CustomerID id="69">
+		<Name>Johnny Wilson</Name>
+		<City>Brooksville</City>
+		<State>Florida</State>
+		<Nationality>Cameroonian</Nationality>
+	</CustomerID>
+	<CustomerID id="70">
+		<Name>Arthur White</Name>
+		<City>Tulsa</City>
+		<State>Oklahoma</State>
+		<Nationality>Laotian</Nationality>
+	</CustomerID>
+	<CustomerID id="71">
+		<Name>Virginia Torres</Name>
+		<City>South Bend</City>
+		<State>Indiana</State>
+		<Nationality>Romanian</Nationality>
+	</CustomerID>
+	<CustomerID id="72">
+		<Name>Julie Butler</Name>
+		<City>Des Moines</City>
+		<State>Iowa</State>
+		<Nationality>Salvadorian</Nationality>
+	</CustomerID>
+	<CustomerID id="73">
+		<Name>Tammy Scott</Name>
+		<City>Sacramento</City>
+		<State>California</State>
+		<Nationality>American *</Nationality>
+	</CustomerID>
+	<CustomerID id="74">
+		<Name>M. Dixon</Name>
+		<City>Sacramento</City>
+		<State>California</State>
+		<Nationality>Egyptian</Nationality>
+	</CustomerID>
+	<CustomerID id="75">
+		<Name>Donna Peterson</Name>
+		<City>Lynchburg</City>
+		<State>Virginia</State>
+		<Nationality>Honduran</Nationality>
+	</CustomerID>
+	<CustomerID id="76">
+		<Name>Jack Lawson</Name>
+		<City>Honolulu</City>
+		<State>Hawaii</State>
+		<Nationality>Uruguayan</Nationality>
+	</CustomerID>
+	<CustomerID id="77">
+		<Name>Dennis Cruz</Name>
+		<City>San Francisco</City>
+		<State>California</State>
+		<Nationality>Chilean</Nationality>
+	</CustomerID>
+	<CustomerID id="78">
+		<Name>Ann Rodriguez</Name>
+		<City>Atlanta</City>
+		<State>Georgia</State>
+		<Nationality>Italian</Nationality>
+	</CustomerID>
+	<CustomerID id="79">
+		<Name>Nicholas Little</Name>
+		<City>Lansing</City>
+		<State>Michigan</State>
+		<Nationality>Cambodian</Nationality>
+	</CustomerID>
+	<CustomerID id="80">
+		<Name>David Richardson</Name>
+		<City>Dallas</City>
+		<State>Texas</State>
+		<Nationality>American *</Nationality>
+	</CustomerID>
+	<CustomerID id="81">
+		<Name>Fred Morris</Name>
+		<City>Washington</City>
+		<State>District of Columbia</State>
+		<Nationality>Egyptian</Nationality>
+	</CustomerID>
+	<CustomerID id="82">
+		<Name>Rose Welch</Name>
+		<City>Abilene</City>
+		<State>Texas</State>
+		<Nationality>Cameroonian</Nationality>
+	</CustomerID>
+	<CustomerID id="83">
+		<Name>James Roberts</Name>
+		<City>Houston</City>
+		<State>Texas</State>
+		<Nationality>American *</Nationality>
+	</CustomerID>
+	<CustomerID id="84">
+		<Name>Kelly Kennedy</Name>
+		<City>Phoenix</City>
+		<State>Arizona</State>
+		<Nationality>Honduran</Nationality>
+	</CustomerID>
+	<CustomerID id="85">
+		<Name>Nicole Murphy</Name>
+		<City>San Antonio</City>
+		<State>Texas</State>
+		<Nationality>Ecuadorian</Nationality>
+	</CustomerID>
+	<CustomerID id="86">
+		<Name>Cynthia Nichols</Name>
+		<City>Dallas</City>
+		<State>Texas</State>
+		<Nationality>Israeli</Nationality>
+	</CustomerID>
+	<CustomerID id="87">
+		<Name>Ann Rodriguez</Name>
+		<City>Lynn</City>
+		<State>Massachusetts</State>
+		<Nationality>American *</Nationality>
+	</CustomerID>
+	<CustomerID id="88">
+		<Name>James Chavez</Name>
+		<City>El Paso</City>
+		<State>Texas</State>
+		<Nationality>New Zealander</Nationality>
+	</CustomerID>
+	<CustomerID id="89">
+		<Name>Carolyn Powell</Name>
+		<City>Salt Lake City</City>
+		<State>Utah</State>
+		<Nationality>Russian</Nationality>
+	</CustomerID>
+	<CustomerID id="90">
+		<Name>Ann Morris</Name>
+		<City>New York City</City>
+		<State>New York</State>
+		<Nationality>Chinese</Nationality>
+	</CustomerID>
+	<CustomerID id="91">
+		<Name>Rebecca Murphy</Name>
+		<City>El Paso</City>
+		<State>Texas</State>
+		<Nationality>Portuguese</Nationality>
+	</CustomerID>
+	<CustomerID id="92">
+		<Name>Ann Gutierrez</Name>
+		<City>Saint Petersburg</City>
+		<State>Florida</State>
+		<Nationality>Ghanaian</Nationality>
+	</CustomerID>
+	<CustomerID id="93">
+		<Name>James Chavez</Name>
+		<City>Roanoke</City>
+		<State>Virginia</State>
+		<Nationality>American *</Nationality>
+	</CustomerID>
+	<CustomerID id="94">
+		<Name>Alan Holmes</Name>
+		<City>Atlanta</City>
+		<State>Georgia</State>
+		<Nationality>Nicaraguan</Nationality>
+	</CustomerID>
+	<CustomerID id="95">
+		<Name>Kelly Boyd</Name>
+		<City>El Paso</City>
+		<State>Texas</State>
+		<Nationality>Taiwanese</Nationality>
+	</CustomerID>
+	<CustomerID id="96">
+		<Name>Karen Freeman</Name>
+		<City>Jamaica</City>
+		<State>New York</State>
+		<Nationality>Ethiopian</Nationality>
+	</CustomerID>
+	<CustomerID id="97">
+		<Name>Joseph Chapman</Name>
+		<City>Youngstown</City>
+		<State>Ohio</State>
+		<Nationality>Guatemalan</Nationality>
+	</CustomerID>
+	<CustomerID id="98">
+		<Name>Marilyn Castillo</Name>
+		<City>Fayetteville</City>
+		<State>North Carolina</State>
+		<Nationality>Cameroonian</Nationality>
+	</CustomerID>
+	<CustomerID id="99">
+		<Name>Mark Mcdonald</Name>
+		<City>Orlando</City>
+		<State>Florida</State>
+		<Nationality>American *</Nationality>
+	</CustomerID>
+	<CustomerID id="100">
+		<Name>Ashley Moreno</Name>
+		<City>Washington</City>
+		<State>District of Columbia</State>
+		<Nationality>Argentine / Argentinean</Nationality>
+	</CustomerID>
+	<CustomerID id="101">
+		<Name>Paula Jones</Name>
+		<City>Greeley</City>
+		<State>Colorado</State>
+		<Nationality>French</Nationality>
+	</CustomerID>
+	<CustomerID id="102">
+		<Name>Bruce Andrews</Name>
+		<City>Decatur</City>
+		<State>Georgia</State>
+		<Nationality>Saudi</Nationality>
+	</CustomerID>
+	<CustomerID id="103">
+		<Name>Wanda Sanders</Name>
+		<City>Akron</City>
+		<State>Ohio</State>
+		<Nationality>Cameroonian</Nationality>
+	</CustomerID>
+	<CustomerID id="104">
+		<Name>Anna Hamilton</Name>
+		<City>Shawnee Mission</City>
+		<State>Kansas</State>
+		<Nationality>Iranian</Nationality>
+	</CustomerID>
+	<CustomerID id="105">
+		<Name>Raymond Martinez</Name>
+		<City>Washington</City>
+		<State>District of Columbia</State>
+		<Nationality>American *</Nationality>
+	</CustomerID>
+	<CustomerID id="106">
+		<Name>Ann Morris</Name>
+		<City>Norfolk</City>
+		<State>Virginia</State>
+		<Nationality>Honduran</Nationality>
+	</CustomerID>
+	<CustomerID id="107">
+		<Name>Edward Stone</Name>
+		<City>Sioux Falls</City>
+		<State>South Dakota</State>
+		<Nationality>Finnish</Nationality>
+	</CustomerID>
+	<CustomerID id="108">
+		<Name>Arthur Morris</Name>
+		<City>Des Moines</City>
+		<State>Iowa</State>
+		<Nationality>Latvian</Nationality>
+	</CustomerID>
+	<CustomerID id="109">
+		<Name>Jane Larson</Name>
+		<City>Norfolk</City>
+		<State>Virginia</State>
+		<Nationality>Canadian</Nationality>
+	</CustomerID>
+	<CustomerID id="110">
+		<Name>Jack Lawson</Name>
+		<City>Laredo</City>
+		<State>Texas</State>
+		<Nationality>Moroccan</Nationality>
+	</CustomerID>
+	<CustomerID id="111">
+		<Name>Seven Costanza</Name>
+		<City>El Paso</City>
+		<State>Texas</State>
+		<Nationality>American *</Nationality>
+	</CustomerID>
+	<CustomerID id="112">
+		<Name>Harold Brown</Name>
+		<City>Madison</City>
+		<State>Wisconsin</State>
+		<Nationality>Argentine / Argentinean</Nationality>
+	</CustomerID>
+	<CustomerID id="113">
+		<Name>Chris Rice</Name>
+		<City>Corpus Christi</City>
+		<State>Texas</State>
+		<Nationality>Swedish</Nationality>
+	</CustomerID>
+	<CustomerID id="114">
+		<Name>Anthony Reed</Name>
+		<City>Kalamazoo</City>
+		<State>Michigan</State>
+		<Nationality>Puerto Rican</Nationality>
+	</CustomerID>
+	<CustomerID id="115">
+		<Name>Dorothy Jacobs</Name>
+		<City>Oklahoma City</City>
+		<State>Oklahoma</State>
+		<Nationality>Belgian</Nationality>
+	</CustomerID>
+	<CustomerID id="116">
+		<Name>Jerry Ward</Name>
+		<City>Lancaster</City>
+		<State>Pennsylvania</State>
+		<Nationality>Peruvian</Nationality>
+	</CustomerID>
+	<CustomerID id="117">
+		<Name>Dennis Cruz</Name>
+		<City>West Palm Beach</City>
+		<State>Florida</State>
+		<Nationality>Cameroonian</Nationality>
+	</CustomerID>
+	<CustomerID id="118">
+		<Name>Douglas Bishop</Name>
+		<City>Gainesville</City>
+		<State>Florida</State>
+		<Nationality>American *</Nationality>
+	</CustomerID>
+	<CustomerID id="119">
+		<Name>Stephen Little</Name>
+		<City>Oklahoma City</City>
+		<State>Oklahoma</State>
+		<Nationality>Canadian</Nationality>
+	</CustomerID>
+	<CustomerID id="120">
+		<Name>Michelle Olson</Name>
+		<City>Harrisburg</City>
+		<State>Pennsylvania</State>
+		<Nationality>German</Nationality>
+	</CustomerID>
+	<CustomerID id="121">
+		<Name>Kenneth Bennett</Name>
+		<City>Pensacola</City>
+		<State>Florida</State>
+		<Nationality>Cuban</Nationality>
+	</CustomerID>
+	<CustomerID id="122">
+		<Name>Samuel Crawford</Name>
+		<City>Charlotte</City>
+		<State>North Carolina</State>
+		<Nationality>Welsh</Nationality>
+	</CustomerID>
+	<CustomerID id="123">
+		<Name>Julia Castillo</Name>
+		<City>Fort Lauderdale</City>
+		<State>Florida</State>
+		<Nationality>Norwegian</Nationality>
+	</CustomerID>
+	<CustomerID id="124">
+		<Name>Rebecca Watkins</Name>
+		<City>Brockton</City>
+		<State>Massachusetts</State>
+		<Nationality>American *</Nationality>
+	</CustomerID>
+	<CustomerID id="125">
+		<Name>Richard Jackson</Name>
+		<City>Albany</City>
+		<State>New York</State>
+		<Nationality>German</Nationality>
+	</CustomerID>
+	<CustomerID id="126">
+		<Name>John DeItaliano</Name>
+		<City>Denver</City>
+		<State>Colorado</State>
+		<Nationality>Belgian</Nationality>
+	</CustomerID>
+	<CustomerID id="127">
+		<Name>Diane Davis</Name>
+		<City>Milwaukee</City>
+		<State>Wisconsin</State>
+		<Nationality>Jordanian</Nationality>
+	</CustomerID>
+	<CustomerID id="128">
+		<Name>Raymond Martinez</Name>
+		<City>Spartanburg</City>
+		<State>South Carolina</State>
+		<Nationality>Indonesian</Nationality>
+	</CustomerID>
+	<CustomerID id="129">
+		<Name>George King</Name>
+		<City>Charlottesville</City>
+		<State>Virginia</State>
+		<Nationality>Saudi</Nationality>
+	</CustomerID>
+	<CustomerID id="130">
+		<Name>Donna Wilson</Name>
+		<City>Olympia</City>
+		<State>Washington</State>
+		<Nationality>American *</Nationality>
+	</CustomerID>
+	<CustomerID id="131">
+		<Name>Mildred Green</Name>
+		<City>Huntsville</City>
+		<State>Alabama</State>
+		<Nationality>Kenyan</Nationality>
+	</CustomerID>
+	<CustomerID id="132">
+		<Name>Bobby Pierce</Name>
+		<City>Seattle</City>
+		<State>Washington</State>
+		<Nationality>Tajik</Nationality>
+	</CustomerID>
+	<CustomerID id="133">
+		<Name>Debra Perez</Name>
+		<City>Cheyenne</City>
+		<State>Wyoming</State>
+		<Nationality>Brazilian</Nationality>
+	</CustomerID>
+	<CustomerID id="134">
+		<Name>Dennis Nelson</Name>
+		<City>San Jose</City>
+		<State>California</State>
+		<Nationality>English</Nationality>
+	</CustomerID>
+	<CustomerID id="135">
+		<Name>Brian Jackson</Name>
+		<City>Philadelphia</City>
+		<State>Pennsylvania</State>
+		<Nationality>American *</Nationality>
+	</CustomerID>
+	<CustomerID id="136">
+		<Name>Donald James</Name>
+		<City>Reston</City>
+		<State>Virginia</State>
+		<Nationality>Bolivian</Nationality>
+	</CustomerID>
+	<CustomerID id="137">
+		<Name>Daniel Hanson</Name>
+		<City>Naples</City>
+		<State>Florida</State>
+		<Nationality>Canadian</Nationality>
+	</CustomerID>
+	<CustomerID id="138">
+		<Name>Diane Davis</Name>
+		<City>Erie</City>
+		<State>Pennsylvania</State>
+		<Nationality>Latvian</Nationality>
+	</CustomerID>
+	<CustomerID id="139">
+		<Name>Susan Patterson</Name>
+		<City>Lubbock</City>
+		<State>Texas</State>
+		<Nationality>Saudi</Nationality>
+	</CustomerID>
+	<CustomerID id="140">
+		<Name>Pamela Carroll</Name>
+		<City>Greenville</City>
+		<State>South Carolina</State>
+		<Nationality>Guatemalan</Nationality>
+	</CustomerID>
+	<CustomerID id="141">
+		<Name>Albert Gilbert</Name>
+		<City>Boston</City>
+		<State>Massachusetts</State>
+		<Nationality>Latvian</Nationality>
+	</CustomerID>
+	<CustomerID id="142">
+		<Name>Jason Owens</Name>
+		<City>San Antonio</City>
+		<State>Texas</State>
+		<Nationality>American *</Nationality>
+	</CustomerID>
+	<CustomerID id="143">
+		<Name>Deborah Jordan</Name>
+		<City>Baltimore</City>
+		<State>Maryland</State>
+		<Nationality>Polish</Nationality>
+	</CustomerID>
+	<CustomerID id="144">
+		<Name>Bobby Burke</Name>
+		<City>Bethesda</City>
+		<State>Maryland</State>
+		<Nationality>Haitian</Nationality>
+	</CustomerID>
+	<CustomerID id="145">
+		<Name>Diane Davis</Name>
+		<City>Atlanta</City>
+		<State>Georgia</State>
+		<Nationality>Portuguese</Nationality>
+	</CustomerID>
+	<CustomerID id="146">
+		<Name>James Henderson</Name>
+		<City>Dayton</City>
+		<State>Ohio</State>
+		<Nationality>Korean</Nationality>
+	</CustomerID>
+	<CustomerID id="147">
+		<Name>Mark Mcdonald</Name>
+		<City>Pasadena</City>
+		<State>California</State>
+		<Nationality>Dutch</Nationality>
+	</CustomerID>
+	<CustomerID id="148">
+		<Name>Richard Jackson</Name>
+		<City>Charlotte</City>
+		<State>North Carolina</State>
+		<Nationality>American *</Nationality>
+	</CustomerID>
+	<CustomerID id="149">
+		<Name>Robert Fisher</Name>
+		<City>Berkeley</City>
+		<State>California</State>
+		<Nationality>Portuguese</Nationality>
+	</CustomerID>
+	<CustomerID id="150">
+		<Name>Julie Tucker</Name>
+		<City>Denver</City>
+		<State>Colorado</State>
+		<Nationality>Canadian</Nationality>
+	</CustomerID>
+	<CustomerID id="151">
+		<Name>Wanda Barnes</Name>
+		<City>Augusta</City>
+		<State>Georgia</State>
+		<Nationality>Kenyan</Nationality>
+	</CustomerID>
+	<CustomerID id="152">
+		<Name>Beverly Cruz</Name>
+		<City>Austin</City>
+		<State>Texas</State>
+		<Nationality>Turkish</Nationality>
+	</CustomerID>
+	<CustomerID id="153">
+		<Name>Lori Dixon</Name>
+		<City>Pensacola</City>
+		<State>Florida</State>
+		<Nationality>Finnish</Nationality>
+	</CustomerID>
+	<CustomerID id="154">
+		<Name>Aaron Hunter</Name>
+		<City>Corona</City>
+		<State>California</State>
+		<Nationality>Spanish</Nationality>
+	</CustomerID>
+	<CustomerID id="155">
+		<Name>Muffin Lord</Name>
+		<City>Lubbock</City>
+		<State>Texas</State>
+		<Nationality>American *</Nationality>
+	</CustomerID>
+	<CustomerID id="156">
+		<Name>Michelle Butler</Name>
+		<City>Tulsa</City>
+		<State>Oklahoma</State>
+		<Nationality>Australian</Nationality>
+	</CustomerID>
+	<CustomerID id="157">
+		<Name>Dorothy Ray</Name>
+		<City>Wichita</City>
+		<State>Kansas</State>
+		<Nationality>Venezuelan</Nationality>
+	</CustomerID>
+	<CustomerID id="158">
+		<Name>Bruce Rodriguez</Name>
+		<City>Cleveland</City>
+		<State>Ohio</State>
+		<Nationality>Irish</Nationality>
+	</CustomerID>
+	<CustomerID id="159">
+		<Name>Ryan Hanson</Name>
+		<City>Northridge</City>
+		<State>California</State>
+		<Nationality>Colombian</Nationality>
+	</CustomerID>
+	<CustomerID id="160">
+		<Name>Ryan Hanson</Name>
+		<City>Tucson</City>
+		<State>Arizona</State>
+		<Nationality>Polish</Nationality>
+	</CustomerID>
+	<CustomerID id="161">
+		<Name>Douglas Cole</Name>
+		<City>Hartford</City>
+		<State>Connecticut</State>
+		<Nationality>Korean</Nationality>
+	</CustomerID>
+	<CustomerID id="162">
+		<Name>Justin Schmidt</Name>
+		<City>Orange</City>
+		<State>California</State>
+		<Nationality>American *</Nationality>
+	</CustomerID>
+	<CustomerID id="163">
+		<Name>Ralph Jordan</Name>
+		<City>Spokane</City>
+		<State>Washington</State>
+		<Nationality>Cambodian</Nationality>
+	</CustomerID>
+	<CustomerID id="164">
+		<Name>Judith Baker</Name>
+		<City>Milwaukee</City>
+		<State>Wisconsin</State>
+		<Nationality>Norwegian</Nationality>
+	</CustomerID>
+	<CustomerID id="165">
+		<Name>Joyce Johnston</Name>
+		<City>New York City</City>
+		<State>New York</State>
+		<Nationality>Kenyan</Nationality>
+	</CustomerID>
+	<CustomerID id="166">
+		<Name>Cynthia Nichols</Name>
+		<City>Tallahassee</City>
+		<State>Florida</State>
+		<Nationality>Estonian</Nationality>
+	</CustomerID>
+	<CustomerID id="167">
+		<Name>Roy Price</Name>
+		<City>New York City</City>
+		<State>New York</State>
+		<Nationality>Peruvian</Nationality>
+	</CustomerID>
+	<CustomerID id="168">
+		<Name>Irene Griffin</Name>
+		<City>Pasadena</City>
+		<State>California</State>
+		<Nationality>Canadian</Nationality>
+	</CustomerID>
+	<CustomerID id="169">
+		<Name>Dorothy Richardson</Name>
+		<City>Houston</City>
+		<State>Texas</State>
+		<Nationality>Romanian</Nationality>
+	</CustomerID>
+	<CustomerID id="170">
+		<Name>Stephanie Robertson</Name>
+		<City>Wichita</City>
+		<State>Kansas</State>
+		<Nationality>Venezuelan</Nationality>
+	</CustomerID>
+	<CustomerID id="171">
+		<Name>Benjamin Wells</Name>
+		<City>Saint Petersburg</City>
+		<State>Florida</State>
+		<Nationality>German</Nationality>
+	</CustomerID>
+	<CustomerID id="172">
+		<Name>Chris Rice</Name>
+		<City>San Diego</City>
+		<State>California</State>
+		<Nationality>Salvadorian</Nationality>
+	</CustomerID>
+	<CustomerID id="173">
+		<Name>Roy Price</Name>
+		<City>Jamaica</City>
+		<State>New York</State>
+		<Nationality>Russian</Nationality>
+	</CustomerID>
+	<CustomerID id="174">
+		<Name>Edward Stone</Name>
+		<City>Minneapolis</City>
+		<State>Minnesota</State>
+		<Nationality>Cameroonian</Nationality>
+	</CustomerID>
+	<CustomerID id="175">
+		<Name>Raymond Baker</Name>
+		<City>Oklahoma City</City>
+		<State>Oklahoma</State>
+		<Nationality>French</Nationality>
+	</CustomerID>
+	<CustomerID id="176">
+		<Name>Ann Oliver</Name>
+		<City>El Paso</City>
+		<State>Texas</State>
+		<Nationality>Polish</Nationality>
+	</CustomerID>
+	<CustomerID id="177">
+		<Name>Andrew Stevens</Name>
+		<City>San Rafael</City>
+		<State>California</State>
+		<Nationality>Kenyan</Nationality>
+	</CustomerID>
+	<CustomerID id="178">
+		<Name>Phillip Roberts</Name>
+		<City>Indianapolis</City>
+		<State>Indiana</State>
+		<Nationality>German</Nationality>
+	</CustomerID>
+	<CustomerID id="179">
+		<Name>Robert Powell</Name>
+		<City>Cedar Rapids</City>
+		<State>Iowa</State>
+		<Nationality>Argentine / Argentinean</Nationality>
+	</CustomerID>
+	<CustomerID id="180">
+		<Name>Paula Jones</Name>
+		<City>Boston</City>
+		<State>Massachusetts</State>
+		<Nationality>Ethiopian</Nationality>
+	</CustomerID>
+	<CustomerID id="181">
+		<Name>Jack Gray</Name>
+		<City>Juneau</City>
+		<State>Alaska</State>
+		<Nationality>Russian</Nationality>
+	</CustomerID>
+	<CustomerID id="182">
+		<Name>Sasha Flo</Name>
+		<City>Fort Wayne</City>
+		<State>Indiana</State>
+		<Nationality>Ukrainian</Nationality>
+	</CustomerID>
+	<CustomerID id="183">
+		<Name>Cheryl Jenkins</Name>
+		<City>Rockford</City>
+		<State>Illinois</State>
+		<Nationality>Welsh</Nationality>
+	</CustomerID>
+	<CustomerID id="184">
+		<Name>Kathryn Taylor</Name>
+		<City>New York City</City>
+		<State>New York</State>
+		<Nationality>Swedish</Nationality>
+	</CustomerID>
+	<CustomerID id="185">
+		<Name>Kelly Kennedy</Name>
+		<City>Spartanburg</City>
+		<State>South Carolina</State>
+		<Nationality>Jordanian</Nationality>
+	</CustomerID>
+	<CustomerID id="186">
+		<Name>Gloria Lawrence</Name>
+		<City>Northridge</City>
+		<State>California</State>
+		<Nationality>Belgian</Nationality>
+	</CustomerID>
+	<CustomerID id="187">
+		<Name>Daniel Hanson</Name>
+		<City>Midland</City>
+		<State>Michigan</State>
+		<Nationality>Indonesian</Nationality>
+	</CustomerID>
+	<CustomerID id="188">
+		<Name>Richard Jackson</Name>
+		<City>Northridge</City>
+		<State>California</State>
+		<Nationality>Welsh</Nationality>
+	</CustomerID>
+	<CustomerID id="189">
+		<Name>Dorothy Ray</Name>
+		<City>Denver</City>
+		<State>Colorado</State>
+		<Nationality>Ecuadorian</Nationality>
+	</CustomerID>
+	<CustomerID id="190">
+		<Name>Justin Hall</Name>
+		<City>Charlotte</City>
+		<State>North Carolina</State>
+		<Nationality>Swedish</Nationality>
+	</CustomerID>
+	<CustomerID id="191">
+		<Name>Robert Powell</Name>
+		<City>Brockton</City>
+		<State>Massachusetts</State>
+		<Nationality>Tajik</Nationality>
+	</CustomerID>
+	<CustomerID id="192">
+		<Name>Michelle Hudson</Name>
+		<City>Saint Cloud</City>
+		<State>Minnesota</State>
+		<Nationality>Romanian</Nationality>
+	</CustomerID>
+	<CustomerID id="193">
+		<Name>Jean Reynolds</Name>
+		<City>Jacksonville</City>
+		<State>Florida</State>
+		<Nationality>Panamanian</Nationality>
+	</CustomerID>
+	<CustomerID id="194">
+		<Name>Angela Dean</Name>
+		<City>Topeka</City>
+		<State>Kansas</State>
+		<Nationality>Haitian</Nationality>
+	</CustomerID>
+	<CustomerID id="195">
+		<Name>Jack Reed</Name>
+		<City>Mesquite</City>
+		<State>Texas</State>
+		<Nationality>Indonesian</Nationality>
+	</CustomerID>
+	<CustomerID id="196">
+		<Name>Terry Burns</Name>
+		<City>Duluth</City>
+		<State>Minnesota</State>
+		<Nationality>Irish</Nationality>
+	</CustomerID>
+	<CustomerID id="197">
+		<Name>Beverly Lewis</Name>
+		<City>Apache Junction</City>
+		<State>Arizona</State>
+		<Nationality>Kenyan</Nationality>
+	</CustomerID>
+	<CustomerID id="198">
+		<Name>Bill Seletti</Name>
+		<City>Jamaica</City>
+		<State>New York</State>
+		<Nationality>Costa Rican</Nationality>
+	</CustomerID>
+	<CustomerID id="199">
+		<Name>Kathy Montgomery</Name>
+		<City>London</City>
+		<State>Kentucky</State>
+		<Nationality>Filipino</Nationality>
+	</CustomerID>
+	<CustomerID id="200">
+		<Name>Eric Wallace</Name>
+		<City>Evansville</City>
+		<State>Indiana</State>
+		<Nationality>Dutch</Nationality>
+	</CustomerID>
+	<CustomerID id="201">
+		<Name>Andrew Moore</Name>
+		<City>Sarasota</City>
+		<State>Florida</State>
+		<Nationality>Mexican</Nationality>
+	</CustomerID>
+	<CustomerID id="202">
+		<Name>Rebecca Watkins</Name>
+		<City>Jacksonville</City>
+		<State>Florida</State>
+		<Nationality>Peruvian</Nationality>
+	</CustomerID>
+	<CustomerID id="203">
+		<Name>Rose Harvey</Name>
+		<City>Lehigh Acres</City>
+		<State>Florida</State>
+		<Nationality>Honduran</Nationality>
+	</CustomerID>
+	<CustomerID id="204">
+		<Name>Diana Montgomery</Name>
+		<City>Riverside</City>
+		<State>California</State>
+		<Nationality>English</Nationality>
+	</CustomerID>
+	<CustomerID id="205">
+		<Name>Jane Larson</Name>
+		<City>Modesto</City>
+		<State>California</State>
+		<Nationality>English</Nationality>
+	</CustomerID>
+	<CustomerID id="206">
+		<Name>Philip Shaw</Name>
+		<City>Spokane</City>
+		<State>Washington</State>
+		<Nationality>Lithuanian</Nationality>
+	</CustomerID>
+	<CustomerID id="207">
+		<Name>Da'Shawn Jones</Name>
+		<City>Alexandria</City>
+		<State>Virginia</State>
+		<Nationality>Venezuelan</Nationality>
+	</CustomerID>
+	<CustomerID id="208">
+		<Name>Karen Nguyen</Name>
+		<City>Naperville</City>
+		<State>Illinois</State>
+		<Nationality>Danish (Dane)</Nationality>
+	</CustomerID>
+	<CustomerID id="209">
+		<Name>Jonathan Kim</Name>
+		<City>Lubbock</City>
+		<State>Texas</State>
+		<Nationality>American *</Nationality>
+	</CustomerID>
+	<CustomerID id="210">
+		<Name>Kelly Boyd</Name>
+		<City>Orlando</City>
+		<State>Florida</State>
+		<Nationality>Costa Rican</Nationality>
+	</CustomerID>
+	<CustomerID id="211">
+		<Name>Roy Price</Name>
+		<City>Lansing</City>
+		<State>Michigan</State>
+		<Nationality>Danish (Dane)</Nationality>
+	</CustomerID>
+	<CustomerID id="212">
+		<Name>Carl Rivera</Name>
+		<City>Atlanta</City>
+		<State>Georgia</State>
+		<Nationality>Salvadorian</Nationality>
+	</CustomerID>
+	<CustomerID id="213">
+		<Name>Betty Chapman</Name>
+		<City>Schenectady</City>
+		<State>New York</State>
+		<Nationality>Costa Rican</Nationality>
+	</CustomerID>
+	<CustomerID id="214">
+		<Name>Emily Williams</Name>
+		<City>Stamford</City>
+		<State>Connecticut</State>
+		<Nationality>Egyptian</Nationality>
+	</CustomerID>
+	<CustomerID id="215">
+		<Name>Rebecca Murphy</Name>
+		<City>Scottsdale</City>
+		<State>Arizona</State>
+		<Nationality>Cameroonian</Nationality>
+	</CustomerID>
+	<CustomerID id="216">
+		<Name>Henry Green</Name>
+		<City>Marietta</City>
+		<State>Georgia</State>
+		<Nationality>Ethiopian</Nationality>
+	</CustomerID>
+	<CustomerID id="217">
+		<Name>Carol James</Name>
+		<City>Denver</City>
+		<State>Colorado</State>
+		<Nationality>Nicaraguan</Nationality>
+	</CustomerID>
+	<CustomerID id="218">
+		<Name>Douglas Rivera</Name>
+		<City>Phoenix</City>
+		<State>Arizona</State>
+		<Nationality>Portuguese</Nationality>
+	</CustomerID>
+	<CustomerID id="219">
+		<Name>Rose Harvey</Name>
+		<City>Glendale</City>
+		<State>California</State>
+		<Nationality>Russian</Nationality>
+	</CustomerID>
+	<CustomerID id="220">
+		<Name>Jesse Harrison</Name>
+		<City>Birmingham</City>
+		<State>Alabama</State>
+		<Nationality>Italian</Nationality>
+	</CustomerID>
+	<CustomerID id="221">
+		<Name>Roy Hudson</Name>
+		<City>San Antonio</City>
+		<State>Texas</State>
+		<Nationality>Finnish</Nationality>
+	</CustomerID>
+	<CustomerID id="222">
+		<Name>Kathleen Clark</Name>
+		<City>Dayton</City>
+		<State>Ohio</State>
+		<Nationality>Ghanaian</Nationality>
+	</CustomerID>
+	<CustomerID id="223">
+		<Name>Linda Bennett</Name>
+		<City>Richmond</City>
+		<State>Virginia</State>
+		<Nationality>Korean</Nationality>
+	</CustomerID>
+	<CustomerID id="224">
+		<Name>James Chavez</Name>
+		<City>Hattiesburg</City>
+		<State>Mississippi</State>
+		<Nationality>Vietnamese</Nationality>
+	</CustomerID>
+	<CustomerID id="225">
+		<Name>Jimmy Moreno</Name>
+		<City>Denton</City>
+		<State>Texas</State>
+		<Nationality>Danish (Dane)</Nationality>
+	</CustomerID>
+	<CustomerID id="226">
+		<Name>Debra Perez</Name>
+		<City>Duluth</City>
+		<State>Georgia</State>
+		<Nationality>Saudi</Nationality>
+	</CustomerID>
+	<CustomerID id="227">
+		<Name>Samuel Wright</Name>
+		<City>New York City</City>
+		<State>New York</State>
+		<Nationality>Saudi</Nationality>
+	</CustomerID>
+	<CustomerID id="228">
+		<Name>Wanda Burton</Name>
+		<City>Chicago</City>
+		<State>Illinois</State>
+		<Nationality>Spanish</Nationality>
+	</CustomerID>
+	<CustomerID id="229">
+		<Name>James Bennett</Name>
+		<City>Virginia Beach</City>
+		<State>Virginia</State>
+		<Nationality>Costa Rican</Nationality>
+	</CustomerID>
+	<CustomerID id="230">
+		<Name>Alice Ellis</Name>
+		<City>Saint Paul</City>
+		<State>Minnesota</State>
+		<Nationality>Norwegian</Nationality>
+	</CustomerID>
+	<CustomerID id="231">
+		<Name>Kenneth Bennett</Name>
+		<City>Bronx</City>
+		<State>New York</State>
+		<Nationality>Kenyan</Nationality>
+	</CustomerID>
+	<CustomerID id="232">
+		<Name>Rich McPoor</Name>
+		<City>Jamaica</City>
+		<State>New York</State>
+		<Nationality>Korean</Nationality>
+	</CustomerID>
+	<CustomerID id="233">
+		<Name>Angela Dean</Name>
+		<City>New York City</City>
+		<State>New York</State>
+		<Nationality>Australian</Nationality>
+	</CustomerID>
+	<CustomerID id="234">
+		<Name>Julie Carroll</Name>
+		<City>Bethesda</City>
+		<State>Maryland</State>
+		<Nationality>New Zealander</Nationality>
+	</CustomerID>
+	<CustomerID id="235">
+		<Name>Douglas Cole</Name>
+		<City>San Angelo</City>
+		<State>Texas</State>
+		<Nationality>Salvadorian</Nationality>
+	</CustomerID>
+	<CustomerID id="236">
+		<Name>Jeremy Warren</Name>
+		<City>Gainesville</City>
+		<State>Florida</State>
+		<Nationality>Cameroonian</Nationality>
+	</CustomerID>
+	<CustomerID id="237">
+		<Name>Debra Perez</Name>
+		<City>Santa Barbara</City>
+		<State>California</State>
+		<Nationality>Swiss</Nationality>
+	</CustomerID>
+	<CustomerID id="238">
+		<Name>Marilyn Castillo</Name>
+		<City>Waco</City>
+		<State>Texas</State>
+		<Nationality>Iranian</Nationality>
+	</CustomerID>
+	<CustomerID id="239">
+		<Name>James Roberts</Name>
+		<City>Winston Salem</City>
+		<State>North Carolina</State>
+		<Nationality>Argentine / Argentinean</Nationality>
+	</CustomerID>
+	<CustomerID id="240">
+		<Name>Jerry Ward</Name>
+		<City>Oklahoma City</City>
+		<State>Oklahoma</State>
+		<Nationality>Lithuanian</Nationality>
+	</CustomerID>
+	<CustomerID id="241">
+		<Name>Cheryl Simpson</Name>
+		<City>Raleigh</City>
+		<State>North Carolina</State>
+		<Nationality>Ethiopian</Nationality>
+	</CustomerID>
+	<CustomerID id="242">
+		<Name>Jane Peters</Name>
+		<City>Amarillo</City>
+		<State>Texas</State>
+		<Nationality>Vietnamese</Nationality>
+	</CustomerID>
+	<CustomerID id="243">
+		<Name>Eric Wallace</Name>
+		<City>Baltimore</City>
+		<State>Maryland</State>
+		<Nationality>Israeli</Nationality>
+	</CustomerID>
+	<CustomerID id="244">
+		<Name>Carlos Armstrong</Name>
+		<City>Palm Bay</City>
+		<State>Florida</State>
+		<Nationality>Swedish</Nationality>
+	</CustomerID>
+	<CustomerID id="245">
+		<Name>Joseph Chapman</Name>
+		<City>Omaha</City>
+		<State>Nebraska</State>
+		<Nationality>Ukrainian</Nationality>
+	</CustomerID>
+	<CustomerID id="246">
+		<Name>Linda Lewis</Name>
+		<City>Fresno</City>
+		<State>California</State>
+		<Nationality>Swiss</Nationality>
+	</CustomerID>
+	<CustomerID id="247">
+		<Name>Arthur Long</Name>
+		<City>Albuquerque</City>
+		<State>New Mexico</State>
+		<Nationality>Japanese</Nationality>
+	</CustomerID>
+	<CustomerID id="248">
+		<Name>Victor Weaver</Name>
+		<City>Orange</City>
+		<State>California</State>
+		<Nationality>Welsh</Nationality>
+	</CustomerID>
+	<CustomerID id="249">
+		<Name>Jean Holmes</Name>
+		<City>Atlanta</City>
+		<State>Georgia</State>
+		<Nationality>Belgian</Nationality>
+	</CustomerID>
+	<CustomerID id="250">
+		<Name>Bruce Ward</Name>
+		<City>Indianapolis</City>
+		<State>Indiana</State>
+		<Nationality>Canadian</Nationality>
+	</CustomerID>
+	<CustomerID id="251">
+		<Name>Elizabeth Nichols</Name>
+		<City>Oakland</City>
+		<State>California</State>
+		<Nationality>German</Nationality>
+	</CustomerID>
+	<CustomerID id="252">
+		<Name>Lori Bowman</Name>
+		<City>Bethesda</City>
+		<State>Maryland</State>
+		<Nationality>Japanese</Nationality>
+	</CustomerID>
+	<CustomerID id="253">
+		<Name>Beverly Cruz</Name>
+		<City>Bradenton</City>
+		<State>Florida</State>
+		<Nationality>Ethiopian</Nationality>
+	</CustomerID>
+	<CustomerID id="254">
+		<Name>Marilyn Castillo</Name>
+		<City>Boston</City>
+		<State>Massachusetts</State>
+		<Nationality>American *</Nationality>
+	</CustomerID>
+	<CustomerID id="255">
+		<Name>Frank Rogers</Name>
+		<City>Albuquerque</City>
+		<State>New Mexico</State>
+		<Nationality>Dominican</Nationality>
+	</CustomerID>
+	<CustomerID id="256">
+		<Name>Hue Johnson</Name>
+		<City>Hartford</City>
+		<State>Connecticut</State>
+		<Nationality>Paraguayan</Nationality>
+	</CustomerID>
+	<CustomerID id="257">
+		<Name>Evelyn Harper</Name>
+		<City>Canton</City>
+		<State>Ohio</State>
+		<Nationality>Israeli</Nationality>
+	</CustomerID>
+	<CustomerID id="258">
+		<Name>Gregory Mason</Name>
+		<City>Evansville</City>
+		<State>Indiana</State>
+		<Nationality>Australian</Nationality>
+	</CustomerID>
+	<CustomerID id="259">
+		<Name>Maria Rogers</Name>
+		<City>Los Angeles</City>
+		<State>California</State>
+		<Nationality>Filipino</Nationality>
+	</CustomerID>
+	<CustomerID id="260">
+		<Name>Paula Carroll</Name>
+		<City>Amarillo</City>
+		<State>Texas</State>
+		<Nationality>Ethiopian</Nationality>
+	</CustomerID>
+	<CustomerID id="261">
+		<Name>Julia Dixon</Name>
+		<City>San Diego</City>
+		<State>California</State>
+		<Nationality>Saudi</Nationality>
+	</CustomerID>
+	<CustomerID id="262">
+		<Name>Matthew Snyder</Name>
+		<City>Bakersfield</City>
+		<State>California</State>
+		<Nationality>Japanese</Nationality>
+	</CustomerID>
+	<CustomerID id="263">
+		<Name>David Chavez</Name>
+		<City>Scottsdale</City>
+		<State>Arizona</State>
+		<Nationality>Colombian</Nationality>
+	</CustomerID>
+	<CustomerID id="264">
+		<Name>David Morris</Name>
+		<City>Baltimore</City>
+		<State>Maryland</State>
+		<Nationality>Ghanaian</Nationality>
+	</CustomerID>
+	<CustomerID id="265">
+		<Name>Adam Hamilton</Name>
+		<City>New York City</City>
+		<State>New York</State>
+		<Nationality>Guatemalan</Nationality>
+	</CustomerID>
+	<CustomerID id="266">
+		<Name>Chris Rice</Name>
+		<City>Charlotte</City>
+		<State>North Carolina</State>
+		<Nationality>Afghan</Nationality>
+	</CustomerID>
+	<CustomerID id="267">
+		<Name>Jason Wilson</Name>
+		<City>Boise</City>
+		<State>Idaho</State>
+		<Nationality>Bolivian</Nationality>
+	</CustomerID>
+	<CustomerID id="268">
+		<Name>James Roberts</Name>
+		<City>Syracuse</City>
+		<State>New York</State>
+		<Nationality>Ethiopian</Nationality>
+	</CustomerID>
+	<CustomerID id="269">
+		<Name>Wayne Gomez</Name>
+		<City>Birmingham</City>
+		<State>Alabama</State>
+		<Nationality>Dominican</Nationality>
+	</CustomerID>
+	<CustomerID id="270">
+		<Name>James Cruz</Name>
+		<City>Bradenton</City>
+		<State>Florida</State>
+		<Nationality>Iranian</Nationality>
+	</CustomerID>
+	<CustomerID id="271">
+		<Name>Arthur White</Name>
+		<City>Pittsburgh</City>
+		<State>Pennsylvania</State>
+		<Nationality>Danish (Dane)</Nationality>
+	</CustomerID>
+	<CustomerID id="272">
+		<Name>Arthur Morris</Name>
+		<City>Colorado Springs</City>
+		<State>Colorado</State>
+		<Nationality>Moroccan</Nationality>
+	</CustomerID>
+	<CustomerID id="273">
+		<Name>Jimmy Moreno</Name>
+		<City>Atlanta</City>
+		<State>Georgia</State>
+		<Nationality>Argentine / Argentinean</Nationality>
+	</CustomerID>
+	<CustomerID id="274">
+		<Name>Robert Powell</Name>
+		<City>Houston</City>
+		<State>Texas</State>
+		<Nationality>Nicaraguan</Nationality>
+	</CustomerID>
+	<CustomerID id="275">
+		<Name>Henry Anderson</Name>
+		<City>Sioux Falls</City>
+		<State>South Dakota</State>
+		<Nationality>Moroccan</Nationality>
+	</CustomerID>
+	<CustomerID id="276">
+		<Name>Ernest Robinson</Name>
+		<City>Toledo</City>
+		<State>Ohio</State>
+		<Nationality>Taiwanese</Nationality>
+	</CustomerID>
+	<CustomerID id="277">
+		<Name>Emily Williams</Name>
+		<City>Cleveland</City>
+		<State>Ohio</State>
+		<Nationality>Costa Rican</Nationality>
+	</CustomerID>
+	<CustomerID id="278">
+		<Name>Arthur Reed</Name>
+		<City>Memphis</City>
+		<State>Tennessee</State>
+		<Nationality>Chinese</Nationality>
+	</CustomerID>
+	<CustomerID id="279">
+		<Name>Harold Anderson</Name>
+		<City>Kissimmee</City>
+		<State>Florida</State>
+		<Nationality>Romanian</Nationality>
+	</CustomerID>
+	<CustomerID id="280">
+		<Name>Pamela Carroll</Name>
+		<City>Jeffersonville</City>
+		<State>Indiana</State>
+		<Nationality>American *</Nationality>
+	</CustomerID>
+	<CustomerID id="281">
+		<Name>David Chavez</Name>
+		<City>El Paso</City>
+		<State>Texas</State>
+		<Nationality>Latvian</Nationality>
+	</CustomerID>
+	<CustomerID id="282">
+		<Name>Ryan Romero</Name>
+		<City>San Jose</City>
+		<State>California</State>
+		<Nationality>Colombian</Nationality>
+	</CustomerID>
+	<CustomerID id="283">
+		<Name>Paula Carroll</Name>
+		<City>Fullerton</City>
+		<State>California</State>
+		<Nationality>Filipino</Nationality>
+	</CustomerID>
+	<CustomerID id="284">
+		<Name>Russell Snyder</Name>
+		<City>Pensacola</City>
+		<State>Florida</State>
+		<Nationality>Peruvian</Nationality>
+	</CustomerID>
+	<CustomerID id="285">
+		<Name>Jason Wilson</Name>
+		<City>Montgomery</City>
+		<State>Alabama</State>
+		<Nationality>Uruguayan</Nationality>
+	</CustomerID>
+	<CustomerID id="286">
+		<Name>Adam Hamilton</Name>
+		<City>Corpus Christi</City>
+		<State>Texas</State>
+		<Nationality>Ethiopian</Nationality>
+	</CustomerID>
+	<CustomerID id="287">
+		<Name>James Bennett</Name>
+		<City>Reno</City>
+		<State>Nevada</State>
+		<Nationality>Welsh</Nationality>
+	</CustomerID>
+	<CustomerID id="288">
+		<Name>David Richardson</Name>
+		<City>Huntington</City>
+		<State>West Virginia</State>
+		<Nationality>Dutch</Nationality>
+	</CustomerID>
+	<CustomerID id="289">
+		<Name>Rich McPoor</Name>
+		<City>Pittsburgh</City>
+		<State>Pennsylvania</State>
+		<Nationality>Lithuanian</Nationality>
+	</CustomerID>
+	<CustomerID id="290">
+		<Name>Joyce Hughes</Name>
+		<City>Las Vegas</City>
+		<State>Nevada</State>
+		<Nationality>Cambodian</Nationality>
+	</CustomerID>
+	<CustomerID id="291">
+		<Name>Nicole Murphy</Name>
+		<City>Baltimore</City>
+		<State>Maryland</State>
+		<Nationality>Chilean</Nationality>
+	</CustomerID>
+	<CustomerID id="292">
+		<Name>Joyce Hughes</Name>
+		<City>Saint Petersburg</City>
+		<State>Florida</State>
+		<Nationality>Swedish</Nationality>
+	</CustomerID>
+	<CustomerID id="293">
+		<Name>Maria Sanchez</Name>
+		<City>Hicksville</City>
+		<State>New York</State>
+		<Nationality>Greek</Nationality>
+	</CustomerID>
+	<CustomerID id="294">
+		<Name>Jane King</Name>
+		<City>Northridge</City>
+		<State>California</State>
+		<Nationality>Belgian</Nationality>
+	</CustomerID>
+	<CustomerID id="295">
+		<Name>Hue Johnson</Name>
+		<City>Vancouver</City>
+		<State>Washington</State>
+		<Nationality>Mexican</Nationality>
+	</CustomerID>
+	<CustomerID id="296">
+		<Name>Rebecca Watkins</Name>
+		<City>Billings</City>
+		<State>Montana</State>
+		<Nationality>Kenyan</Nationality>
+	</CustomerID>
+	<CustomerID id="297">
+		<Name>Jesse Harrison</Name>
+		<City>New Orleans</City>
+		<State>Louisiana</State>
+		<Nationality>Cambodian</Nationality>
+	</CustomerID>
+	<CustomerID id="298">
+		<Name>Karen Nguyen</Name>
+		<City>Houston</City>
+		<State>Texas</State>
+		<Nationality>Puerto Rican</Nationality>
+	</CustomerID>
+	<CustomerID id="299">
+		<Name>Diane Davis</Name>
+		<City>New York City</City>
+		<State>New York</State>
+		<Nationality>Korean</Nationality>
+	</CustomerID>
+	<CustomerID id="300">
+		<Name>Cynthia Nichols</Name>
+		<City>Erie</City>
+		<State>Pennsylvania</State>
+		<Nationality>Panamanian</Nationality>
+	</CustomerID>
+</Customers>
